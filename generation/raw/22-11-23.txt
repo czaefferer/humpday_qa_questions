@@ -1,0 +1,29 @@
+0:00 Intro
+1:37 Start
+12:28 Q: What is a navigation in terms of app architecture? Is it UI, business logic, app state, something else? - echedev -
+20:48 ​​Q. Hi, great work everyone!!, with regards to using dart as backend/server on docker, how can scalability be handled? - Maugost Okore
+25:56 ​Q: What's you fav preferable State Management and Why? - DEATH GOD
+27:00 ​Q can we use npm package in flutter web? - ​7mada
+29:24 ​Q Would you use bang operator, or scoped type promotion? eg. `if (foo != null && foo!.isActive) foo!.cancel();` vs `final bar = foo;` - SunlightBro
+32:34 ​Q: What is the relationship between declarative routing, deep linking and dynamic links. They seem to be different words but mean the same thing 🤷, I don't really know - David Nwaneri
+37:13 ​Q: I have an HTML content, if not using scroll but paging, how can I split this content into pages? - Binh Huynh
+42:16 ​Q: Is there any way to detect which screen under, when an Alert dialog pops up on app screens.. - Hashan Kannangara
+45:50 ​Q: how to image background using flutter without api. i need to remove imafe background using flutter automatically. - karamat subhani
+49:28 ​Q extension of previous question, like bg remover website is one of them. i need to remove image background using flutter. - karamat subhani
+50:20 ​Q: How to Hide API key in the code? - DEATH GOD
+54:16 ​Q: using navigator 1, is there a reliable way to pop a pushed page? Pop sometimes closes a drawer, sometimes a dialog, etc. so is there a failsafe foolproof silver bullet way to pop the ACTIVITY - cekroz
+55:53 ​Q: Any good tips/links on getting started using API authentication and for instance management of the bearer token etc. ? - Claus Munch
+...​Trying to use a websites auth and then using the API on that site. - Claus Munch
+58:41 ​Q: Im back-end developer. Recently, I decided to switch to app development using Flutter. What projects do you suggest to catch HR and head hunter's eyes? What should I do to get a job in Flutter? - Amir
+1:02:57 ​Q - Is there a way to access local storage through a Flutter web app? I want to be able to store/access photos on a users computer instead of in the cloud - Michael Maitlen
+1:07:32 ​Q: What is the best way to download a big zip file from Firebase Storage in flutter web ? - Isa Isa
+1:11:18 ​Q: It is common to say about Flutter's widget tree. Some people emphasizes that it isn't correct, assuming the tree as an actual data structure. Should a true Flutter expert say "widget tree"? 🙂 - echedev -
+1:13:05 ​Q: how to make clickable(url,emails,file links) in html widgets. i want to download file using clicking url in html. how to do that? - karamat subhani
+1:13:46 ​Q: There is an issue with the image_picker package on android. There is always a possibility that the app will be killed when using it... - David Nwaneri
+​...The reason is explained on the doc. But i can't find a way around it. Help - David Nwaneri
+1:15:42 ​Q: Are there more examples from Toyota's embedder in the works? - Pako St
+1:16:11 ​Q: i used flutter_download, i used official package example. but there is not progress bar updated on ui main thread even they used isolate. can you review example of flutter_downloader package github - karamat subhani
+1:16:48 ​Q: Should I use GlobalKey, to use method inside a child widget vice versa parent widget? - Roberto Potrus
+1:18:14 ​Q:suppose, i want to remove image. can you tell me any public model - karamat subhani
+1:18:25 Q: how to detect the offline if data connection on but data not recevied - Tech1st
+1:20:31 Outro

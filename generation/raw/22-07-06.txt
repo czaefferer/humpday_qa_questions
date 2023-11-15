@@ -1,0 +1,25 @@
+0:00 Intro
+2:29 Start
+6:03 Introduction to compilers
+19:05 Introduction to BF
+33:34 Appearance Majid Hajian
+35:55 Writing a BF interpreter in Dart
+1:02:25 Running and debugging a simple program
+1:21:48 Running and debugging "The Lost Kingdom"
+1:35:51 Adding command line arguments
+1:43:09 BF to Assembly compiler in Go
+1:45:56 ​Q: can you explain inherited widget in simple way - Mas
+1:50:41 ​Q: A long tangent but is it possible to keep persistent connection with firestore - HAWSI AADMI
+1:51:21 ​Q: how to solve cache issue on flutter web - Ajay Kamble
+1:53:35 ​Q: which is the best architectural pattern? - harsh joshi
+1:54:59 ​Q: Considering an embedder is developed for flutter framework. Could you please tell whether flutter can be used for developing apps gor 32 bit embedded systems or not? - Vijay Goutham
+1:57:35 ​Q: how can i write dart language grammer? - Mas
+2:01:46 ​Q: How can create a container to host a flutter website on a dart server which can hosted elsewhere except gcloud? - Maugost Okore
+2:03:19 ​Q: flutter gives no option to read a file from assets synchronously which forces us to use future builders. Is there a performance impact to this? - cekroz
+​...Q: (follow up) If there's no impact, should E-VE-RY widget requiring results from medium-heavy computations be built with future builders? - cekroz
+2:07:49 ​Can we have an episode dedicated to custom paint and animations? - gnuion
+2:09:45 ​Q: Can you share your first encounter with flutter? And how was your experience? - Aditya K
+2:16:00 ​Q: i always get stuck and has no idea how the things works what an doing wrong how should i go into solving a problem or issue in an application - Adil Ayoub
+2:24:12 ​Q: Why does not generic Future<T> assign work? i Get this error: A value of type 'Future<T>?' can't be assigned to a variable of type 'Future<T>?'. - Roberto Potrus
+2:25:49 ​Q: How can I export a firebase query to CSV? - Isa Isa
+2:27:14 Outro

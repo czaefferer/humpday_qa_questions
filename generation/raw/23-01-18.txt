@@ -1,0 +1,40 @@
+0:00 Intro
+2:45 Start
+9:26 ​Q What are the methods that are called when navigating back to a specific screen ? - Mohamed hamde
+14:30 ​Q : is it possible to zoom on a specific area of a webp image ? I'm using photo view to zoom the image. But how to zoom at a specific area in the image ? - Anchal
+19:52 ​Q: Flutter user vs Flutter developer - Md. Yeasin Sheikh
+...​I mean, If i use android then I am android user. Also If someone use my app we call them app-user. While some start learning flutter and using, should we call him flutter user or flutter dev? - Md. Yeasin Sheikh
+22:18 ​Q: when a flutter London internship program opens for 2023? - Ruqaiya Sattar
+23:07 ​Q: How do fonts render with OpenGL on the embedded engine? - The Computer Guy
+25:45 ​Q: What is the status of native Windows menus for desktop apps. I see that they work for Mac but not Windows. There is still the menubar github package - Kevin Moore
+26:30 ​Q: Would you recommend any packages to make layout 'easier', I've recently noticed Boxy which kind of looks interesting, have you had any experience in using it or anything similar? - atreeon
+31:58 ​Q. Is there a flutter certificate program you can recommend? - Benjamin Addai-Boateng
+35:15 ​Q: I saw the most flutter development tutorials are on flutter, amplifier etc but real Job requirements to retrieve data from express JS server. Here students locked. Is there any resource to learn it - Ruqaiya Sattar
+37:43 ​Q: how can we integrate flutter with Arduino Uno ? - Hafeez Rana
+47:12 ​Q i am thinking of an app where the app's background is transparent.(Kindof like overlay app where i can see your android phone wallpaper). Is it possible in flutter or should I look for native code? - Vibhanshu Chawla
+51:52 ​Q: where are flutter swag games? 😋😅 - Ruqaiya Sattar
+52:28 ​Q: What is the best way to show a snackbar and switch or navigate a page in the background while keeping the snackbar? - Mostafijul Islam
+55:00 ​Q: (working practices question, not Flutter) How do you peeps learn and refresh your knowledge? How much time do you set aside? Do you just learn as you go or do you dedicate time? - atreeon
+1:11:49 ​Q: Any sneak peeks you can give us about Flutter Forward? 😉 - Julian Coronado
+1:16:17 ​q: which state-management solution are you all using? No judgement, just pick the one that you most recently used in a project. - Tommie Podzemski
+1:18:08 ​Q: Is there any way to give constraints to a sliverWidget?? - Mostafijul Islam
+1:21:55 ​Q: Currently I use bloc observers + notifications listeners to assemble data from multiple api's for analytics. Is there any other approach or best practices I am missing? - Abhilash Chandran
+1:31:02 ​Q: Hey! Is there any update on static metaprogramming? According to the Dart roadmap it will be released after Dart 3 (mid 23). Any ideas for a possible date or what will the first version include? - Nikos Portolos
+1:32:11 ​Q: Does flutter support AppleTV ? - Tony Thomas
+1:34:06 ​Q: Is there any other services like Render, Railway (Heroku alternative) that we can deploy our rest api made with Dart for learning purpose/hoby projects? - Abdullah Al Mahmud
+1:36:53 ​Q: Does Flutter have better performance than React Native especially when accessing native functionalities such as fingerprint, GPS, camera, etc? - Dinesh Srini
+1:39:23 ​Q: flutter or react-native as both support android and ios.? - Shivam Purohit
+1:40:05 ​Q: Referring to Android WearOS, how does one usually approach designing a companion app? - TekExplorer
+1:42:11 ​Q: "Explain it to me like I'm 5" will you ever start again this series? The OG @Scott - Abdullah Al Mahmud
+1:42:37 ​Q: Will we see new good backend framework in 2023 ? - Muhammad Omer
+1:43:59 ​Q:I am curious about Simon's whiteboard content. - Md. Yeasin Sheikh
+1:47:07 ​Q: does Win32 package work in iOS? If not, anything equivalent? - Mtho
+1:49:54 cont. ​Q: Will we see new good backend framework in 2023 ? - Muhammad Omer
+1:53:48 Interlude
+1:59:26 Live Coding: Zooming Image - Gist: https://gist.github.com/slightfoot/bf9c7ad68f2ac0718ce3a2ff167ec2e3
+2:03:09 ​Q: what is fragment shaders in flutter? what a use case for them? - Nidal Bakir
+2:04:50 ​Simon, why do you have a @immutable in your stateless widgets? Mine don't :) - aytunch
+2:12:48 cont. Live Coding: Zooming Image
+2:16:23 Will it be possible to see Firebase Crashlytics errors within the IDE with the flutter plugin like the "App Quality Insights" in Android Studio? - Sirob
+2:16:50 cont. Live Coding: Zooming Image
+3:48:57 Outro

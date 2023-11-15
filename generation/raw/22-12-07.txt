@@ -1,0 +1,38 @@
+0:00 Intro
+3:46 Start
+7:51 ​Q: (Dart server)Why caching (Redis) so important in server management? How can 1 perform efficient caching ? - Maugost Okore
+11:00 ​Q: Just as 1 can get the progress of a file download or upload, is it possible to get the progress of other forms of http request ? Other than when uploading or downloading files? - Maugost Okore
+12:31 ​Q. (Dart server) How can 1 efficiently save files (Superbase, PostgresEtc) - Maugost Okore
+16:11 ​Q: Do flutter have life cycle method - Akshat Tamrakar
+18:49 ​Q: Is there a way for a Dart program to ask which version of Dart it was compiled with? Same with Flutter, introspect which framework version it was compiled with? If not, why don't they add a way? - Mike Rydstrom
+25:54 ​Q: If a package has a dependency like hydrated_bloc has hive and I am also and I'm using hive, does that mean there are 2 separate instances of hive in my app & does it affect app installation size? - AAA
+27:28 ​Q: I need to integrate with headless CMS (StoryBlok) that only has an NPM package for their bridge. I found the JS package on pub, but I'm trying to figure out how to actually import the package. - Matthew Jones
+36:05 ​Q: Why flutter app on macos full screen mode start lagging when start using animations - ali Hassan
+42:08 Q: Drawbacks of Flutter vs Native & drawbacks of Flutter vs React Native (I need this for my documentation 😅) & benefits - R VB
+49:33 Q: i want to have some clarification with ?. and !. while using nullable variable for eg: y = x?.name vs y = x!.name - prabin maharjan
+​55:04 ​Q: How to create a slidable scale in flutter that upon sliding increases value - DEATH GOD
+1:01:38 ​Q: How to upload multiple images (min 10) on S3 bucket? I am sending them with request to lambda but it had 6 mb limit so need better solution? - AAA
+1:02:54 ​Q: Whats your preferred method to cache images for offline use? (ie profile image) - Pako St
+1:05:49 ​Q: Is Passwordless Login better than MFA as security matter ? - Isa Isa
+1:10:03 ​Q: Is it possible to control/detect swipe gesture of user? Could you explain a bit please? - Amir
+1:16:01 ​Q : Do you have to use a Stateful Widget to call didChangeAppLifeCyle & detect if app is in background or foreground or can it be called with aStateless widget and a state management like BLoC - R VB
+1:17:52 ​Q: What are disadvantages of Flutter Web against the web rivals ? - Isa Isa
+1:19:36 ​Q:Does the differed loading will boost the performance of loading the flutter web page equal or closer to react js? - Puspharaj Selvaraj
+1:21:56 ​Q: SEO is pretty impossible on flutter web apps... there are a few packages that aims to improve this though marginally... do you know how else SEO can be improved? - g j
+1:24:20 ​Q : Riverpod (Dart only) how to pass riverpod container to classes to use providers anywhere ? In flutter we have WidgetRef but on dart what we can use ? - Shreeman Arjun Sahu
+1:25:18 ​Q: do we have any security test for flutter that we can use in CI/CD - Ajay k
+...​security test for Android application - Ajay k
+1:27:28 ​Q: why flutter can build android app on arm64 Chromebook but can on arm64 macOS. - Anil Beniwal
+1:30:51 ​Q: Can you tell a bit about record in dart, is it similar to kotlin data class? - zakaria hossain
+1:37:41 ​Q: I have child within a ListView the child needs to receive gestures but I'd like to disable the parent ListView scrolling when gesturing inside the child - R VB
+...​I need all gestures but I want to disable the vertical scrolling - R VB
+...​It's a streetview view which need all gestures - R VB
+1:41:15 ​Q : riverpod cancel token(dio) implementation not working as expected after cancelling to start a new request !! - Shreeman Arjun Sahu
+1:42:35 Q; Thoughts on Chat GPT - DEATH GOD
+1:43:53 ​ChatGPT: Q: Is it possible to transfer an widget from one page to another. - Mostafijul Islam
+1:55:56 ​Q : What are some use cases of isolates in a flutter app, is it viable to put everything except widgets into a separate isolate? - Go Corona
+1:56:25 ChatGPT cont.
+2:07:48 ​Q: How to implement a recorder button Widget with pulsing background. Currently unable to manage the setState of starting/stopping the pulsing animation, while executing the onPressed handler. - Elvis Ninan
+2:10:27 ChatGPT cont.
+2:11:45 ​Q: Can you suggest some books building animation(math-logic) @Simon - Md. Yeasin Sheikh
+2:12:41 Outro

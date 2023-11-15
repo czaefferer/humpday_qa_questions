@@ -1,0 +1,38 @@
+0:00 Intro
+3:51 Start
+14:53 ​Q: have you checked out Remi's latest "custom_lint" package for creating custom lints? - Elijah Luckey
+15:29 ​Q: where the best place to put API_KEY for API ?? - Achmad Ilham
+​18:45 Q: is it possible to capture 4-6 wall images of a room(1 at a time) and show them in grid? (don't want images to be saved locally) - Akshat Tamrakar
+19:54 ​Q: How to test native code within Flutter app? - Khader Murtaja
+21:32 ​Q: Are you supposed to use Stateless Widgets only when using a state management library like riverpod? Or are the still scenarios in which you should use Stateful Widgets? - Craxx
+27:29 ​Q: I've applied to the Flutter GDE but unfortunately I've NOT selected .. I'm trying to be the first Flutter GDE in Gaza! So, what is the criteria? - Khader Murtaja
+35:45 ​Q: Randal, what was your Flutter/Dart GDE journey like? What would tips would you leave with someone trying to become a GDE themselves? - Elijah Luckey
+​41:32 Q: How can I develop a REST API in Dart? What package is used? - endel
+45:11 ​Q: What your prefer way to do something async in initState? pastebin . com/ xeUJpbqc - Dương Bùi
+52:57 ​Q: You emphasized on calling super.initState() first not last. What's the difference ? - Okello Gerald
+57:44 ​Q: setState call sets the state of the entire app or just the state of the stateful widget in which it was called - Dave Parks
+59:15 Appearance Simon
+1:01:18 ​Q: where the best place to put API_KEY for API ?? - Achmad Ilham
+1:05:33 ​Q: have you checked out Remi's latest "custom_lint" package for creating custom lints? - Elijah Luckey
+1:06:42 ​Q About figma to flutter. Font sizes and font weights look different on the emulator. How to makethese the same as on those in the design ? - Okello Gerald
+1:09:40 ​Q: Whats the best way to improve an app's performance when trying to render a high number (~1000) of images in listview.builder? - Mtho
+1:11:42 ​Q: I am querying firestore with collectiongroup query. but I can't find documents paths in the snapshots. how can I get them? - Pia
+1:15:50 ​Q: Is there any way to track screen rendering time of Flutter App in Firebase Performance? Currently it only show android activity name as one screen. - Milan Surelia
+1:19:58 ​Q: Is it possible to protect a flutter app from being reverse engineered when it is in already in production or someone's phone? - Mtho
+1:22:27 ​Q: How to can create a flutter web w/ firebase and with flavors ? thanks 👍 - Ramón Estay
+1:24:24 ​Q: has any error in put Future.microtask on init state method? the purpose is call api before load screen - Enzo
+1:26:53 ​Q: How do I know when I am good enough to apply for a job? - gnuion
+1:29:23 ​Q: What would you guys suggest as reference to start creating Isolates (parallelism) for Flutter Web? - Rebar
+1:33:53 ​Q: What exactly does it mean that "everything is a widget"? What exactly is a "widget"? - Mendel
+​1:38:55 Q: I would like to become a flutter(Android) programer. Should I be aware of Java or kotlin ? - Frederic Chang
+1:41:43 ​Q: best way to test application before final release - Bhat
+1:46:43 ​Q how to access and save the cookies from the web view? - Ruchit Mavani
+1:49:51 Q: How to make a resuable FutureBuilder, such as we can pass the future the builder directly in a statlesswidget? - Roberto Potrus
+1:50:52​ Q: Is there a chance to get a Remote Job in a country like UK, if a person is located in a asian country? - Usama Karim
+1:53:04 ​Q: Dart is still intented to kill Javascript? Flutter is a strategy to kill Javascript? - Pia
+1:54:24 ​Q: what are some approaches of doing app monitoring and gathering metrics without using firebase tools? - Mtho
+1:56:52 ​Q: Is it possible to create a sdk for a desktop application to create plugins that are loaded dynamically? I would like to add a plugin written in java to special folder to load it in the application. - Bartek
+1:59:53 ​Q: How does ValueNotifier compete with StateProvider in perfomance. If i have dropdown menu and pass the value to the ValueNotifier. I only use Provider if i would like to pass the values around. - Roberto Potrus
+2:03:35 ​Q: What is the best way to perform an action from within a viewModel on, for example, a TextEditingController or ScrollController? Stream? Custom Notification class such as ScrollNotification? - Bartek
+2:06:42 ​Q: Do you do code reviews? - Usama Karim
+2:08:40 Outro

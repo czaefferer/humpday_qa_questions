@@ -1,0 +1,32 @@
+0:00 Intro
+1:54 Start
+6:49 About Impeller and Flutter release cycles
+15:16 ​Q: What's the over/under on show length today? - John Wiese
+16:57 ​Q: Any tips for optimizing custom renderBoxes for best performance? - Gabriel Damasceno
+24:14 ​Q: You mentioned Slack. Are there other ways to communicate beyond YouTube? - bille
+25:48 ​Q: How can I get a local offset for a Draggable that was accepted in a DragTarget? Currently, the height of the appbar influences the dy offset value :/ - marius-h
+​33:53 Q: When can we expect full Impeller support - 7mada
+34:27 ​Q - what is best/recommended approach to use logger - 7mada
+39:54 ​Q @simon, someone can decompile my app and see the logging... on a flutter app? - Mike Mannox
+48:16 ​Q: While doing i10n, in arb file I can not add these brackets {} together as escape 2 normal characters (not parameter). With use-escaping: true it still need a letter between them, ex: '{'@'}' - Binh Huynh
+50:30 ​Q : is there any possible connection between BARD and Flutter projects ? - Isa Isa
+1:00:48 ​Q: looking to build a flutter game project in open source, would like to chose a state management which could bring in lot of contributions, Use Provider/RiverPod/GetX ..I pref RiverPod.. good decison - Hrithik Tiwari
+1:05:55 ​Q : when developing a package for web using js, is there a way to upload and integrate the js files to flutter projects that use's the package without any modification - 7mada
+1:12:25 ​​Q: how do you architect your mobile apps? is it based on your state management package? Clean architecture? any tips or books I could learn more about it? - Eduardo Lopes
+1:22:20 ​Q: if you are taking interview of flutter developer, what question will you ask? (please tell 1 question each) - OmeN
+1:27:14 ​Q: What is RealmDB and how is it different from Hive, issar and sqlite? - Akshat Tamrakar
+1:34:45 ​Q: (GoRouter) On web context.pop() is not working if I reload the page? I think this is due to page history stack getting deleted on page reload, what is the solution? - Akshat Tamrakar
+1:39:31 ​Q: There used to be a compiled list of questions asked in the comment section per episode; really handy searching for questions that were already asked. Any chance that could be done going forward? - bille
+1:40:18 ​Q: What features you wish to flutter teams to introduce in future flutter release? - OmeN
+1:47:35 ​Q: What can Flutter Web retrieve from a mobile device? I am trying to anonymously ID each unique user. Currently, I only make use of uid, which changes from one browser session to another. - bille
+1:52:59 ​Q: Is it better to do multiple painting operations on simple Paths, or just one but for a complex Path? - Gabriel Damasceno
+1:56:58 ​Q: how to use firebase App Check with Play Integrity on Android? any plugin available ? - Tech1st
+1:58:05 ​Q: Just for Fun. What television shows or movies have used/showed or featured Flutter in any capacity? - John Cumming
+1:59:56 Q: huwavi mobile not support flutter GoogleMap widget, any way to implement supported googlemap? - Tech1st
+2:02:09 Q: Is there a recommended approach to secure the GCP service account json credentials/ GCP APiKey in flutter? - Abhilash Chandran
+2:06:00 ​Q. what are some best practices when setting the gradle and .plist file , setting up android and ios environment ? - Train of Thought
+2:08:09 ​Q: Are private packages the best way to include a feature like a calendar in different apps? - Richard Rouzeau
+2:09:36 ​Q: You guys just touched on Classes, it reminds me of the next features of dart, 1. Class modifiers and 2. Inline Classes what do you guys think about it, great addition? - Júlio Tati
+2:13:35 ​Q: Separating UI from Business Logic, do you prefer to place Navigator.of in UI page or Bus. Logic class? If in Bus. Logic, do you pass context to method Or use navigatorKey currentState pushNamed() - Marco Napoli
+2:16:45 ​Q:Regarding platform plugin packages for windows platform . I know that we can interface with the windows platform using C++. I would like to write my platform code in C# . Is this possible ? - Vipin Kumar Kashyap
+2:18:10 Outro

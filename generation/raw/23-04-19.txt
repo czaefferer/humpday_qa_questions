@@ -1,0 +1,33 @@
+0:00 Intro
+3:09 Start
+10:36 Q: How can I optimize the loading time of a Flutter web app? Any tips? (I tried differing, preconnect, minifying...) But I want more 😅 - DJAMALEDDINE BELILET
+... Q: Danielle does your Flutter Forward video show that? - Stef Patterson
+14:54 Q: How to handle errors and exceptions throught the app specially from apis efficiently? How to know when to catch or throw an exception/error? - अ
+21:27 Q what do you think about Compose iOS, Can it be a good alternative to Flutter? - Marjan Dn
+24:33 Q; Im doing something like a sprite sheet to hold samples of paint swatches, a jpg of a collection of 200x200 images. I’m wondering how big I should cap the size of the master jpg. - Michael Maitlen
+32:39 Q: Hi Remi! Are you working on new features/lint rules for Riverpod? 👀 Thanks for the time you spend in this awesome SM solution ! - Gonzalo Gauto
+34:36 Q: have any of you had success with getting Github Copilot to create Dart code within Android Studio? (just trying to test it out due to curiosity, but can't get it to generate anything) - PowerDroid
+37:29 cont. Q: Hi Remi! Are you working on new features/lint rules for Riverpod? 👀 Thanks for the time you spend in this awesome SM solution ! - Gonzalo Gauto
+40:05 Q: riverpod state caching with offline support ? - Shreeman Arjun Sahu
+40:40 Q: I always here different opinions on this, so I wanted to ask what you think: Generated files, especially when using packages like freezed. Should they be committed or not? - LucasXLucas
+... So we should commit our pubspec.lock? - Gideon Ogbonna
+50:30 Q: In my layout I have a widget on the stack floating, in the back there are some widgets that should have the same height as the floating widget. How can I make both widgets have the same height? - Adonis Santos
+53:05 Q : is it possible to show only 4.5 or 5.5 or 6.5 items of listview on screen? means how to handle false bottom in listview or achieve logical ending in listview? - Anchal
+1:00:15 Q: Best way to log things in flutter? I don't want to use any external packages. Is it efficient to use flutter's log in diff static funs in a custom logging class with kDebugMode check? - अ
+1:08:30 Q: For Backend is Dart good choice and any best package of dart for backend? - Adnan Haider
+1:12:57 Q1: How can we do this in Flutter , outside of flutter app URL open project and navigate to specific screen ,for example product item - Muhammad Omer
+1:19:56 Q2: is there any way to connect Facebook ads pixel with flutter project , to collect audience and retarget them in ads - Muhammad Omer
+1:22:44 Q: Remi, I'd like to put a Hive database in a provider using RP 2 so that it can be accessed throughout the app. Is this good practice and do you have any tips on how to accomplish it? - PowerDroid
+1:25:35 Q: I see the new KeepAliveLink API, How to implement lifecycle for one provider that depends one other provider, Ex: a provider storage a JWT token dispose -> dispose all dependent provider? - Dương Bùi
+1:27:28 Q: Follow up question, I see the onCancel but i mean if I open page in and out too much it will cause memory leak?! Because the onCancel in the previous still listen the JWT provider disposed - Dương Bùi
+1:28:47 Q: With annotate@riverpod, I have 2 type of loading, one is starting the page, the other is submit the page, how can I know which AsyncLoading is the right one? - Binh Huynh
+1:31:15 Q: Yesterday I saw on twitter that the Riverpood documentation was not updated to the latest version, how true is that, I'm going to start learning riverpood, I have good references, thanks Remi! - Jeanmartin Pachas Villa
+1:33:02 Q: what are the things to remember when dockerizing a Flutter App? - Vibhanshu Chawla
+1:35:51 Q: Package name nested, functional_widget help shorten the code, is it good? Functional can have making the UI code more readable and shorten but I dont know which one is good, please give some, thank - Binh Huynh
+1:38:10 Q: Which one is better, Future<Either<Failure, Stream<String>>> getStream() or Stream<Either<Failure, String>>, or any other format - Md.Yeasin Sheikh
+1:44:54 Q: How to listen to events in a webview inside our app? - Gideon Ogbonna
+1:47:12 Why use streams in state management?- Randal
+1:50:29 Live Coding: Testing new Dart 3 features
+2:00:43 ​Q: I'm playing with the new dart 3 modifier class feature but it's really confusing, can you explain the keyword `interface`? I feel it is different from other languages - Dương Bùi
+2:05:47 cont. Live Coding
+2:36:52 Outro

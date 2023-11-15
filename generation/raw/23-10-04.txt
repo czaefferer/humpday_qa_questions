@@ -1,0 +1,33 @@
+0:00 Intro
+2:49 Start
+19:08 Q: I'm using adaptive_theme package to implement dark mode/light mode, set text theme & scaffold background color for dark & light theme, but when i try to toggle, its not changing the theme.. - Hashan Kannangara
+20:02 Q: which Flutter/Dart projects are you excited about to see in Hacktoberfest? - Fré Dumazy
+25:11 does iphone 15 pro throttle a lot ?? - subramanian r
+27:32 MaterialApp has darkTheme parameter - Simon Lightfoot
+28:57 open_brewery_db is on pub dev - John Cumming
+29:54 Putting a shout out to the community, the next Flutter London event is a warmup for Droidcon London on October 25th register on the Meet-Up page - FlutterLDN
+30:58 Q: Flutter was using Skia. Now it is changed to 2 rendering engines. I am talking about Metal and Vulkan. What are the reasons? Is there any improvment in performance? - Rustam Usmanov
+33:30 Q: Will Impeller support windows desktop? - Aykut Kılıç
+44:56 Thanks! Does Impeller open up any new possibilities? - Maat
+50:42 who remember when we used cassette tapes with computers? - James Foreman
+52:34 Q: dartz package has Either return type, with Left value as failure case. Have you used this in production code, and any FP insights/ thoughts for Dart/Flutter? - Calan M
+56:53 q: Is there any noticeable performance difference increasing components(x, y) on flutter_blurhash, e.g. (4×4 to 1000×1000)? Large scale looks better. - Md.Yeasin Sheikh
+1:01:40 Q: AppFlowy is a Flutter open-source Notion alternative. Thoughts? - John Cumming
+1:03:08 Q: What your pub dev packages of the week? - John Cumming
+1:07:04 Q: Riverpod async notifier does not check the equality like Notifier. I have to use select for reducing the widget build. Any better option to do ? : @Randal L. Schwartz - Shreeman Arjun Sahu
+[1:09:08]   Q: Because when i have to set the new state in AsyncNotifier i have to use AsyncData. I think that why it is different for checking equality. My State type is Sealed class. - Shreeman Arjun Sahu
+1:10:56 About blurhashes
+1:14:34 Q: When we should rethrow, and what is the suitable place/layer to catch exceptions in terms of DDD/TDD? - Md.Yeasin Sheikh
+1:26:24 Q: What's the best way to support right-to-left languages like Arabic ones if you don't know anything about them? - Richard Rouzeau
+1:31:34 Q: I'm using riverpod to set the loading state. I need to push a new page as soon as loading is done without triggering rebuild on the current page. - Chathura Chamikara
+1:33:18 Q: How to use equality with sealed class. Is equality should be putted on base or sub classes ? @Simon @Randal L. Schwartz - Shreeman Arjun Sahu
+1:38:51 Q: Android 14 is released. New restrictions are coming. Thanks Google. - Shreeman Arjun Sahu
+2:08:37 Q: Android 14 source code release and merged today. Stable not beta one. - Shreeman Arjun Sahu
+2:08:51 Q: New 7 year update for pixels now like ios. - Shreeman Arjun Sahu
+2:10:44 @Q: Is there a service like Apple's Testflight for Flutter on all platforms? Or do you have to set up each one separately? - Richard Rouzeau
+2:15:35 Q: How to use mixin for caching state in AsynNotifier in RIverpod ? - Shreeman Arjun Sahu
+2:16:57 Q How clean is clean architecture? Any feedback on boilerplate code - Shreeman Arjun Sahu
+2:22:40 Q: How to do integration test in web using futter ? - Shreeman Arjun Sahu
+2:24:50 What is the best CMS for flutter apps? - sourav adhikari
+2:27:32 About FlutterLDN at DroidCon London
+2:29:13 Outro

@@ -1,0 +1,31 @@
+0:00 Intro
+3:00 Start
+6:20 Introduction @atsign
+28:58 ​Q: for @sign -- what's the best way to get started exploring IoT and flutter/dart? - Mtho
+32:05 ​Q: atsign. I've seen a few IoT for things using dart. I assume platform rasberry. what other options are there for minimum operation? - Fluttercode
+... Q: with IoT, are there examples of Flutter interfacing with Google Home, Alexa ? (may be a daft Q, sorry if it is) - Calan M
+34:17 ​Q Does @sign support Go? - James Johnson
+​37:30 ​Q: @atsign, what are some cool (like really cool) things you've done with flutter in IoT .. is there's time - Eduard Alexandru
+39:49 ​Q: How to call functions from arr file? - Akshat Tamrakar
+41:50 ​Q: In the Bloc package, what causes the UI not to update even when the bloc itself emits as expected, and everything is setup properly?...i.e BlocProviders and BlocBuilder in the right places... - Mtho
+43:26 ​Q: Why do I need the "as T" in "T doX<T>(){ if(T == bool) return true as T; [...]"? - Krischan1712
+46:13 ​Q: when to know that I'm ready for apply for a job ? and how to start working as a freelancer without a lot of experience? - Re mix
+48:12 cont. ​Q: In the Bloc package, what causes the UI not to update even when the bloc itself emits as expected, and everything is setup properly?...i.e BlocProviders and BlocBuilder in the right places... - Mtho
+49:18 ​Q: can you explain about serverpod plugin? - Tech1st
+50:19 ​Q: is it always necessary to use the key within widgets? does it affect flutter performance if used all the time? - Mtho
+52:59 ​Q: Is stream management part of the business logic (bloc) or application management? Where is the best domain for it? - Fluttercode
+54:45 cont. ​Q: is it always necessary to use the key within widgets? does it affect flutter performance if used all the time? - Mtho
+55:28 ​Q: How do I get compatible suggestion in VSCode, like Eclipse does for Java? For example, for "mainAxisAlignment", the "MainAxisAlignment.*" attributes start at place 82 in the autocomplete list... - Krischan1712
+57:51 ​Q: updating value of a variable then calling set state vs updating value of variable inside setState. What is difference, both seems to produce same results? - Akshat Tamrakar
+1:00:30 ​Q: what are the benefits of flavors? - die cat
+1:01:38 ​Q: is it possible to combine two different state management approaches? e.g. Bloc and ChangeNotifier.. - Mtho
+1:02:40 ​Q: How would I go about deleting a document from firebase after a set period of time. Similar to WhatsApp stories deleting after 24hrs? -David Nwaneri
+1:05:17 ​Q: Is it possible to create my own template like in flutter skeleton? - die cat
+1:06:13 ​Q: what about Blockchain with Dart? is it possible/viable? - BlackStarKami
+1:07:32 ​Q: How to secure Flutter API keys that have to be in native code such as Google Maps API key - Android iOS - R VB
+1:10:29 cont. ​Q: How would I go about deleting a document from firebase after a set period of time. Similar to WhatsApp stories deleting after 24hrs? -David Nwaneri
+1:11:15 Q: is there a good way for a double sided infinite listview? - Krish Bhanushali
+1:12:43 ​Q: is there a way to know the finger offsets of both fingers when user is trying to zoom in or out? Im not understanding the doc in GestureDetec in flutterdoc. - Mostafijul Islam
+1:16:58 Q: Do we have to wait years for hot reload for web? 😀 - Pia
+1:17:38 Q: Can you guys comment on the new Flutter releases(if there are) For instance what is new in Flutter 3.3.4 and new Dart releases? It would be very helpful. Thanks guys:) - aytunch
+1:18:28 Outro

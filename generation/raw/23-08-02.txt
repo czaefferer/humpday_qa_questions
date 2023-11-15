@@ -1,0 +1,29 @@
+0:00 Intro
+4:06 Start
+14:51 About Flutter Conf Latam
+21:58 Q: Would like to hear from you what are some aspects in which Flutter Web still can be improved or what are some current downsides on using it? And in which usecases does it excell? - Lucas Goldner
+31:52 [Q]: Any insights as to why local_ auth requires FlutterFragmentActivity and not FlutterActivity? (breaks flutter driver from getting a screenshot) - Pako St
+33:07 Q: Not flutter specific 😅, but how is Bard compared to ChatGTP (especially regarding code questions) - Lucas Goldner
+41:34 Q: How to use a golang library in flutter? - Nahom B
+43:25 Q: Thoughts on Dart Frog 1. 0 release - Taha Tesser
+46:51 Q: what is the best renderer for release ready flutter webapp? canvaskit or html? I'm having some issues with animations with html and improper character rendering (for asian language) in caveskit. - Chathura Chamikara
+50:09 Q: flutter storage options and also how to use local database( i,e cpanel is for web) for flutter mobile dev - Dave Ragos
+52:37 Q: How would you advise a new dev to learn flutter? Also how do i get one of those plushies?\ - James Foreman
+57:57 Q: what's a common issue you've seen a lot with Junior developers you might have worked with? maybe top 3 or 5 problems? regarding Flutter ofcourse - Abdulraheem Fareed
+1:10:41 Q: With the last stack overflow technology report, Dart developers were ranked last regarding average hourly rate. Why do you think it it? - Stanisław Nagórski
+1:13:43 Q: Is it possible to use shelf/dart_ frog in a desktop app and have the UI & web server within the same application? Maybe with separate isolates? - Fré Dumazy
+1:20:20 Q: Firebase auth exception 'too-many-attempts' verifies that the username is correct because if you use a non-valid username that exceptions never occurs. How to handle this against hackers? - Dave Parks
+...* correction ... 'that exception never occurs' ... - Dave Parks
+1:25:24 Q: what's the Flutter state on playing DRM protected content? - Kratos M
+1:29:04 Where can I contribute to those translations? Can help out 👍🏼 - Lucas Goldner
+1:30:13 Q: what are the benefits of using webviews? vs not using them? - Mtho
+1:30:52 Q: What's CodePush? - Muhammad Omer
+...What is CodePull then? - Lucas Goldner
+1:35:21 Q: Is it possible to make a large canvas through InteractiveViewer where there will be several CustomPainters in the center, the main point is to place several CustomPainters at different points - Yaroslav
+1:37:19 Q: Is ServerPod currently the best choice for back-end development for flutter - Muhammad Omer
+1:37:32 Q: You can place `final` keyword before stlw/stfw widget, does that make any difference? - Mitul Vaghamshi
+1:39:16 cont Q: what are the benefits of using webviews? vs not using them? - Mtho
+...@Simon, yeah hybrid app that combines the normal native flutter widgets and other sections in webview, but all within the same app - Mtho
+1:46:25 How can I participate in Google summer of code 2024 for flutter projects - Nouman Iqbal
+1:46:45 Live coding: ShowWow - Git: https://github.com/slightfoot/wow_shopping
+4:36:24 Outro

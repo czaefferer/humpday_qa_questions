@@ -1,0 +1,27 @@
+0:00 Intro
+2:29 Start
+10:40 Simon showing off dynamic invokation of functions in native code
+24:00 ​Q: my android app every run time downloading gradle , how to avoid this. i have two different projects .when i open another one that one also gradle downloading error. iam using mac vs code - Tech1st
+25:45 ​Any guess of Fuchsia? - Renan
+28:44 ​Q: What do you guys think of the pinball app? - aytunch
+30:48 ​Q : when i using google ml kit plugin for using face reconization .but Its increase the apk size .any way to reduce the apk size? - Tech1st
+37:16 ​Q: I've been hearing the words flutter and game together a lot lately. Is something new coming to flutter about game development? - musa sahin
+40:26 Simon this is interesting find. How can it help us while using ffi? Does it allow creating callbacks from the c++ world? - aytunch
+42:30 ​any upcoming support for dart Backend? - Hafeez Rana
+​44:42 ​Q : Anyway to identify device time setted automatically or manual set time? - Tech1st
+46:05 ​[not intelligible] @Simon In last qna, you told me to look into the SwitchMapStreamTransformer from rxDart in order to combine stream of document field and stream of collections inside that document for firestore. - HAWSI AADMI
+...​But I was unable to make it work. - HAWSI AADMI
+... ​Can you suggest a gist for that? - HAWSI AADMI
+47:38 ​Q is there any work going on for improving performance of flutter web? - dhrub rawat
+48:50 ​Q: I just found Fuschia is also being built upon Dart - Usama Karim
+49:26 Q: I save data locally in a file. How can I secure that file from users to edit and put infinity amount of money or change level? - Roberto Potrus
+52:10 ​Q: Is there a way to add keywords in a web build and does it help with SEO? - Richard Rouzeau
+52:52 ​Q: How to encrpt files being saved locally on device? Specially PDF files. - Usama Karim
+53:59 ​Q: should we expect anything flutter wise from google IO? - James Foreman
+55:01 ​Q: What's the best way to add a "Tweet this" option for an image in web build? - Richard Rouzeau
+55:38 ​Q : flutter support stack navigation ? (ios) - Tech1st
+56:20 ​Q: How do you access localization without context? - Nahom B
+57:56 ​Q: What are cons of firebase against custom backends ? - Isa Isa
+58:21 ​Q: What do you think of package signing for the Flutter ecosystem? - Mitchell
+59:00 ​Q: Is there a similar thing like Java's class loader in dart - Arun Ratakondala
+59:10 Outro

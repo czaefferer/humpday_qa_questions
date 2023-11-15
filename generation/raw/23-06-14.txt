@@ -1,0 +1,21 @@
+0:00 Intro
+3:05 Start
+17:28 Q: Does Dash prefer Elderberries, Raspberries, or... Blackberries? (badum-tsh!) - Matthew Jones
+17:45 Q: Considering writing my own Dart package for a database client (libsql), any advice on this, best practices or where to start? - Gary Montgomery
+26:47 Q: Is possible to use abstraction with ThemeExtension to allow multiple colors schemes to be fetch in runtime based on brightens and widget variant param? - Lazar Jovicic
+... I abstracted themeExtension with and have multiple schemes under abstract class, but for some reason objects of these concrete classes are not found in the tree, is this right approach? - Lazar Jovicic
+43:17 Q: In flutter web desktop, I constraint the width of my content to 400px. Huge empty spaces on the sides. Content is a SingleChildScrollView. How can I scroll the content while mouse is on empty area? - aytunch
+.. @Randal L. Schwartz The contents are coming from monorepos so not ideal to do the constrainting in there. Is there a magical way to constraint the content and pass scrolling data to their scrollviews? - aytunch
+47:36 Q: When using Melos I cannot write condition to create a folder or file because of the slash / , Window said it's invalid filename character. How can I fix it? - Binh Huynh
+50:55 Q: What limitations exist in the parallelism of Flutter Web apps? Can we run Dart code concurrently? I haven't found good documentation or examples online. - Maat
+53:54 About text to speach with serenade
+57:13 Q: Two-parter. How does one join your Community's Mastodon server? How does one transfer a plugin GitHub repo to the Flutter Community's GitHub project for preservation due to abandonment? - Diego Tori
+1:06:18 Q: I want to create tutorial effect (highlight button or element with a tooltip to explain what it is and a next button to show next step). How can I do that in Flutter? - Hiệp Đỗ
+1:12:35 Flutter 3. 10. 5 has dropped! - Randal L. Schwartz
+1:21:50 Q: How can we save scroll position of long list in FirestoreListView. e. g. If I click on item to open detail page using nav2. 0 and navigate back to FSListView page, it always scrolls to start position. - Uttam Gupta
+1:30:33 Q: I am integrating the smartlook tool(video records user's app activity), their package doesn't support web,adding some script on index. html works. Is this possible to also access hive in index. html? - Peter Musembi
+1:37:29 Q: How to send context from a Stateful Widget to a Controller Widget in Flutter? - Chris Lee
+1:40:43 Q: why don't you talk about my appearance on Flying High with Flutter?! :) - Randal L. Schwartz
+1:42:38 Q: How to crack data structures interview sessions for flutter developer jobs? like what database and Data structures should one have knowledge or working experience of? - Ruqaiya Sattar
+1:59:51 Q: Flutter Developers are front end engineers or mobile app Developers? - Ruqaiya Sattar
+2:00:25 Outro

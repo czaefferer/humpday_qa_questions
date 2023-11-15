@@ -1,0 +1,58 @@
+0:00 Intro
+2:32 Start
+9:28 Trending repos in Dart
+15:49 ​which state management plugin is better ? - Tech1st
+19:40 ​any background services available in flutter? like cron job - Tech1st
+22:08 ​Simon, when will you do a Flutter version of Elden Ring? 😀😀 - Muhammed Salih Güler
+23:34 ​Grid is really hard in flutter - Harshit Kumar
+26:13 ​does flutter requie mesa 3 or higher - Anil Beniwal
+... ​Q: does flutter require openGL 3 or higher - Anil Beniwal
+27:47 Q: I need to have a timer.periodic start when the user is on a certain screen and stop it when they leave that screen. Where should I put the code to do both of those? - PowerDroid
+33:41 ​Q: Can you run dart on Cloud Functions? - Razvan Cristian Lung
+38:37 Q:will dart ever have tensorflow library - Anil Beniwal
+39:40 any thoughts on serverpod ? - Madhan K
+42:08 ​Q: Hi Simon, after watching Flutter vs Zombies, I tried drawing a 3D cube on a canvas, using the CubeGenerator from vector_math. How do we generate the necessary Vertices object to draw? - Fré Dumazy
+44:39 ​How to avoid BuildContext deep in the tree while working with localization? - Usama Karim
+... Q: Re. For example Avoiding BuildContext in services specially using localizations - Usama Karim
+... Q: This question is related to Andrea's latest tweet about architecture - Usama Karim
+48:42 ​Q: is it possible to give a special behavior for one screen by bridging dart and native? like prevent screen recording only for screen A - Anggoran
+... ​Q:how we can implemente easily service or broadcast like for android or ios in pur dart ? - Adam Musa Ali
+50:42 ​Q:what is a good architecture for a flutter project according to you - Anuj Kumar
+54:04 ​what package is best to use AR in flutter? - Flutter Hacks
+55:03 ​Q: how to self-assess current level is Junior, Middle or Senior flutter enginneer? - Dương Bùi
+58:30 ​How can I Open pdf file from file explorer .I tried android.intent . action.view I have to do lot of coding in kotlin I'm not good in kotlin ...is there any package in flutter - Study Kiya
+1:00:02 Introduction !SuperDeclarative
+1:13:04 ​Q: Scott your definition of Junior is expecting knowledge, then what would you call someone just starting out? - Stef Patterson
+1:13:41 Q: It is suggested to separate the the business logic from the views. However, some widgets are tight to particular implementation/backend (e.g.. Firestore UI). How can we use such widgets sustainbly? - M. A.
+1:21:29 Q: Matt I have question, so who could work at Bounty Hunter? Is there any procedure to join the team? - Harshit Kumar
+1:26:39 ​Q: How can I write contract testing? Making sure that the APIs I use are not changed. If changed I and backend team should see a failing test - FacileTech
+1:29:12 ​Q: Google uses dartangular in their web apps and also flutter adding support to the web app. What will be the advantages and disadvantages here? - Mücahit
+1:31:39 Q: Do you think dart have potential to become sever side language? just like how JS is used for node? Could we anything like node but, built on dart? Does any progress made in this regard? - Harshit Kumar
+1:34:46 ​Q: Best way to avoid build errors if the UI is continuously changing during touch events like dragging? WidgetsBinding.instance.addPostFrameCallback() is not working. - Richard Rouzeau
+1:37:59 ​Q: Last try 🙂Andrea Said.. RULE: No Flutter code (including BuildContext) in the business logic.Your view models/blocs/controllers are used to update the widget state in response to events. - Usama Karim
+1:44:50 ​Q: Q: What do you think about FlutterFlow ? - Imad Bouirmane
+1:48:52 ​​Q: Will dart support like Concurrency just like Java or high end language. What about using Golang as desktop development along with flutter without Dart specially for desktop development. - sneaky_python
+1:51:47 ​Q: What are the changes that we can have password reminders to work with Flutter Web? - Razvan Cristian Lung
+1:52:35 ​Q: What's the safe and good networking package? other than dio - Janu Gandhi
+1:54:39 ​Q Is mockito is good i just don't like to generate big mock api files, Is you recommend any than mockito - Akshay yadav
+1:57:20 Q: Could you please share the link? :) I would to get in touch and I have idea to attract the clients - Harshit Kumar
+1:58:20 ​Q Is there any change kotlin multiplatform take over flutter. - Akshay yadav
+2:04:14 ​Q: if you add splash screen in flutter web and open web in mobile browser the splash will small initially but after 1-2 seconds it will becomes bigger to adapt the screen, is there any way to stop it? - Ruchit Mavani
+2:04:57 ​Q: I remember Material team announced that they are partnership with Figma to build Plugin to export Figma Design into Flutter Code, so do we think that in coming programing will be more about logic ? - Harshit Kumar
+2:06:09 ​Q: any plans for background processes support in Flutter? - radiKal
+2:08:29 ​Q: How to secure network requests between your app and mysql database. At the moment i use php, but I would like only users from the app be able request stuff from the database - Roberto Potrus
+2:12:38 ​Any new news about Flutter and Fuchsia? - Tom William
+2:15:30 ​Q: If you have a Widget which has only two Text Widgets and one of them is changing. Should i move it into another widget? Or Or can i use a builder instead? - Roberto Potrus
+2:17:54 ​Q: When "Static Metaprogramming"? - Mas
+2:23:40 ​Q. simon you always say you implement bloc using provider is there an example you can point to ? - Train Of Thought
+... ​Use the principle behind bloc, and provider as the glue with the widget tree - Fré Dumazy
+2:27:13 ​​Q: How we can make flutter hackaton in Kazakhstan with hosts Simon and Scot? - Cheapest country in the World
+2:28:06 Q: What architecture is best for Flutter? - Roberto Potrus
+2:28:31 ​Q: Matt, would 1 day per week availability be enough to contribute to Flutter Bounty Hunters or is that not realistic - Fré Dumazy
+2:28:58 Q: we want an advanced episode for go_router - aytunch
+2:29:48 Q: I want to implement unread counter of messages, How could I knew that a message is read or not? Should I use visibility detector? - Usama Karim
+2:31:36 Q: Why does singlechildscrollview exsist? what is the use case? - Roberto Potrus
+2:33:26 ​Q flutter crashing ... on play store ... ​v2.10 no problem 2.8 - Arjun Thakur
+2:34:31 ​Q Is it possible to build Android Live Wallpaper on Flutter? - Shakir Kasmani
+2:34:49 Outro
+2:36:36 After credits scene

@@ -1,0 +1,34 @@
+0:00 Intro
+3:41 Start
+9:52 About upcoming events
+19:54 Q: Since Dart Frog 1.0 recently came out: Have you had a chance to try it? How is Serverpod compared to Dart Frog? Are they more or less the same or are there some things to consider when choosing? - Lucas Goldner
+21:17 Q: Are there any books that you can recommend, about good code, architectures in general? Maybe not Dart specific, something like the Clean Code book? - Lucas Goldner
+27:26 Q. How to make flutter apps secure from various threats or detect jail break or tamper detection? - Anchal
+28:55 Q. How do you go about code obfuscation? Which is the best way to securely add Api Keys on your flutter app codebase e.g Google Maps Api key? - Peter Musembi
+37:45 Q:I wish we have advanced debugging session using devtools someday. - Usama Karim
+38:39 Q: What will be future updates of flutter? - flutter
+40:04 Q: What is the best State Management package in flutter? - flutter
+...Q: which state management library would you recommend mostly if I'm using clean architecture approach on building app - Orion Paul
+47:08 Q: How to implement focus rings ? - Sabin Neupane
+51:35 Q. where should i add logs in the code, what is the best practice ? - subramanian r
+55:32 Q: Is there any performance benefit of creating small widgets instead of returning widgets from methods? - 
+59:24 Q: @Simon how's the _Forward_ going? ;) - Stef Patterson
+59:32 Q: Will you upload the videos from the workshop here in the channel? - Jéssica Pereira
+1:00:05 Q: also been long searching how I can implement a hold to record feature in flutter like the one in whatsapp, instagram chatroom - Orion Paul
+1:05:05 Q: What is your view on Flutter Hooks? - Md Didarul Islam
+1:07:20 Q: I've heard someone say that debugPrint can skip output if the log is flooded and they rationalized using simple print instead. Is this true, and what happens id print is in release code? - Csaba Toth
+1:10:36 Q: Is there any chance that Dart could become the default language in android development? I just wanna know your opinion.😄 - Big Codes
+1:12:34 Q: I was trying to setup custom package using: "flutter create --template=package test" Its populating system specific codes as well, ios, android,windows ... I saw it says the fix is already there - Anil Rai
+1:13:30 Q: Can you showcase that debug function from the dart:developer library in the live coding? - Lucas Goldner
+1:13:46 Q: Is there some package to embed the desktop screen to show it in your Flutter app? Like chrome does it when you want to share your screen. - Lucas Goldner
+1:20:10 Q: how can we Refresh the jwt auth token via refresh token mechanism in dio, apart from QueuedInterceptor. want to handle the onError part as well any heads up for this! - Taranjeet Singh
+1:23:19 Q: Any exciting/new flutter open source application that you really like? - Akshat Tamrakar
+1:25:03 Q/Request: Please add live debugging session to your Queue. - Akshat Tamrakar
+1:25:47 Q: Opinions about Dart as Server Language. I guess GO has better primitives for concurrency, but what do you think? PS: you guys are awesome - Bloq
+1:37:18 Live Coding: Animated Decoration - Gist: https://gist.github.com/slightfoot/907156540cf1e4ec60dbd96104769098
+2:04:11 Live Coding: Segment Selector - Gist: https://gist.github.com/slightfoot/1e648a09560e6406be7330cc33340fec
+2:46:35 Q: Can we mesaure a widget's height or width before build? - Ozan Gözcü
+2:50:36 Q: Why is ShapeDecoration better? - Stef Patterson
+2:55:04 Q: Are there any differences between BorderRadius.all(Radius.circular(12.0)) and BorderRadius.circular(12.0) ? - Ozan Gözcü
+2:56:41 I found shapeBorder provides outer & inner path which provides much better ux when it comes on shadow/elevation. - Md.Yeasin Sheikh
+2:58:02 Outro

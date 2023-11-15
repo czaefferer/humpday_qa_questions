@@ -1,0 +1,22 @@
+0:00 Intro
+7:56 Start
+8:45 I have a question: How to create a 3D Rubik's Cube with Flutter? - Lê Đức
+9:38 When will Firebase Analytics be GDPR compliant?
+11:02 Q: Is Flutter a good choice if your app needs to run in the background / while closed? (Specifically, periodically connect to a Bluetooth device to check status and disconnect once the status is read) - TonyDowney
+13:40 What will be the next step for Flame?
+14:53 Q: Can we use npm package as a flutter web plugin? - KimtOs
+16:16 Any mad scientist kind of ideas you want to do but don't have the time for?
+18:50 Q: What can we do to get more contributions in the Flutter repository? - Taha Tesser
+23:08 Is it ok to contribute tech writing even with a lower quality?
+25:25 Could the process to contribute to Flutter be improved?
+26:58 Q: what are some of the features you'd like to see added to flutter in the next 6 to 12 months? - Chris Thompson
+29:08 Any plans for Navigator 3?
+29:48 Q: Can you tell us about Embedded platforms status with Flutter ? - Imad Bouirmane
+31:08 Can we contribute test coverage?
+32:57 Any plans to support the Apple Watch?
+34:06 Q: can I use variable fonts in flutter, ? - Tony Thomas
+34:33 Any experience with Flutter and app clips?
+36:14 Q: As Roman did recently, there's any official docs for TV platform support ? - Imad Bouirmane
+37:22 What's your favorite Dart 3 feature?
+42:16 What's the status of Defered Imports in Flutter?
+43:23 Outro

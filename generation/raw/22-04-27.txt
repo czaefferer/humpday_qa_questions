@@ -1,0 +1,91 @@
+0:00 Intro
+2:02 Start
+7:50 How to optimize and fast Flutter web app load time and overall performance? - Flutter
+14:46 ​was a bug ticket created for last weeks LayoutBuilder issue...i think it was with horizontal vs vertical resizing if i remember correctly - Michael Maitlen
+15:23 Q: Thoughts on ClojureDart? - Darrell Brogdon
+17:20 Updates from Majid
+21:37 ​Q: Can you give us how can we work with .Net Technology ? - Imad Bouirmane
+22:40 ​Q: Majid, what camera are you using? - Craig Labenz
+24:20 Q: is it possible to create a desktop application that can load plug-ins at runtime? - Bartek
+25:32 Q: Do I need trigonometry knowledge to create custom widgets using CustomPainter? - Владимир Калашников
+26:20 ​Q: Is it possible to use the Material You theme with a desktop app? - Arun Ratakondala
+28:06 ​Q: For fullstack Dar t, would it be advisable to start with HTTP/1.1 (Shelf) and then later upgrade to HTTP/2 / gRPC? - Mitchell
+31:47 ​Q : background fetch plugin background process fully support in ios? - Tech1st
+34:49 ​Side project - put speaker inside dash so he can recognize voice and search stackoverflow for flutter answers - Rafal Wachol
+35:18 ​Q: The fast way to reorder the folders structure in a existing project ? - Imad Bouirmane
+36:46 ​Q: There's any possibility to work with Matter Framework for Google Home SDK ? - Imad Bouirmane
+37:23 ​Q: Is it ok to have static functions to build widgets? Will it have an impact on performance? For eg: I want to have a class 'Texts'which has static functions returning Text widgets. - Amsakanna Chandramohan
+39:57 ​Q: Majid, you have a HELL of a jawline. You gotta stop hiding that under Viking beards! - Craig Labenz
+40:40 Q: When i use Stack and overlap a button with Align on bottomEdge of the Container. Then change screen size or rotate the button moves. How can I anchor it to the Container? - Roberto Potrus
+41:55 ​Q: a advice for intermediate level flutter dev to go ahead complexe and big project. - adil Elkhallouki
+47:27 ​@Flutter Community I know this might have been asked many times but here it goes Q: what's the best resource (or list) to get started with Flutter for JS devs? - Juan Lopez
+51:42 ​Q: When should you consider to use a Set instead of a List? Searching for an object, what is max length before i should go with a Set? - Roberto Potrus
+58:16 ​Q: How can i have different sizes of images inside a GridView? - Roberto Potrus
+58:47 ​Q: Do you know of a tried-and-true data structure for calendars? - Richard Rouzeau
+1:00:58 ​shouldn't you use Positioned instead of Align ? - Rafal Wachol
+1:04:14 ​Where should call function? @override void initState() { <TOP HERE> super.initState(); <OR HERE> } - Azraf Al Monzim
+1:07:06 Q: When using web, I can not now where the bug is because it is in the javascript file and the error is very strange. Could you guild me how to solve bug in web? I wonder how Angular Dart debug work - Binh Huynh
+1:09:10 ​Q: I'll rephrase the Stack Question. The button should stick on certain place of the container. But when screen size change or i rotate screen. the button moves from the position i would like it stick - Roberto Potrus
+​1:12:32 ​Q: Another Stack question. I love that Flex widgets resize widgets to screen size. With Expanded or Flexible. How can we achive this effect inside a Stack? - Roberto Potrus
+1:14:57 ​Q; Could Flutter Team provide Flutter Certifications in the future ? - Imad Bouirmane
+1:17:06 ​Q: When i validate textformfield and make borders red when something is wrong. But when I animate the textformfield when they are red, with shake effect. The field lose the red border. - Roberto Potrus
+1:21:29 ​Q: text isn't visible in Debug build with Linux but is in Release - how to look into it :) - Pako St
+1:22:28 ​Q: Why isn't there an official staggered grid view 😕 - Florian Knoll
+1:24:05 Q: Can you share a private git repo without sharing your login info? - Richard Rouzeau
+1:24:27 Q! Retrofit v/s Dio - HAWSI AADMI
+1:25:13 ​how can we have text widget with replie effect - Bhat
+1:25:26 ​Q: What would be your approach to create an Android with Material AND iOS App Cupertino at the same thime. - Florian Knoll
+1:25:47 ​Any tool / command line that can help remove unused image assets quickly ? - khang
+1:26:43 How to increase image quality when converting widget to image using RenderRepaintBoundary? Should just increase pixelRatio value? - Azraf Al Monzim
+1:27:48 ​​Q: What is .adaptive? I seen it on few widgets and how many are there? - Roberto Potrus
+1:29:21 When will there be video tutorials for deprecated code? I feel like the documentation is fairly confusing - Naked Tech
+1:30:37 Q: Show stack example 😅 - Roberto Potrus
+1:35:06 ​Q: how to approach theming - Kratos M
+2:05:35 ​Q: which state manager are you using nowadays, @Simon ? - HAWSI AADMI
+2:05:40 Q: i saw a code where runApp(..) was called multiple times, in what context could that happen? - Kratos M
+2:05:57 What are your favourite plugins? - Naked Tech
+2:06:25 Q:why add @immutable on the widgets? - Kratos M
+​... Q: Is there a particular reason why you have the "immutable" annotation on your stateless widget? (curious) - Júlio Tati
+2:07:27 ​Q: How can you make the button inside a stack be flexible in size? They can be flexible in a Row/Column - Roberto Potrus
+2:07:47 ​So I am currently trying to implement a terminal in my app and I am facing a few issues. First of all is there a way to display colored terminal text/What would be the best way of implementing it? - Mesota
+2:09:06 ​My app running well in debug mode. But when I tried to make a apk (flutter build apk) showing this error "Dart snapshot generator failed with exit code -9"Any solution? - Azraf Al Monzim
+2:10:20 ​Q! Why would you like to use Windows rather than Mac? - Usama Karim
+2:11:08 ​Q: How to store maps in sharedprefs? - Roberto Potrus
+2:12:20 ​Q: next week, can we see if we can get a listview to not rebuild the state of its children when an item is inserted at the beginning? myList.insert(0, data). - Jonah Walker
+2:12:48 ​Q: What's written on the board behind you 😁 - Usama Karim
+2:13:03 ​Q: Not a question, just a reminder: infinite_listview maintenance 🙂 - Richard Rouzeau
+2:13:09 Outro
+
+​Q: what is good way to create sidebar navigation in Flutter web? - Renuka Kelkar
+
+​The Viking is gone but maybe you know Q: Any plans to announce winners of "Draw a Vikings Dash"? - mivoligo
+
+​Q: I've just had CI build fail on flutter pub get due to timing out on it, is there a status page for pub get to know if anything is wrong with it? (CI build works fine now without doing anything) - m1chci0
+
+​Q: Can you recommend any resources for learning how to work with HTTP/2 in Dart? - Mitchell
+​
+--
+​And the second question is what would be the best way of implementing the terminal view? - Mesota
+Mesota
+​the terminal history.
+
+Mesota
+​The problem I faced with this approach is that you have to write if clauses for a lot of cases. For instance if the user writes
+
+Mesota
+​clear you don't really clear the terminal but clear the History List. I think if I could use some kind of native view that would make a lot of things easier.
+
+Mesota
+​But I also don’t know if there are native views for macOS and Linux. I only know one for Windows.
+
+Mesota
+​Sorry for the amount of messages but youtube live only lets me send up to 200 chars
+--
+
+
+
+​Who's your favourite developer? - Naked Tech
+
+
+
+

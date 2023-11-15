@@ -1,0 +1,24 @@
+0:00 Intro
+2:33 Start
+6:10 Lucas about Widgetbook
+​12:45 Q: what are you using to preview on iPhone and Samsung? Real devices? Emulators? Or simply Flutter Web with specific screen ratios? - cekroz
+14:23 Jens about Widgetbook usage
+27:02 ​Q: can Widgetbook handle native functionalities (for instance, get a device battery % left) or is it only visual and thus must be common to all the platforms? - cekroz
+28:56 ​Q: can I use this to preview a whole separate app, unrelated to Widgetbook - I'd like to use the nice device presentation layer 🙂 - cekroz
+33:02 Q: I'm not seeing an export options png, jpg, pdf? - James Johnson
+35:28 ​is flutter web SEO friendly? How can I use AdSense in flutter web And Firebase in Flutter Windows? Thank you 🙂 - Tasir Rahman
+37:01 ​Please how can I connect my flutter desktop app to peripheral device ( like Barcode Scanner, electricty prepaid card loader) etc - Obed Dougan
+42:50 ​Q: Is possible to host the built result and share the widgetbook with simple link eg: to UI/UX team ? - John
+51:27 ​Q: Can we expect a Figma to Widgetbook plugin? - James Johnson
+52:37 Intermission
+54:10 ​I am from Swift and new to Flutter. Does clean architecture make sense in Flutter? - Janu Gandhi
+59:58 ​when can be make game using flutter😌😌 - Study Kiya
+1:00:40 ​q. should one go for a generic projects or spend a lott of time thinking for a unique idea ? junior developer btw - Train Of Thought
+1:04:00 ​Q. How can I get better at data structures and algorithms with dart? - Naman Srivastava
+1:04:53 ​which is better getX or Provider?? - Study Kiya
+1:07:31 ​Does flutter have AI or AR custom services where I can build custom AI/AR features for clients? Cause I want to create an app like Sn*pch*at. : ) - Tasir Rahman
+1:10:19 ​What's the scope for Dart Web and Dart Server, Should I work on Production with this? - shivam srivastava
+1:12:43 ​Which one is the strongest feature of the WidgetBook? What do you think Lucas - Osman Yılmaz
+1:21:55 ​Q. i really want to start contributing to open source where do i start ? - Train Of Thought
+1:25:35 Custom Widget Library for Flutter and jobs from Widgetbook
+1:31:45 Outro

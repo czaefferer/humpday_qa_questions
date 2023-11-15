@@ -1,0 +1,25 @@
+0:00 Intro
+2:31 Start
+2:37 Introduction
+12:47 ​Q: What is the lightest widget/class to draw custom shape? - Md. Yeasin Sheikh
+... ​I am trying add some different shapes on UI, those(50+) will animate based on time - Md. Yeasin Sheikh
+15:35 ​Q: Do any of you use Go, and do you think a toolkit like Fyne can top Flutter? - James Johnson
+25:20 ​Q. Can you write cloud functions with Dart? - David Nwaneri
+25:51 ​Q.Is there a way to make tabbarview work without manually bounding its height, if all of its children can determine their heights - Harinandan R Nair
+27:53 ​Q: what's the roadmap for flutter web. Can we expect it be competing with react for web dev. - Ankit Raj
+31:38 ​Q: Flutter Web first loading taking too much time because of the packages used in pubspec.yaml. How to reduce the loading time? - Puspharaj Selvaraj
+36:33 ​Q: What is the best way to create a circle listview? Like a listView that wraps itself around a circle shaped container. That kinda thing. - Mostafijul Islam
+38:27 ​Q: my question on how the AutomaticKeepAlive mixin works in relation to render object was pushed today - Patrick Waweru
+39:50 ​Q: Can we use flutter with wear OS? - Hashan Kannangara
+40:45 ​Q: I want to delete data from firebase firestore when the user kills the app. Where do I put the deletion code? (I also put deletion code in dispose and AppLifecycleState.detached but it doesn't work) - Moin Sarvaiya
+44:08 ​Q: What is the best practice to separate Android and Ios app when we want to use cupertino widget for ios and material widget for Android ? Something simple to switch from material to cupertino ? - Antoine
+48:52 ​Q: Can I use flutter webview to wrap a web app? is it going to be approved? - mmahgoub
+50:17 ​Q: Which framework is suitable for live data, like for stocks trading app. any suggestions? thanks. - Ankit Raj
+52:13 ​Q: How to achieve pushAndRemoveUntil() in GoRouter 5? Specially in a web. Cuz i don't wanna browser history back after logout. I used go() method to navigate and didn't succeeded. - Tsomo Ne
+53:31 ​Q: How to send different commands and receive respective events on soap? How should I keep checking hub connection live or not and force it for automatic reconnect? - Yogita Kumar
+56:11 ​Q: So firebase allows you to delete ALL field but doesnt allow you to Add fields to All documents (in the GUI) will they consider adding that so I dont have to create an ontap -> cloud function - Arvin Teymouri
+57:22 ​Q: Is it considered good practice (in terms of performance) to gather all the imports in one single file, that you import everywhere ? - Jerbs
+59:33 ​Q: Can webview in flutter support service workers? - mmahgoub
+1:04:01 ​Q: How to dispose a provider when we use provider package ? - Hashan Kannangara
+1:05:30 ​Q: How to make flutter web seo friendly ? - Ihor К
+1:07:39 Outro

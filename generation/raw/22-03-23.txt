@@ -1,0 +1,17 @@
+0:00 Intro
+2:29 Start
+13:52 Q: What are some advantages in using rust together with dart? - gnuion
+18:58 Q: s there a dart framework that forces you to structure your files using best practices? - gnuion
+23:04 ​Q: when will we see Dart native firebase admin SDKs? - Warren Strange
+39:16 ​Q: When we are building a Full-Stack application, should we also consider/calculate code-sharing capabilities between platforms before architecting our applications (backend end frontend)? - Muhammed Salih Güler
+43:26 ​Q: Will shelf be a framework? - Anggoran
+46:15 ​Q: Are there some resources if someone wants to build and deploy a private pub server? - Boris Kayi
+48:22 ​Q: Is there any plans to support Google Cloud Functions for dart runtime? - Alex
+49:13 ​Q: Happy Nauryz to all of you!!! I tried to reach out Nilya about hackaton of Flutter in Kazakhstan with graetests hosts of all time like Simon and Scott, but she don't answered at twitter, what next? - Cheapest country in the World
+49:40 ​What do you recommend for junior looking to advance with this framework? What sort of projects should I take on and grow into? - theHuman_RSA
+53:35 ​Q. what is a good starting point for open source contribution for a junior dev ? - Train Of Thought
+54:18 ​Q: When do you think we will get dart language doc/samples in Firebase and Google Cloud docs pages. Like we have it for js, python, go, etc. - Alex
+56:22 ​Q: Hi all. Does Google have a internal group which supports Flutter startups in terms of investment? It doesn't have to be financial. Maybe they can help startups in marketing if it is worth? - aytunch
+57:25 ​Q: Appwrite, did you tried? How is in you opinion about using it as backend? - Cheapest country in the World
+58:21 ​is there dart server framework? if not available then when will get it? - dhrub rawat
+58:58 ​Q to @simon: what's the status of zombie? - Akash Singh

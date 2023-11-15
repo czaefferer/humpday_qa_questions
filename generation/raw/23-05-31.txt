@@ -1,0 +1,34 @@
+0:00 Intro
+3:16 Start
+16:30 Q: tell me about flutter web - Nouman Iqbal
+22:17 Q: So, does this generally require a change of thinking, or are there standard patterns that make dealing with this easier? (And apologies to Scott who's answered this once.) - Nic Ford
+... Context: I'm converting a pre-null-safety app to null-safety, and finding it painful: turns out a lot of my code relies on things being null if not instantiated. - Nic Ford
+36:06 Q: what’s the most exciting or interesting thing you learn about flutter / dart this pass week? - Sean Westfall
+44:35 Do you think they flutter jobs positions are going to keep on growing ??? - codeWithCarlos
+49:03 Q: What is today agenda? - Nouman Iqbal
+49:11 Q: how well does flutter work in the freelance space. Has a client ever refuse you build the app in flutter? - James Foreman
+59:13 Q: I would like to know the difference between a 'web app' and a 'website', and some of Danielle's learnings from why Flutter makes a good choice for web (I've got a web implementation atm) - bille
+59:47 Q: which are some popular tools to use for real time features with flutter that differ from Firebase? - G R
+1:02:07 Q: How can I limit the width of title in ExpansionTile in Flutter without affecting content width? I haven't been able to get the title instead of expanding to behave like a flex. - Adonis Santos
+1:08:43 Q: Firestore get summary of data up to 20k of entries in a list. Cause the UI to jank when the data is fetched and loaded. Is it time to use isolate? Or is it something else? - Roberto Potrus
+1:14:59 Q: What do u think about current bloody job market? Believe me, Someone claims can't get interview with 2 FAANG experiences even :)) What juniors should do? It's really disappointing! - Amir
+1:19:09 q1: I did mobile dev in flutter, and it is kinda strait fwd, but now I have to expand existing app on flutter web, how to do UI part, since the rest of the app will remain the same(almost) - Lazar Jovicic
+1:27:00 q: I am struggling with signing apps for android and iso, do you have some recommended tut where I can learn these things - everything is so confusing :/ - Lazar Jovicic
+1:33:26 Q: how to integrate the payment method in flutter apps - Nouman Iqbal
+1:39:27 Q: (and rant) afaik there is no way to catch the backspace key. If an empty textfield is focused, backspc is noOp. We use an empty char hack (/u200b). With Flutter 3.10 this does not work on web😞 - aytunch
+1:43:52 Q: My Flutter web app load time is slowed by including all possible icons and fonts, even though there are only 5 or 10 were configured in Firestore (each user can config). How might I optimize that? - bille
+1:47:26 Q: Without "late" how do you account for values that need to be set in the class constructor that should not be null? - Assaf Packin
+1:50:02 Q: Simon talked about creating an empty factory constructor and I use it all the time and check against network values. Problem is with LatLng. what is an empty LatLng? 0,0 is a real place - aytunch
+1:52:39 Q: what should I do for clean code in FLutter app - Nouman Iqbal
+1:56:23 Q: How to do you integrate a VPN into a mobile app, using openvpn and wireguard. There is a package for wireguard and openvpn, but I couldn't understand it...(cont.) - David Nwaneri
+... it talks about public keys and a lot of other things. The whole concept is all abstract to me. Please how would I go about it? - David Nwaneri
+2:02:59 
+2:04:12 Q: (2/2) router.go doesn't work, but router.push does. But the Chrome back button doesn't go from products/2 to products/1 - Michael Maitlen
+2:05:30 Q: my app uses Google Maps and update some overlays (line where the user walked) every time the user changes position (GPS). Is the Google Maps widget rebuild every time? If so, is it a bad practice? - Charles Steinmetz
+2:09:50 Q: Anyone experiment with dart/flutter on RISC-V? Having problems finding an economical dev hardware platform to begin with. - Michael Maitlen
+2:12:03 Q: How to add paragraphSpacing in Flutter on a TextStyle (I don’t mean line spacing but paragraph spacing) - R VB
+2:16:24 Q: Creating a flutter web app. Have you seen any issues with GoRouter nav between pages with similar url, ie url/products/1 nav to url/products/2 - Michael Maitlen
+2:17:51 Q: In riverpod, what should you do if you want to use a notifier that handles events, but that does not contain any state, for example interaction with the network? - Joran Mulderij
+...I want to be able to call something like notifyListeners() like in a ChangeNotifier, so that FutureProviders can depend on it - Joran Mulderij
+2:21:25 Live Coding Quizz app continued
+3:36:27 Outro

@@ -1,0 +1,29 @@
+0:00 Intro
+3:24 Start
+9:56 About Jaspr and Dart Web
+20:50 Q: which safe library can I use to implement QR to do scan to pay - Orion Paul
+25:25 When looking at JS libraries to Dart they are often "imperative" as in using setter methods over constructor declaration - looking for suggestions for making the api feel more like "Dart/Flutter" Code - Damian Bast
+...Q: Advice for rewriting an imperative API to a declarative one (as written at the very top :) - Damian Bast
+31:54 Q: I have a dll file and I managed to connect with it through ffi and use its functions in flutter windows. Is it possible to do it in android because it's not working with me. there's part 2 for q - bode hallak
+...i write som CMakeliststxt in android folder to add the Library, but nothing works in android. Help - bode hallak
+39:35 Kevin Moore about Dart Web
+52:45 Q: For those who don't know, what is DOM ? - Stef Patterson
+54:09 Killian Schulte about Jaspr
+1:01:02 About Flutter and Web APIs
+1:05:39 Q: How can I track app installations from Facebook/Instagram ads? Would you recommend utilizing a Mobile Measurement Partner (MMP) to streamline the process? - Kevin DUVIGNAU
+1:10:16 Q: Will flutter hot reloading become slow when the dart wasm implemented on flutter web or this will not affect the flutter hot reloading? - dhrub rawat
+1:23:25 Q: KevinWasm already implemented in Kotlin ,where as dart still lacks it . I know bob is previously worked in kotlin compiler. - Shreeman Arjun Sahu
+1:25:18 Q: what will be the bundle size of flutter web app after implementing dart wasm compare to the current bundle size of flutter web app? - dhrub rawat
+1:28:57 Q: Do we have wasmGC as a dart package? Thinking about rfc (remote flutter widgets) which currently works with wasm - Damian Bast
+1:31:51 Will Flutter WASM improve rendering performance, or does Flutter web already use WASM for Skia renderer? - Smash Highlights
+1:36:47 Q: I have an app I am testing on MacOs with Flutter Driver and I want to take a screenshot with it. It appears the only supported options are iOS, android and web. - Flutterfly
+1:37:58 Q: How could I mock '.fromEnvironment' vars on tests? - Verde
+1:40:22 Q: Is there any support to use 3rd party package already in js with jaspr ? - Shreeman Arjun Sahu
+1:41:55 Q: is there any way to compare two different HTML structures? - Verde
+1:42:37 Q: is there any easy way to display point cloud (3D rendering) from a flutter app? - Chathura Chamikara
+1:45:28 Q: How to render images faster? - Ravshanbek Eshquvvatov
+1:50:38 Q Is there a method to integrate Google AdSense into a Flutter web application - mohamed hamdy
+1:51:43 Q: How shorebird hacked compiler to support code push , can it be enabled in dart or flutter web to support hot reload ? - Shreeman Arjun Sahu
+1:52:28 Q : Ai barcode scanner is there with ui customization - Shreeman Arjun Sahu
+1:53:29 Q: Using dart patterns, I was wondering if it's possible to make a record (false, != null & &> 50 && < 25, _) as a const variable. I want to be able to make it more reabable in switch statement. - fireface51
+1:56:30 Outro

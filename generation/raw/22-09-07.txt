@@ -1,0 +1,41 @@
+0:00 Intro
+2:10 Start
+24:55 ​Q: why is there a ketchup bottle on Simon's desk? - Roaa Khaddam
+27:08 ​Q: how can we use DataTable within listview? i am facing a flickering issue. while I'm doing that. please provide any solution for this. - harsh joshi
+29:11 ​Q: Anyone here using dart for the backend for real? - Shanu
+29:24 Q: Have you guys seen the Flutter Animate package that gskinner has released? - The Shrike
+32:53 ​Q: What were some of your favorite takeaways from Flutter Vikings? - Elijah Luckey
+37:40 ​Q Does R8 technology of building bundle secures app from reverse Engineering?- Chandan Gaur
+39:54 Q: any suggestions for dio error handling packages - Mas
+43:05 ​Q: Any cool repo for dart as backend? - Flutter boi
+45:23 Simon: ​Which state management plugin best for flutter app ? - bhaveshsachala@dev
+46:37 Q: I have a project for a client based on Flutter 1.17.0 stable and we will need to upgrade to the last version of Flutter, could you help me about this? - Imad Bouirmane
+50:11 ​Q Any library to put a password on a media file ? - Chandan Gaur
+52:15 ​Q: Can you give us some explanation about the new graphic engine SDK Impeller ? - Imad Bouirmane
+57:39 ​Q: What is the best practice to bypass of CORS error? - Pia
+59:35 ​Q: Related to http, when setting a proxy on the host platform (in Android settings for example), Dart seems to ignore that. Will these updates change that? - Fré Dumazy
+1:00:20  ​Q:Is there a way we can preserve a state of widget if we push another route? Example: lets say I have a webview which plays video in it. I need to implement a fullscreen or push it to other screen. - Krish Bhanushali
+... ​Q: well I get you but can we do that with webviews? - Krish Bhanushali
+1:02:50 ​Q: sometimes flutter apps using platform features like font style in Android, back button icon in ios. is that really supposed to be like that? - Shanu
+1:03:57 Q: What kind of implementations on firebase prevent DDOS attacks? - Pia
+1:04:46 ​Q: Images take up a lot of memory. How to recreate: well load 100 images and see memory shoot up? - Krish Bhanushali
+1:10:25 ​Q : In pageview.builder if we swipe the page, the page data changes when swiping is half done, i want to change that when swipe begins ! - iAbhishekPatil
+1:12:17 ​Q: How can we build for Linux ARM devices from another architecture (eg. Intel Mac)? Is building within a Docker ARM-based container the best option? - Fré Dumazy
+1:13:54 ​Q: any update on Fuchsia? - Shanu
+1:15:00 ​Q: I'm on my way to making a full app with Flutter but I will need a static website, could I use Astro JS inside the Flutter project, if its yes, could you guide me ? - Imad Bouirmane
+1:16:43 ​probably cause Dio merges all kind of errors into a "DioError"? - Krischan1712
+1:17:44 Q: any opensource flutter projects that use android 12 material you (color from wallpaper), for reference? - Shanu
+1:18:17 ​Q: Any Right way to run background service when the app is not in the background ? - Chandan Gaur
+1:22:11 ​Q: Why linting is underrated? Nobody cares about it usually. I think Flutter team enforced some lints in Flutter 2.5. otherwise 99% would not getting benefitted. - Usama Karim
+1:25:07 ​Q: Any suggestions for writing for foldable? (Am I allowed to ask questions 🙂) - Flutterfly
+1:27:41 ​Q: how can we handle live video streaming in flutter? are there any default tools? - Mtho
+1:31:44 ​Q: How do they think unique name about products? feat: Impeller - Usama Karim
+1:32:46 ​Q. What is your approach to debugging issues, after going through your code and it appears you are doing everything right? - David Nwaneri
+1:41:57 Q: What is the best way to connect a sdk to flutter that's written in java for android? What resources should i look for? (willing to learn java too if needed) - Mostafijul Islam
+1:45:12 I could maybe have tried Spacer widget - Calan M
+1:46:50 ​Q: Hashblur Simon? - Krish Bhanushali
+1:47:10 ​Q: I have a decent knowledge in flutter what would guys recommend to learn next ? - Train Of Thought
+1:48:35 ​Q: How can you make a good use of isolates? Is it a good thing to load cached images using object box on other thread rather than on main UI thread? - Krish Bhanushali
+1:52:46 Q: about CI, can you guys share a sample for flutter analyser that fails if rules are not met? - Júlio Tati
+1:53:44 Q:Best way to handle responsiveness in flutter for all screens..... - Ritesh Kumar Tiwari
+1:57:05 Outro with Majid Hajian

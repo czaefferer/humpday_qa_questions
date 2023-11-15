@@ -1,0 +1,22 @@
+0:00 Intro
+3:24 Start
+10:51 ​Q: It's a bit hard to find the Patreon link. Is it part of a plan to make the page more discoverable once hitting a certain milestone? - Pako St
+12:16 ​Q: Danielle, Do you also know any Go? - James Johnson
+13:56 ​Q why not we just use response directly instead to make models and then use so many work to do just get api - Arjun Singh
+18:48 ​Q: I'm really struggling to install and configure cocoapods in mac for building flutter for ios. The official documentation of cocoapods is not helping so much. I need help and suggestions. - prabin maharjan
+23:52 ​Q: Opinion about chat gpt? - Veselin Lazarevic
+26:24 ​Q: Would you like me to add the Patreon link on the Flutteristas website? I can also add links to here. - Stef Patterson
+28:55 ​Q: How to implement dynamic link in flutter web for android and ios as such that if app is not installed then app should ask to user "want to stay in browser or install App from play store. - Uttam Gupta
+32:34 ​Q: Any thoughts on gRPC with Dart for server <-> client communication? - Pako St
+34:58 ​Q: Do you see a future were Flutter dev won't require a fairly high end dev machine? Are others successful developing on cheaper machines...what about a tablet? - Michael Maitlen
+42:58 ​Q is something any way to open flutter zip file ofline - Arjun Singh
+45:17 ​Q: What you are using for animations in Flutter? (some favorite package?) - Veselin Lazarevic
+53:11 ​Q: G. Translator app can be opened from another app by selecting the text in that app and giving "translate" option in the menu. And Translator open top of that app. how to do that with flutter? - Waruna Kaushalya
+56:51 ​Q any suggestions to cope with older versions of flutter packages while working in projects that has been in development since couple of years. Pub dev contains details of newer releases only. - prabin maharjan
+1:00:54 ​Q: Follow up - Can you give guide or advise how to do it with flutter? - Waruna Kaushalya
+1:02:05 ​Q: Can we expect to Flutter be competetive for mobile games vs Unity? - Veselin Lazarevic
+1:04:56 ​Q like sandbox and codepen do you any webpage who play flutter code - Arjun Singh
+1:06:14 Q any chance flutter with blender - Arjun Singh
+1:06:54 ​​Q: Dart server in windows not releasing port after stop through vs code but works on terminal - Shreeman Arjun Sahu
+1:10:33 Live Coding: 3D snowflakes Part 1
+2:24:04 Outro

@@ -1,0 +1,38 @@
+0:00 Intro
+2:35 Start
+15:24 Q: Are you guys all employed? - Chris Chan
+23:08 Q: It is possible on iOS and Android to set the app language (seperatly!) in the settings that users want to see in their app. How is it possible in Flutter to access which app language the user set? - Rebar
+30:23 Q: how can we implement Microsoft in app purchase in flutter windows app - 7mada
+31:25 Q: is there a plan for adding flutter support for c# universal windows applications - 7mada
+34:01 Q: Why aren't there many Flutter jobs in the job market? - Chris Chan
+43:40 Q: can you please explain once how to migrate flutter app to null safety? From sdk:”>2. 7. 0 <3. 0. 0” flutter: “>=2. 2. 0” - Mona Louise
+49:58 Q: Firebase Crashlytics, this app has 104 unprocessed crashes. Upload 6 dSYM files to process them. I don’t have dSYM files for old versions of app, what to do? - Mona Louise
+52:43 Q. How to separate business logic, http requests, state take out of Presentation Widgets, not using provider, riverpod or other popular libraries. - Yaroslav
+1:06:00 Q. Do you ever play the arcade games in the background?😊 - James Foreman
+1:06:32 Appearance Simon
+1:07:46 Ephemeral-state vs. app-state
+1:23:47 (cont) Q: how can we implement Microsoft in app purchase in flutter windows app - 7mada
+1:27:22 Q: Please tell me about the default process of migration old sdk to latest sdk - Chris Chan
+1:30:11 Q: I want to use fpdart with stream data like Firestore snapshot, but TaskEither does not support tryCatchStream. So I convert to Future and use StreamSubscription, is there a better way? - Binh Huynh
+1:31:34 (cont) Q: It is possible on iOS and Android to set the app language (seperatly!) in the settings that users want to see in their app. How is it possible in Flutter to access which app language the user set? - Rebar
+1:32:24 Q;I don't want my firebase chat app to reload the whole chat when reconnect to the internet I want it to only to update new data without reloading the whole chat. - Orion Paul
+1:36:01 Q: What is the best way to update the parent widget when the Childs constraints change? (ex: I have a LayoutBuilder, and I want to call parents setState on a certain constraint. ) - Mostafijul Islam
+1:38:53 Q: According to the recent stack overflow survey, why is the flutter framework high up on the chart 📈, than the dart language itself? - Ugochukwu Umerie
+1:41:41 how about a live coding session from Danielle on this? This sound very interesting 🙂 Even if you end up using a package, always better to at least know how to do it yourself - Krischan1712
+1:43:06 Q: Thoughts on Erich Seidel's approch to make Code Push store-policy compliant? - Krischan1712
+1:44:51 Q: How many different dash plushes are there? I see here 3 different versions - LucasXLucas
+1:48:16 Q: any thoughts on supplying conditional arguments, MyWidget(if (value !=null) param1: value, param2: 'Hello'); - Mitul Vaghamshi
+1:54:20 Q: I learned sizes go up, constraints go down. so no back and fourth. how does the layout work then with a column containing: Text Spacer Text? - David
+2:02:43 Q: How many function/classes should be in one file? - Yaroslav
+2:11:32 spacer saying: I want all the space available. if a list view does that we get a unbounded height error - David
+2:15:28 Q: Live code push using shorebird?? - Shreeman Arjun Sahu
+2:15:51 Does simon have a youtube channel as well? - Reiko
+2:25:45 Q: Riverpod CN And SN vs Notifier and AsyncNotifier. . - Shreeman Arjun Sahu
+2:27:48 Which FlutterCon talks are you most excited to watch online? (Beside your own, Simon) - Taha Tesser
+2:30:56 is FlutterCon video available online? - Mitul Vaghamshi
+2:31:40 Q: How can I create a multi-tenant app in flutter, such as a seller and a buyer on the same app? - faruk amoo
+2:33:16 Sorry, I wasn't here. But about the dumb question of mine. Layout builder and Parent setState. Basically I am trying to add some space under the SliverAppBar when the AppBar is collapsed. - Mostafijul Islam
+2:40:59 Bcz my scrollable widget kinda hide under it. And I have a tabBar. All the tab with scrollables. And if 1 scrolls they all hide under the appBar. - Mostafijul Islam
+... I guess a better question would be is there any proper way to know if a sliver app bar is collapsed or not 🤔 - Mostafijul Islam
+2:42:15 About Puro
+2:43:28 Outro

@@ -1,0 +1,32 @@
+0:00 Intro
+3:14 Start
+8:39 About Flutter Processing
+14:45 ​Q: Do we need to write platform specific code whenever we are adding Bluetooth related modules in app? - Nikhil Reddy
+18:03 ​Q: Are there docs and/or tutorials about the Dart VM? - Darrell Brogdon
+20:17 ​Q: This might be off topic but i would like to know ..Why is the winner announcement given a gap of 15 days when the judgement has already ended today : ) - Nikhil Reddy
+21:10 ​Q: will there be flutter event in the i/o 2022 - Zaldy Jr. Pagaduan
+23:28 ​Q: Is there a way to have separated widgets for iOS/Android without having them bundled in the final application if they are unused ? - Testeur Maniak
+30:44 Q: I am making an app that helps studying Math, can Flutter render LaTex well, it is a markup language for displaying the Math functions, definitions, symbols... and even the diagram. Thanks - Binh Huynh
+35:24 ​Q: Can you show us how you set-up your flutter project. Like how you structure your folders, where you put reusable widgets, where you save your state logic, how you setup tests and so on... - gnuion
+45:33 Q: In the future, can Flutter's render engine Skia support 3D? And do we have any developing tool like Unity that help making game easier? I want to follow on the game aspect. Thanks 🙂 - Binh Huynh
+47:00 ​Q: Do you have any insights on what is currently blocking isolates to come to Flutter Web ? - Testeur Maniak
+50:52 ​Q: precache should be included in initstate or didChangeDependencies? which is better - Ruchit Mavani
+56:01 ​Q: How to create iOS plugin with objective-c xcframeworks - avinash royal
+58:41 ​what does didchangedependencies exactly do? - Mesota
+1:02:39 ​Q: Getting ad limits for Google admob package !! What to do ?? - Phantom
+1:03:42 ​Q: @Simon, are you planning to merge the pull-request in flutter_infinite_listview that adds snapping functionality? It would be great to include it especially with scrolling speed option. - Richard Rouzeau
+1:04:13 Q: can I programmatically manipulate the widget tree at runtime? I am working on a project similar to an app builder. I need to be able to access and manipulate the widget tree at runtime - Peterjohn Abuashia
+1:07:17 ​Q: Did Matt buy those frames or did he 3D print them himself? 🙂 - John Wiese
+1:08:35 ​Q: can we implement bridging-headers in flutter iOS plugin and how do we add them in the module map and use them in the swift class files? @Simon - avinash royal
+1:10:07 ​Q: bode hallakwhat's the best practices for bottomNavigationbar to be persistent for all - bode hallak
+1:12:10 Flutter Processing with SuperDeclarative!
+1:14:28 ​Q: Do we have a documentation for pubspec in flutter? - avinash royal
+1:14:47 cont. Flutter Processing with SuperDeclarative!
+1:48:01 ​Q: Can the animation change state, ex: increase speed or change blend mode when receiving an event? - Binh Huynh
+1:54:25 cont. Flutter Processing with SuperDeclarative!
+2:00:33 ​Thank Math, but if we have many different devices, can they have the same time tick, I mean the delta time related to refresh rate? - Binh Huynh
+2:04:53 cont. Flutter Processing with SuperDeclarative!#
+2:06:39 Appeal to the Flutter team
+2:14:44 ​Thanks Math, I understand now, I also want to introduce Flutter with teacher that can draw Math and Plot function map and show to their students 🙂 - Binh Huynh
+2:17:14 ​Q: the load time of your web is so fast, how can you optimize flutter web to achieve speed? - Bui Duong
+2:21:05 Outro

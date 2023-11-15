@@ -1,0 +1,39 @@
+0:00 Intro
+2:59 Start
+11:03 Introduction to Isar
+22:46 Appearance Majid Hajian
+31:52 ​Q: Is Isar offline database or can it be used for online storage? - Roberto Potrus
+33:35 Q: What is difference, pro and cons between Drift(Moor) published by Simon and ISAR published by Simon xD? I quite frequently use Drift so, curious to know... - Harshit Kumar
+38:20 ​Q: Realm is in beta, anyone has tested that and have early feedbacks about it? 🙂 - Jimmy Aumard
+39:29 ​Q how to identify which database is used for specific project? - Sehar manzoor
+... ​Q which database is used in uber like apps? and like netflix? - Sehar manzoor
+41:21 ​Q: What is the relative performance and query as size grows compare to SQLite? - Harshit Kumar
+43:20 ​Q do you have to always copy a “resource”db from assets/ into memory, as opposed to dealing with the original db file? (The only SQFLite examples seem to require a this temp db copy stage) - Calan M
+46:08 ​Q: (just got here, might be asked/answered already) Does Isar synchronize over simultaneous running isolates? - Fré Dumazy
+48:30 ​Q: (unrelated to DB) if i install my PWA on a windows or macos, does the PWA uses the WEB part of the flutter/dart packages ? Or does it use the respectively WINDOWS and MACOS part of the packages ? - Joran ERBS
+54:48 ​Q: (unrelated to DB) Can an overlay be added during initState without ...addPostFrameCallback() ? Tutorials only show overlays being built at runtime, using the .insert() method, which uses setState() - Joran ERBS
+​56:09 ​Q: Should the Isar objects be used throughout the app or does the database then dictate too much? Topic of multiple layers in the app. - Jannik Rhode
+57:51 ​Q: With Isar, would you store data multiple times like NoSQL typical so it can be used as needed? With SQLite it is possible to load any new data structures from the database through joins. - Jannik Rhode
+1:03:11 ​Q: when we use bloc and provider? - Sehar manzoor
+... ​Q when I used change notifer, listanble provider etc.. There are lot of providers? How to know which provider is used? - Sehar manzoor
+1:07:45 ​Q which db or storage or cache used to show the data while internet offline in apps? - Siva Kumar
+1:08:55 How does Isar handle updates to the model? - Simon 1
+1:10:54 ​Q How can we communicate with different programming languages by using dart like dart:ffi? - harsh joshi
+1:12:54 ​Q: How to build an multiplayer game with flutter? I've seen poeple use database, but it seems to slow for some games - Roberto Potrus
+1:16:19 ​Q. on my app launch i need some data from shared preference. how do I init those data/fetch from shared preference? my widget depends on that data and using provider. - Mohammed Rahil Ovaiz
+1:19:02 ​Q: What is best book to start career as beginner to advance - Sehar manzoor
+1:21:12 ​Q: meta programming any updates? - Mas
+1:27:20 Q Since flutter is supported by 6 different platforms, what is the biggest flutter challenge for the future in your opinion? - Enzo
+1:34:04 ​Q: With Riverpod, the provider.when() function is convenient. Is there a way to do the same for multiple providers at once, for exemple with one single .when() function ? - Joran ERBS
+1:36:32 ​Q: Hi, is Isar a good choice for ~25MB wav music files? - Richard Rouzeau
+1:39:51 ​Q: multi provider build whole flutter screen? - Sehar manzoor
+... ​Q which patren is used mvc or mvvm in production level app? - Sehar manzoor
+1:42:22 Q: what is the state of dart over backend with isar database? - vipin malik
+1:44:48 ​Q: Is it practical to play a game's sounds in an isolate? - Richard Rouzeau
+1:46:39 ​Q: Is it possible to add and remove items from listview and without rebuild whole list view? - Roberto Potrus
+1:49:53 Q: When you open a Dialog and that dialog going to open another one. But before it open another one i would like to pop the current one. But if I do so, i get error when I try open another dialog - Roberto Potrus
+1:52:00 ​Q: My Stack children(separate-widget) depend on consumerWidget & refresh frequently(<.5sec). Should I watch once & pass data to children or use consumerWidget for each child & watch same [riverpod]? - Md.Yeasin Sheikh
+... ​Q: Consumer(watch(data1))=> Stack[ NewWidget1(data1)...NewWidgetN(data1)] OR Stack[NewWidget1<Consumer(watch(data1))...NewWidgetN<Consumer(watch(data1))>] , riverpod performance case ui update(<.5sec) - Md.Yeasin Sheikh
+1:57:28 ​Q: what use future builder with listview.builder if I have list of documentSnapshot. - Raghav Shukla
+1:57:41 ​Q: The big music files need to be shareable among a limited number of users. - Richard Rouzeau
+1:59:52 Outro

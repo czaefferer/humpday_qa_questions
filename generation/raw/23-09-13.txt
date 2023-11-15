@@ -1,0 +1,31 @@
+0:00 Intro
+3:09 Start
+10:38 Lukas about Flutter & Friends
+20:03 Q: can you talk about Expando in dart? - Nidal Bakir
+28:22 Q: How to paste images into flutter app when copied on macos? - Andrija Oreskovic
+36:13 Q: what are the career opportunities for a Flutter Developer who starts to adapt (node.js, mongoDB, Express.js, Typescript ) in his/her skillset? What you suggest we adapt as additional effort for it? - Ruqaiya Sattar
+41:02 Q: how can I communicate with native code by using a flutter channel is there any good source for learning for both Android and ios - Ridz Creations
+59:40 Q: is there any dart pure package to create video animation like After affects? - Islomkhuja Akhrorov
+1:01:48 Q:I have something related to ui , how do you dynamically change ui from backend server , like backend decides what needs to be in the ui - The Chromic Journey
+1:08:32 Q. I recently had an interesting interview experience where i was asked to create an asteroid game without any packages at all, I am curious as to how to approach it (contd). - subramanian r
+...Q.(contd) I created a game logic class which updates the location of astroid and space ship with each tick and used a single custom painter to paint the astroid and spaceship and repaint based on - subramanian r
+1:10:57 Q: PDFView gives blank screen after device rotation, using flutter_pdfview. any solution for this? - Mona Louise
+1:16:13 Q: I need to implement the thing where a 2fa text code is auto-filled into a TextField. Does anyone have a preferred package? Looking at sms_autofill. - Matthew Jones
+1:18:32 Q: Can flutter community assign some native developers(specially iOS) to flutter community workmanager, it has been left quite behind compared to native android workmanager and iOS BGAppRefreshTask - Absaar Hunzai
+...continued: There are many open issues without any update from a long time e.g. 306 - Absaar Hunzai
+1:23:08 Q: what is the recommended way to exit flutter app? Want to exit app after finding device jailbreak/rooted? - Mona Louise
+1:27:51 Q: how to work with realm in flutter web. the official plugin do not support web. - Malak George
+1:29:00 Q: I was used to using VS NET Web Forms visual page designer. Do you like to use a visual designers (like FlutterFlow) or perform to layout pages via code? Currently I do not use any visual designers - Marco Napoli
+1:34:12 Q: are you going back to the chart animation code? 👀 - Jéssica Pereira
+1:36:54 Q: integrated twilio programmable video? lemme get a detailed documentation. - Shanu
+...Q: Have you tried ffmpeg library? if yes, can this library help to make video animation? - Islomkhuja Akhrorov
+1:40:37 Q: can you recommend any package to work with audio and video (pure dart)? why not flutter? because it cannot be run for serverside (backend) if there are no such libraries... - Islomkhuja Akhrorov
+1:42:11 Q.what jessica said the graph with money few weeks back - subramanian r
+1:43:01 Q: I want to use Provider to expose data without repeatedly passing it. It will never change once created, so I don't need to listen to it. (cont.) - Smash Highlights
+...(continued) There's the context read method, but for some reason the docs say you shouldn't call it in build. - Smash Highlights
+1:44:25 Q: Sounds like someone needs to go through all the steams and then create a GitHub list and put it on the Flutter Community repo. Right? - Stef Patterson
+1:47:58 Thomas about GetIt and WatchIt
+1:58:30 Live Coding: Scaling Layout - Gist: https://gist.github.com/slightfoot/81176152d5c27df42e9049103de48a9a
+2:54:18 Simon about Flutter-Streams website
+2:58:27 (cont.) Live Coding: Scaling Layout
+3:22:07 Outro

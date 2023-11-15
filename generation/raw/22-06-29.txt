@@ -1,0 +1,40 @@
+0:00 Intro
+2:00 Start
+15:26 ​Q: I really want to know about this, Dart it's a general purpose language or can it be ? - Imad Bouirmane
+19:03 ​Q: Stream vs Polling vs Silent notification to update app state (Cost 💸wise) if using firebase - HAWSI AADMI
+22:50 ​Q:I have a idea to combine Shelf and Isar. So clients can send request to retrive, insert, delete records. But imagine one client deletes a record and another one edit that record. Is this a bad idea? - Roberto Potrus
+25:00 ​Q: @Randal , yesterday you've mentioned on an SO answer that super.initState() has to be called before anything else in an override. I agree as best practice but curious where this could go wrong - Fré Dumazy
+... ​Q (as follow-up): would this also apply to super.dispose(); - Fré Dumazy
+27:55 ​Q: Why is there no const DateTime() constructer? - Roberto Potrus
+32:23 ​Q: What is the recommended strategy to integration test my Flutter Web app? I use cookies, file uploads and native JS dependencies so running on iPad is no option. Wait or use alternatives? (Selenium) - Robin Dillenburg
+​36:48 Flutter is primarily a single threaded solution (with the exceptions of isolates). Is there any plans to move async code to something comparable to coroutines? - Ryan Newquist
+37:31 ​Speaking of dispose, what should the method for async dispose methods? For instance, a notification that a widget has been close, this works with running the application, but fails in unit tests. - Ryan Newquist
+38:45 Q. how to create fixed and growable list in Dart 2.17? - dhrub rawat
+43:55 About Widget constraints and sizes
+50:43 ​Q basic why in many flutter pub imports we need to repeat the “package_name/package_name.dart”? Why is it not just import “package name”? (Just really curious) - Calan M
+52:48 ​Q: I have a const model with default params. But I would like to create a empty const model. By using const factory empty() => Model(). But it ask me to replace factory with static instead. - Roberto Potrus
+58:32 ​Q : how to handle app crush - Adil Ayoub
+59:09 ​Part 1 - Q: I really like your analogy related to initState and dispose, would it great to hear if you have one for widget tree, element tree and render tree? - JuanCa!
+59:55 ​Q: How to run the ONNX model on flutter. - 한힘찬
+1:00:34 ​Q: With Riverpod I see dispose of NotifierProvider and refresh of WidgetRef, how can I use it properly, ex changing route or switching tab menu. Could you show an example of these functions? - Binh Huynh
+1:04:52 59:09 Part 2 - ​Q: I really like your analogy related to initState and dispose, would it great to hear if you have one for widget tree, element tree and render tree? - JuanCa!
+1:07:21 ​Why doesn't Google make Dart the default language for Android? - Young Developer
+1:09:29 ​Q: How would you approach a "lazy CustomScrollView"? Or are there any packages? - Simon Leier
+1:11:39 Q: Hello and thank you for your great effort, I'm asking about if I want to receive messages or listening for change in api acting like foreground service and showing notification for change ? - Alfatih Talab
+1:14:42 ​Q: Also what’s the api to get appBar size? - HAWSI AADMI
+​1:16:40 ​Q: Why is there no aesthetically equivalent plot package in flutter like matplotlib or ggplot2? - 한힘찬
+1:18:03 ​Q: Does anyone know if it is possible to run a custom task every 6 hours on ios, regardless of whether the app is closed? - Soyo Tresdoce
+1:20:05 ​kToolbarHeight (korea ToolbarHeight)? - 한힘찬
+1:24:19 ​Q: Anybody ever tried to add a new type of platform renderer? Would be fun create an implementation and use Flutter to render things in a terminal or on a LED-panel, or any other type of display - Fré Dumazy
+1:25:35 ​Q: Earlier, Simon said "that's a symbol" about something like "#header". Haven't heard about symbols before, where can and should we use them? - Fré Dumazy
+1:28:46 ​While the Flutter Style Guide recommends hungarian notation only in certain cases for contributions to the framework, the Effective Dart Style suggest not to use them since dart is statically typed - JuanCa!
+1:35:07 ​Q: What is the second technology you'd suggest someone to learn who started his development journey with flutter?? - Mostafijul Islam
+1:42:36 ​Q: What would i use if I would like to create a Box for every use that login and show it on every user screen. So they can see eachother. Is this a job for a websocket? - Roberto Potrus
+1:44:18 ​Q: How to compress images before uploading them? - Akshat Tamrakar
+1:48:15 ​Q: I was reading about static meta-programing. what other features in dart can make better language like of the Kotlin or Swift? - vipin malik
+1:56:10 ​Q: One silly question i was curious about. Like why functions need to get warmed up?? like in my head it's just a machine. But why things works faster when it gets used to it? - Mostafijul Islam
+2:00:07 ​Q: @Simon Status on your 3D package? - HAWSI AADMI
+2:00:43 ​Q: It was from a talk about cloud. And like there functions didn't got ready instantly. So like they had to keep functions warmed up. - Mostafijul Islam
+2:01:38 ​Q: I watched the boring show and got inspired to use Shelf. when is the next episode?- Roberto Potrus
+2:02:09 ​Q {Quick} what books series bid Simon mention about how compilers work? - Calan M
+2:12:04 Outro

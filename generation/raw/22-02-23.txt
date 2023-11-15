@@ -1,0 +1,48 @@
+0:00 Intro
+2:30 Start
+5:07 Introduction @sign
+8:13 IoT and data security @sign 
+20:51 ​Q: end to end encryption: symetric or asymetric? if symetric, how are they keys shared? - cekroz
+27:42 Would it makes sense to use this for building apps around the FHIR Healthcare APIs? - Marte Baquerizo
+29:17 ​Q: is your code available somewhere 🙂? I'm interested in all the security aspects of it. - cekroz
+44:25 ​Q: you have a cross-platform security on Android, iOS, Windows, Mac, Linux.. no Web? - cekroz
+46:35 Q: is it hipaa compliant? - M. A.
+50:13 ​Q: How can we make a responsive app which will automatically scale according to different mobile screen sizes ? - Biswajit Kumar Paul
+50:49 ​Q: how can I run a firebase cloud function in the background (say once I launch the app) without awaiting for it. I wasn't able to do it in an isolate - M. A.
+51:49 ​Q: Can I implement bloc architecture without using flutter_bloc plugin and only use provider? - M. A.
+54:36 ​what do you think, will dart also cover backend?) - Islomkhuja Akhrorov
+58:55 ​Which one is better ? Bloc or Provider ? - Abror Shamuradov
+59:48 ​Q what is the simplest way to make responsive app ? if there are widgets plugin can help me ? - Mahmoud Abdelrazik
+1:00:25 ​Q: Simon, a few weeks ago you talked about API keys and retrieving them from the web (instead of storing in the app's binary). Couldn't this potentially be "interceptable" by prying eyes also? - PowerDroid
+1:01:33 ​Q how to improve the seo of flutter web ? - Mohamed hamde
+1:03:32 ​Q: I have a Java/Swift native library who gets its result in a callback and is executed using the Main/UI thread. How can Flutter execute a native call and get the response from such a callback? - cekroz
+1:08:09 ​Q: Currently using Firebase Functions for my project and my question is, Do i need to study NodeJS (typescript) or use package (firebase_functions_interop) to deploy? What do you recommend? Thanks - john andrew asaria
+1:10:13 ​Q why flutter not use webassembly..if they do web performance can be increased - Akshay yadav
+1:15:30 ​Q sure, you get this A LOT, is Dart/ Flutter ok for a good first step into getting a job or should I learn native first? - cloudx190
+1:18:18 ​Q: is there a way to extend a class and automatically pass arguments to the superclass without having to type them all in. e.g wanted to extend text theme but the text theme class has too many args - Ziki Ivan
+1:21:31 ​Q. I thought I need to learn node.js to write cloud functions . can dart only be used to write my cloud functions? - Naman Srivastava
+1:22:29 Q: After upload to google play, i get a report back. That there some issues such as stability and few more. Is it something to worry about? - Roberto Potrus
+1:23:42 ​Q : are you afraid of rooted / jailbroken devices that could see these keys compromised? Do you have anything to counter that? - cekroz
+1:25:15 ​Q. what's the difference between 'with' , 'extends' and 'implements' ? - Naman Srivastava
+1:29:08 ​Q.how to minimize the size of the application, because it contains larger Mbs ,that apps like calculator etc ,Why its happening? how to overcome it? - Dubakoor D
+1:31:45 ​Q: If you were to hire a flutter developer would you ask questions about ds and algo as well ??? - Train Of Thought
+1:41:02 ​Q: if you have a main scaffold on IndexStack and switch pages. how do I have different appbar actions on those pages. since now appbar is on main scaffold - Roberto Potrus
+1:42:04 ​Q. Can I use the List that I get from one provider to be used inside another provider? - Naman Srivastava
+1:43:01 ​Q. If were starting from scratch and you are trying to get a flutter developer job where would you start ?? - Train Of Thought
+1:44:12 Q. I feel i don't can't anything when it comes to build or create anything by myself despite hundreds of hours i spent watching and practiced along . Do you have any advice? - naser Amer
+1:46:47 ​Q: Using Firebase Functions what do you recommend for the backend side (using http,trigger,sched) Do I need to study NodeJS or use package (firebase_functions_interop)? What do you recommend? thanks - john andrew asaria
+1:47:34 cont. ​Q. Can I use the List that I get from one provider to be used inside another provider? - Naman Srivastava
+1:48:53 ​Q: how to use git for flutter? - Dubakoor D
+1:49:12 ​Q Speaking of PHP; Does Dart support variable variables? - Darrell Brogdon
+1:53:01 ​Q: How to add appBar if you dont have a scaffold? i'm bit forced to have the appBar on the main page. Using scaffolds on other pages cause e.g drawer is behind some content - Roberto Potrus
+1:53:58 Q ios has Flutter target in xcode for schemes but what for Android to set flutter target to set which main file will run?? - Ruchit Mavani
+1:54:52 Q: How to make font size responsive in flutter? - Biswajit Kumar Paul
+1:57:00 ​Q to everyone: is the fact that dart is single threaded considered a limitation? - M. A.
+1:57:56 Q: How to avoid use "code" such as loops inside the UI. i usually break it to seperate function. Is it okay to pass context to the function? FYI This is widgets that do not rebuild. - Roberto Potrus
+1:59:19 ​Q: if I am using Firebase Auth, can I use it with Cloud Run? or do I need to implement a separate auth for Cloud Run? - M. A.
+2:00:40 ​Q: every primitive type is an object does what does it exactly mean ? - Train Of Thought
+2:02:54 ​Q: What is alternative for Oncomplete in firebase storage? - Dubakoor D
+2:03:21 Using ClipRRect > BackdropFilter for flutter puzzle grid tiles. Even though filter is clipped around each tile, its main border goes around the whole grid instead of each tile. - Richard Rouzeau
+2:03:57 Q: How can I store keys in hardware? is there a plugin for this? Same for JWT tokens, how to store them securely. - M. A.
+2:05:04 Why the questions about Flutter und Blockchain? - Scott
+2:06:04 Outro

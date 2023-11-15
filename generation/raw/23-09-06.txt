@@ -1,0 +1,32 @@
+0:00 Intro
+2:14 Start
+7:03 Q: Why is for example Color and Rect part of Flutter (dart:ui) instead of directly included in Dart? - Flutter & Friends
+19:17 Q: Now that we have element embedding in Flutter web, do you think it will be feasible to embed an app on a site using just a script tag and a CDN? - Gary Montgomery
+23:27 Q: I'm looking to do a light 3D sim inside Flutter (basically some dice rolling). Is there a good 3D engine for Flutter that I could use? - Matthew Jones
+29:17 Q: Can the FCM token on ios still alive even after the user uninstall the app and reinstall it and then generating new token? I think the tokne still alive and the server can send notifications to it - Nidal Bakir
+32:54 Q: What (and why) is better for organizing files in flutter project, libraries or packages ? - Karol Kąkol
+42:55 Q: I'm handling form input within my widget class. I want to move this logic to a controller. I use Provider for state How can I handle form input in a controller in a clean way while using Provider? - Viride
+45:24 Q: How to create a logic circuit simulator in flutter? - Dương Bùi
+46:44 Q: About fcm, I'm trying to log when a user receives a push on IOS, I put my code on onBackgroundMessage, but it's no logging, any advice for that? - Jéssica Pereira
+49:10 q. I want to achieve photo filters in listview which will be in bottomside using photofilters package but unable to edit the dependencies.. Can you show quick example for editing dependcies design - Rutvik
+56:01 Q: Will KMM (kotlin multiplatform) kill Flutter? - Vess
+58:32 Q: If we are using Bloc library, where is the best place to handle errors from data layer? I mean possible network errors, because in lot examples I see a lot of retrow - Vess
+...Q: And if you have some example, some repo with that would be awesome to share - Vess
+1:03:54 Q: Any prefs for handling multiple environments (dev/staging/prod/...) in Flutter? Mostly used one build per connecting env (via flavor) but had good exp with in-app env selector for 1 non-store build - Fré Dumazy
+1:08:46 Q: What are your thoughts on shorebird, remote config and the possibility of customising release apps remotely? - Hrithik Mishra
+1:16:29 Q: I want to integrate shorebird to fshare but how i will handle updates with patches bcz currently i am using gh releases api tobcheck updates and shoe update dialog about it ? - Shreeman Arjun Sahu
+1:17:49 Q:In my flutter interview ,they asked how do handle concurrent access on list operations. But i told dart as single threaded ,nothing like that will happen . But i think thats wrong ?? . Simon - Shreeman Arjun Sahu
+1:26:00 Q: How to dispose a Bloc? Given, blocs are declared as a warraper around the MaterialApp. - Momshad Dinury
+1:27:33 Q: can you talk about Finalizer in dart? - Nidal Bakir
+1:33:06 Live-Coding: Custom Text Field
+1:45:15 Q: What state manager did you use in your last project? - Soyo Tresdoce
+1:45:27 Q: What's the recommended method for transferring form data from a widget to a controller(presentation layer, riverpod). Creating a save method in the widget class or an alternative approach? - Viride
+1:47:24 Q: What is a good way to store fetched Data locally, as you discussed earlier? - MichaelBlWi
+1:48:12 Q: Is there a way to have DEBUG only assets...? I don't want to use some of assets mentioned in pubspec.yaml in release build. - Mitul Vaghamshi
+1:51:28 Q: I have a Selector that should rebuild when a List changes, however it will only rebuild if the List is reassigned to and not when items are added. This feels wasteful, what do you guys think? - Smash Highlights
+1:53: 49Q: My company using singleton as controller and with value notifier bcz my lead told they dont want to use any state management bcz 3rd party. But i mentioned with Andrea blog about singleton test. - Shreeman Arjun Sahu
+1:55:08 Q: Is a bad idea to have all bloc providers defined inside the main.dart? In that case all blocs will be available everywhere, do they need to be scoped for specific screens? - Vess
+1:58:00 Q: Could you please share the vscode extension for rainbow-cat progress-bar at the bottom in your vscode? :D - Tirth Patel
+1:58:33 Live-Coding: Responsive widget with custom RenderObject
+2:31:35 Q:Want to use state management in our company app but they told to not to use any state management where the application grows ? Also they are cloning opensource plugins but not contributing ?Its bad - Shreeman Arjun Sahu
+2:35:58 Outro

@@ -1,0 +1,28 @@
+0:00 Intro
+1:58 Start
+16:26 Q: Is having a global class to provide most used small widgets a bad idea? class Texts { static const loaderText=Text('Loading ...'); ... } - Amsakanna Chandramohan
+20:50 Q: Are there any limit on Riverpod how many providers you can have? I tend to split the providers into smaller ones - Roberto Potrus
+26:22 Q: is there a way of creating multiple isolates for various tasks, then also have control of the order in which they give their results back? - Mthokozisi Ngwenya
+29:51 q: Danielle, thanks for the Flutter Forward web performance tips! How long have you been working on Flutter Web, and are you excited for the web assembly enhancements? - Eli Geller
+32:30 Q: Is there anyway to call a flutter module from kotlin code & return a value from that flutter module to kotlin side? - Hashan Kannangara
+34:09 Q: Is having a single global state per module (eg. auth module, checkout module) in bloc a bad idea? If so why? It is easy to send events and listen to state. Can states have view models? - Amsakanna Chandramohan
+40:37 Q: As a Flutter developer, how important is it to know native Android/iOS development? - Mala
+44:34 Q: what's jaspr dart ? , is it better than flutter for web ? - Muhammad Omer
+48:49 Q: in a Flutter app, by default we get an AppDelegate on the iOS side, but we don't get an extension of "Application" on the Android side, how can I add it? I need App (not Activity) lifecycle. - schwindlar
+51:29 Q: Are the Statefull widgets less performant than Stateless ones? is it bad practice to have Statefull widgets for every screen? - Mthokozisi Ngwenya
+53:47 Q: DDD entities are mutable and the overridden == returns true when the ID's match. This hence does not publish states in bloc. what's the solution? - Amsakanna Chandramohan
+59:40 Q: Do we have any project that start develop a game editor on top of Flutter? - Binh Huynh
+1:03:16 Q: is it good to show dialogs using global context from naviagtor key ? - Shreeman Arjun Sahu
+1:09:43 Q: In a deeply nested tree, is widget lookup expensive - relating to performance. Like looking up a Provider or an Inherited widget - David Nwaneri
+1:13:54 Sarah announcing upcoming Flutterista Conference
+1:16:11 Q: Hey Everyone :)... Hey Randal.... Mostly asked in flutter about using it for the Web..what would you suggest after so many improvements coming in.. - Hrithik Tiwari
+1:18:48 Q: I use InfiniteScrollPaginatipn package for infinite scroll. But I cannot use the PagingController in Provider for mutliple Widgets (Like an Overview and Detail Page). Do you have any experience? - Rebar
+1:23:46 Q: This is regarding js to dart interop. I've registered jsobjects to dart:js 's context object so that it can be called from JS. (1/2) - Boolean
+...Q: This works on web in the browser, but it does not work when running in iOS's JavaScriptCore because self is not defined. Do you know if there is a workaround? (2/2) - Boolean
+1:28:15 Q: Is it best experience to use StatelessWidget and declare controllers inside Bloc and dispose it inside Bloc's close function or to use StatefulWidget and - Jack Fox
+1:30:10 Q. can you guys suggest any open source app to understand state management specifically bloc best practices? - Train Of Thought
+1:31:49 Q: Guys do we have some book like 'you don't know dart' (inspired from 'you don't know javascript') - Hrithik Tiwari
+1:36:07 Q: What's the best way to set different icons & name for different app flavors? - Nzubechi Anyanwu
+1:38:39 Q: If you manage the state in a store, can all your widgets be stateless? - Jon Zuka
+1:41:06 Q : autoroute with navigator key and checking mounted property for showing dialog on riverpod notifiers ? - Shreeman Arjun Sahu
+1:42:56 Outro

@@ -1,0 +1,25 @@
+0:00 Intro
+1:34 Start
+18:50 ​Is there a roadmap for learning animations in flutter? - Samuel Aimar Mauricio Laime
+19:23 ​Q:Is there any way i could turn on bluetooth from my app ? - Eashubh Thapliyal
+20:21 ​Q:the new android12 bluetooth thing..my app uses google maps and location obviously and uses bluetooth too but do i need to assert "not for location" in the manifests file ? - Eashubh Thapliyal
+26:31 ​Q: is it possible to download plugin dependency after installing the app? I am using ffmpeg_kit_flutter but it increase app size by 120 mb - Raghav Shukla
+29:39 ​Q: each language has an advantage and a reason to use it as a backend, what is the advantage of using dart on the server? - Samuel Aimar Mauricio Laime
+32:55 ​Q: Upload images to my server. Should I convert the images (webp) in the app before upload or should I handle it after at the server side? - Roberto Potrus
+36:37 ​Q: How can i position a snackbar? Such as at the top of the screen? - Roberto Potrus
+40:55 ​Q:Do you have any advice for managing private dart/pub packages in an enterprise scenario? - RazzleMyDazzle5
+44:27 ​Q is there anything new news related to Flutter web performance boost. - dhrub rawat
+46:28 ​Q: SSR in Flutter Web? Is it even possible in the far future 😁? If not, what is the main reason? Thanks! - Sorin Eugen
+50:02 ​Q: I've heard that flutter web is not good on SEO, what are some approaches to solve that? - Mtho
+50:46 ​Q: when is the next Flutter live event so we can meet 😉 - Jimmy Aumard
+51:46 Q: Is it possible to support playing DRM video via official VideoPlayer plugin? - Jimmy Tai
+54:27 ​Q: Can we connect MySql Database to a Flutter desktop app? - Hashan Kannangara
+57:38 ​​Q: Handle json string. Is it worth to convert it to Map<String, Object>? Or should I keep it dynamic? - Roberto Potrus
+58:57 ​Q: any idea to check device time wrong or note mean manual time set or not, (offline) - Tech1st
+1:00:39 ​Q: what are some best practices of protecting a flutter application over time from issues or vulnerabilities in dependencies? - Mtho
+1:02:30 ​Q: How I can print Arabic text on a Bluetooth connected thermal printer? - Shanavas Basheer
+1:04:28 ​Q: How to find remote job? - Dương Bùi
+1:05:20 ​Q: With Flutter web how can I remove the loading indicator on top of the screen when user refresh? - Binh Huynh
+1:07:26 ​Q: How to extract list of data from ListView where each Tile is stateful has its own data? - Akshat Tamrakar
+1:09:01 ​Q: ntp plugin working in offline? - Tech1st
+1:09:54 Outro

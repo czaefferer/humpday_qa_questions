@@ -1,0 +1,20 @@
+0:00 Intro
+3:54 Start
+19:58 Q: Any breaking changes in flutter 3.10 and dart 3? - Ugochukwu Umerie
+34:17 Q is there a sample Dart Websockets app, that watches for Postgres LiSTEN/NOTIFY and then forwards that data to the connected Flutter app? - Mike Taylor
+36:50 Q: I have created a local package imported from the directory in the mono repo. How can that package have its own assets? I seem to have to include them in the application itself. (fonts and images) - Flutterfly
+43:39 Q: what will be bundle size of flutter web app after complete implementation of flutter wasm? - dhrub rawat
+47:07 Q: Anyway can we get translated files for localization given app_en.arb? - Krupal Vasani
+51:58 Q: I'm building and bundling ios app for integration test on firebase test lab and the uses flavors like dev, .., the build finish success but gcloud upload gcloud cli error of **Test Failed to run** - KladOS
+55:04 Q. I am having issues with running go router and bloc. I am unable to redirect to login or home screen. both context watch() and context read() is either causing error or state is not updating - subramanian r
+58:22 Q: What is the easiest way to deploy a Flutter build to Android users prior to getting on the Play Store? - bille
+1:02:21 Q: can you please explain how to build .ipa file for testing purpose? I tried with flutter build ios command and then Payload->zip>rename to .ipa(stps here written in shortcut) and it's not working. - Mona Louise
+1:05:20 How do you turn a flutter app into a Chrome extension? - Randal
+1:06:22 Q: Has anyone tried antlr4 in dart? I have a compiler class so I want to use it for assignment - Duong B�i
+1:08:24 Q : Is there a Flutter package , lib or engine to create educational exercises suitable for kids (Matching-Fill in the Blanks-True or False-Word Search-Puzzles-Drawing or Coloring Activities-) ? - Hamza Zagrouba
+1:15:40 Q: Will Flutter web ever have Impeller? Would it have any performance advantages over canvaskit/html? Can you explain Flutter Wasm? what are pros/cons? - aytunch
+1:21:48 Q: Part1: I have a bunch of widgets rendering dynamically. The widgets are gonna be selected among an already fetched items from an API by user. - Amir
+...part2: After selection done, widgets' gonna be rendered by tapping on a confirm btn. However, I need to be able to reorder the items within the selection. selected items saved in a list. any idea? - Amir
+1:29:24 Q: what is your thought about shorebird? (shorebird fot dev), if they can do OTA, why flutter can't? - Muhammad Faiz Abdillah
+1:32:14 Live Coding: Quizz app - Gist: https://gist.github.com/slightfoot/d098812e2228b21d60b25543f4425ae1
+2:55:22 Outro

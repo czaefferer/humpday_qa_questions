@@ -1,0 +1,17 @@
+0:00 Intro
+3:22 Start
+9:28 About inline classes
+21:38 Q Hi, there I have a problem with some Android devices and system back button. I'm using go_router for navigation and when user press system back button inside the phone, app is minimized - Veselin Lazarevic
+... Q And I tested on POCO and works regular, just switch to the previous page but with Samsung, and Xiaomi app si minimized - Veselin Lazarevic
+34:12 Q: When can someone can be considered as a senior? What would be a good definition for a senior? Many say: "Have many years of experience", but I see sometimes that alone is not enough. - Lucas Goldner
+44:41 Q: Is there some site where we can find all of those 3d renders of dash? - Lucas Goldner
+46:14 Q: How do you balance using best practices vs hacky type approaches? - Mtho
+55:39 Q: Could you please show us how to find issues? Like you did in devcamp - Jéssica Pereira
+59:03 Q. i am trying to learn native android as a flutter developer, what is a good starting point ? - subramanian r
+1:06:49 Q: so many programming languages, tools, etc seem to copy each other, would it not be better to combine resources? e.g Dart and Flutter vs Kotlin and KMM... Golang, etc.. your thoughts? - Mtho
+1:12:27 Q. What is the best approach for getting data from a flattened Data Structure in Realtime Firebase with Flutter? - Tran Khoa
+1:15:10 Q: How can we design our apps to have advanced security features built-in, without over-engineering them or using external packages like FreeRasp? Is it even possible considering modern threats? - Mtho
+1:19:48 Q: As flutter is praised for so many things in so many platforms, how do we avoid us falling into the "one silver bullet" kind of problem? - Mtho
+1:22:48 Q:My alfred server written in dart ,after sometime got freeze, also in background it stopped ? App :Flutter_sharez - Shreeman Arjun Sahu
+1:25:03 Live Coding: Website with Dart but without Flutter
+3:38:46 Outro

@@ -1,0 +1,36 @@
+0:00 Intro
+2:13 Start
+8:39 ​Q: is there any Riverpod persistent state support ? - Shreeman Arjun Sahu
+20:16 ​Q: Dio vs http - Shreeman Arjun Sahu
+29:00 Q: What motivates you to do these lives? I am very impressed and grateful for the knowledge you provide - Gabriel Damasceno
+36:28 ​Q: is there any reason why flutter has an inbuilt Image widget, but no inbuilt Video or Audio widget? - Mtho
+40:00 ​​Q: love seeing all the dash plushies in people's streams! any chance they're available for purchase somewhere? - Eli Geller
+40:54 ​Q: Is there a way to solve “(dynamic)=>String is not a subtype of (Type)=>String” when you have a callback in a generic class? - Okello Gerald
+45:19 ​Q: How do i see what packages are using a dependency of a specific version? I am having a conflict between path 1.8.2 and 1.8.3 - Boolean
+51:09 ​Q: on flutter lifecycles, are there any scenarios that require us to use the dirty or clean methods? - Mtho
+54:21 ​Q: How do we solve the error: [log] AbortError: The play() request was interrupted by a call to pause(). - Funway Coding
+1:00:48 ​Q: Will be there any update on integration testing in future ? - VALORANT clips
+1:02:38 ​Q: How Do We solve this error in Flame Engine: [log] AbortError: The play() request was interrupted by a call to pause(). - Funway Coding
+1:02:56 ​Q: Any pointers to testing push notification redirections with integration tests? - Pako St
+1:06:52 ​Q: Is there any way you can adopt me as an apprentice? I'm just curious, of course - Gabriel Damasceno
+1:08:51 ​Q: are there any performance issues of creating/using isolates above the number of cores available on the device? - Mtho
+1:11:17 ​Q. @Craig when i tired to create mason on a separate folder rather than part of a flutter project i am getting dart errors, even though the mason make is working - Train of Thought
+... ​Q:(contd) i am unable to use analysis.yaml to get the errors of since it is not part of a flutter project ? - Train of Thought
+1:15:16 ​Q: With Riverpod, is it better to call the provider once for the whole screen and pass params to stateless widgets, or to have the widgets themselves get the info they need directly from the provider? - schwindlar
+1:18:56 ​Q: Is there a way to query the mime-types a mobile device can handle, so I can use that to create an accept header (with html as fallback) to send to a REST-endpoint that serves files? - Krischan1712
+1:23:52 ​Q: using shellrouter bottom nav bar how to handle nested routing using gorouter - Rashmi Bhandari
+1:25:26 ​Q How do you see the role of widget tests and integration tests in testing? When is it useful to use widget and integration testing? - Mala
+1:30:58 ​Q: some people refer to flutter as a framework, others refer to it as a UI toolkit...are there any significant technical differences between those two perspectives? - Mtho
+1:35:21 ​Q: when the app starts, a white screen shows *before* the splash screen, how do I fix it? - schwindlar
+1:38:48 ​Q: I'm using flutter_local_notification package for schedule notifications, & navigate to a specific screen on tap, but its not passing payload when app is terminated, so its only launch the app.. - Hashan Kannangara
+1:43:18 ​Q: How to create a progress indicator in flame - Funway Coding
+1:45:16 ​Q: why integration testing package got discontinued? - VALORANT clips
+1:45:27 Q : if i using firebase streambuilder its called every second? firebase db read count increase? - Tech1st
+1:47:07 ​Q: why does firebase network calls, not shown in flutter dev tools? - Vg Srivathsan
+1:50:07 ​Q: When do you expect Impeller to come out of beta? - TehFuckingDoctor
+1:52:07 ​Q: what is the use of bloc transformers, i have not seen it in action anywhere so i am curious ? - Train of Thought
+1:55:06 ​Q: Wondering if Dart:FFI to C or Rust degrade the overall performance of the app in anyway? I'm running all the native calls in a separate Isolate. Is there any other best practices? - Dinesh Srini
+2:04:01 ​Q: Is there a way to "watch" tests likes in rust and only run the tests that are relevant to the code change (Saw this in Rust where they can have test code beside implementation code) - Robert Brunhage
+2:05:24 ​Q: I'm not sure if Flutter team intentionally made flutter web not screen scrap-able (which is actually a good thing for copywritted content). Will it always stay that way? - Dinesh Srini
+2:13:07 ​Q. what are the tips for building logic for beginners? - Sandeep Shah
+2:19:56 Outro

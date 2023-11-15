@@ -1,0 +1,36 @@
+0:00 Intro
+3:57 Start
+9:13 Dart 3 changelog
+43:17 Q: A problem I have with Flutter Widget Inspector it was when I click in a specific child in the widget tree took me to the right line of code but now is not working (VSCode & Android Studio)? - Imad Bouirmane
+45:29 Q: Is there a way to stream data from the native Kotlin side to Flutter using Pigeon instead of using the event channel? I mean data streaming and listening. - Waruna Kaushalya
+... q: follow up. Crrently I'm using event channel but it is not supported type safe. - Waruna Kaushalya
+50:10 Q: My mess! Struggling with async/await problems. Code jumps out of routines on awaits. Any good ways to debug/determine cause of individual situations? - Norm Patriquin
+51:28 Q: why dart json decode slower than other languages? - Muhammad Omer
+... Q: Actually, we use json.decode. but what is the difference between. json.decode and jsonDecode. - Rustam Usmanov
+54:34 Q: Gradle problems in build.gradle (Project & App Route) file for android folder causing many different problems even it's by default and really hate it sometimes because wasting time, any advices ? - Imad Bouirmane
+55:55 Q: When do you think impeller will be fully released for android? 😁 - Waruna Kaushalya
+57:13 Q: Any guides for next Dart 3 support to be more familiar with? - Imad Bouirmane
+1:00:36 follow-up to the Muhammad question. If you are dealing with large Json, you can decode it in isolate. - Waruna Kaushalya
+... Q: are there any approaches that make it easier to pass data to isolates? - Mtho
+1:04:44 Q: About WASM, can you compare one version build from Dart with a Rust version, they have the same feature, ex basic HelloWorld app? - Binh Huynh
+1:08:06 Q: How does code-push solutions comply with app-stores (google/apple) policies? - Tirth Patel
+1:10:37 Q;I found the answer from Stackoverflow that they are the same but jsonDecode calls json.decode. can you pls describe it more - Rustam Usmanov
+1:11:50 Q: Its ok build a object in UI page, if not then how? - Puspharaj Selvaraj
+1:12:12 Q: Hi, best way to create an infinite scrolling gridview (up and down) as a seamless monthly calendar view? - Richard Rouzeau
+1:17:26 Q: What if someone pushes malicious code via code-push? Follow-up question on my code-push question. - Tirth Patel
+1:18:52 Q:Is there any plan for official audio package from flutter team. - Ishwor Panta
+1:25:34 Q: Can 2 WASM written by 2 languages (Dart and Rust) can connect with each others. Ex: one will encode, decode data like service layer, one will receive and display data and they all are in one app? - Binh Huynh
+1:26:22 usually when I think some part of my code will probably be really slow, I test it, and then find out its 0ms - Krischan1712
+1:34:05 Q: can you recommend any good examples of how to architect authentication with Rest API and Riverpod with secure storage? Most that I've found are too basic and don't handle security/error/navigation. - schwindlar
+1:49:35 Q: Any tools, AI or not, that can check an app for conformity to iOS and Android guidelines? - Richard Rouzeau
+1:50:10 did you worked on connectivity_plus? - Mitul Vaghamshi
+1:51:03 Q: Any idea why "hot restart" does sometimes a "hot reload" instead ? (i have to click 2 times in a row on hot restart) - Jerbs
+1:53:54 I'm afraid to say Dart is not Enterprise ready, but I might be booted out. - James Johnson
+1:54:55 Q: I have a white label app and is there any way to publish automatically in ios and android without any manual work .just with one command or script . should handle all firebase json files and appico - Ishwor Panta
+1:55:47 Dart Null Safety is not good as Rust or Swift Specifically Rust Null Safety is far better then Dart - Ghayoor Hussain
+1:59:35 Q: cont white label : how to configure firebase service jaon file automatically for white label app ? - Ishwor Panta
+2:00:26 How can i do peer to peer connection in video conferencing? - Ghayoor Hussain
+2:02:17 Live Coding: InfiniteListView
+3:01:44 how do you remove listeners added as anonymous closure? - Mitul Vaghamshi
+3:03:17 Live Coding: Calendar for InfiniteListView - Gist: https://gist.github.com/slightfoot/4055d46e308be0bc7d4e1cff3bcaf6ad
+3:23:57 Outro

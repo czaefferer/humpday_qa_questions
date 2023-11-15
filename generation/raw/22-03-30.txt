@@ -1,0 +1,39 @@
+0:00 Intro
+2:00 Start
+23:08 ​Q: allow post request on vanilla webview_flutter - Zaldy Jr. Pagaduan
+24:38 ​Q: Best practice in expanding TextButton(s) equally along a Row? - Richard Rouzeau
+25:39 Q: Is there a USSD support for flutter? Like a package that helps with that? - Mr Riyality
+26:24 ​I have afraid of "KILLED BY GOOGLE" fenomenon. flutter is a good product for long live? - Isa Isa
+28:40 ​Q. Name of MYSQL package that support the desktop application? - dhrub rawat
+30:12 ​Q: As we know there's a big improvement on System UI Design on Windows, my question is how can we work with that properly based on Flutter ? - Imad Bouirmane
+31:47 ​Q: There's any possibility to see Flutter SDK on Visual Studio not VS Code, because it will more useful? - Imad Bouirmane
+33:03 cont. Q: As we know there's a big improvement on System UI Design on Windows, my question is how can we work with that properly based on Flutter ? - Imad Bouirmane
+35:17 cont. Q: Best practice in expanding TextButton(s) equally along a Row? - Richard Rouzeau
+38:30 ​Q: Can I use different MainActivity in different flavor on android and ios? Like a have a tflite bundle in pro version and it 20mb and i don't want bundle it with free version? - Dương Bùi
+39:55 Q: Still on the USSD, just as you said, say i have a button to trigger a USSD. I do not want to go to the dialler first. I just want to initiate the short code straight to the USSD console. - Mr Riyality
+42:04 ​Q: Does Flutter support CodePush like React Native does? - Nikhil Reddy
+46:00 ​​Q: What can be used as empty widget? Especially for ternary operators? Container() or SizedBox.shrink() or anything else?? - talisfang
+​49:32 ​Q: GroovinChip: when sending push notification along with the chat,can Firebase Messaging plugin catch this PN while app is in the background and terminated states and takes user to that specific page - aytunch
+52:37 ​Q: Google doesn't give Dart support for Firebase functions. We have to use Dart-JS convertion. Do you think firebase will give Dart support for future ? - Isa Isa
+54:33 Q: Trying to get my head around when I should use a StatefulWidget if I'm using a StateManager like Riverpod. Does it even make sense to use both? - BenBtg
+56:25 ​Q: How would you guys describe a Senior Flutter Developer versus a Mid Flutter Developer? - Lucaz0r
+1:08:06 ​Q: Is it really Flutter has enough widgets to be fully work on Desktop experience based on Flutter API or widgets library? - Imad Bouirmane
+1:10:33 ​Q if (Platform.isAndroid){}else if(Platform.isIOS){} but the "if" part of the code also included in flutter project build for ios and it's unnessery - Mas
+1:12:55 ​Q: Are there any flutter packages that you find useful but isn't known by many people? - talisfang
+1:16:49 ​Q: is there a way to write a condition for like widget on android and that condition like not rendered in IOS or windows, this code only included in android - Mas
+1:18:26 ​Q: Is there a constant that checks whether the device is touchscreen? cause some laptops have touch display while some tablets could support mouse & touch - Zaldy Jr. Pagaduan
+1:20:11 ​Q. best resource to learn about isolates? - TheDonBarracuda
+1:22:16 About desktop apps
+1:33:54 ​Q. New in flutter and struggle to manage multiple platforms with a single state. Is there any recommended way to handle it or just use if-else? - Prashant Nigam
+1:38:29 ​Q: How do I know if a button is still being pressed, taking the time a person is clicking on the button? - Enzo Lopes
+1:40:55 ​Q: I have an overlay that I want to render over my screen using a Stack. Do I conditionally render the whole Stack or just the overlay? - Karol Czeryna
+1:42:41 ​Q: Does hot restart work on firebase emulator ? Because now it doesn't. I mean flutter web. - Isa Isa
+1:43:36 cont. ​Q: I have an overlay that I want to render over my screen using a Stack. Do I conditionally render the whole Stack or just the overlay? - Karol Czeryna
+1:46:48 ​Q: does http package inkluderar cancelToken as dio? - Roberto Potrus
+1:48:03 ​Whats up peeps ☺ one question: I finally found: flutter_unity_widget_web. Did you guys integrated that for flutter web? - Rebar
+1:49:21 ​Can you please make a tutorial on how to setup flutter for desktop ... - Kevin Mitnick
+1:50:28 ​Q: Is there any project you would suggest, to just assure you're at a mid stage or just for learning pursposes?? - Mostafijul Islam
+1:55:19 ​Q: Also just a quick one is there a way to learn or like master back front end except going on with front end?? - Mostafijul Islam
+... ​sorry just back end of the app. - Mostafijul Islam
+1:56:51 ​I can write hello world in flutter should I add that Flutter Developer in my resume.. - Kevin Mitnick
+1:58:08 Outro

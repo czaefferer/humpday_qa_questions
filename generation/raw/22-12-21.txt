@@ -1,0 +1,37 @@
+0:00 Intro
+3:10 Start
+9:07 Flutter in South America
+12:47 ​Q: I am trying to simulate a word processor in Flutter. I need to know when content is overflowing a container so I can move it on to the next page. What's the best way to do this? - Matthew Jones
+​... Q: Follow up - No. It's not just text. It's also images, horizontal rules, etc... - Matthew Jones
+17:05 ​q: what about dart for backend? have you tried to use it on backend? do you prefer some specific packages ? Thanks :D - Dario De Luca
+23:01 ​Q: Does Somnio have one refined Architecture Design Pattern that it prefers to use for customer projects? - iHaveQuestions
+28:55 ​Q: any guess on what new things could be announced at Flutter Forward 2023? - OmeN
+30:30 Q: when to use ClipRRect and when to use decoration border rounding ? Is one more expensive? - Calan M
+32:59 ​Q: Can we create apps with flutter for wearable devices? - Waruna Kaushalya
+35:07 ​Q: Simon mentioned using mixins and chucking Provider.of in it something like that. Can you elaborate? Sounds interesting and I couldn't figure out what you meant - Andrija Orešković
+35:46 ​Q: will any of you be in flutter heroes Turin conference in feb? - aytunch
+37:06 ​Q: can I access flutter engine in c++ file and then use it in flutter with the help dart:ffi - 7mada
+40:32 ​Q: Nice to see you again. Guys, as a person living in a small city how would I develop/expand my network? make connections. Since it's really the main major of getting good offers. - Amir
+47:33 ​Q: what will Impeller bring on the table? and when do you people think it will be in stable Flutter? - aytunch
+51:26   ​Q: Part 1 - I'm developing an application that has two types of user. Suppose student and teacher. And student pays for teachers' services.. - Amir
+... ​Q: part 2 - How I should manage the payments? direct link for each teacher orsome sort of inner wallet? Is there any service or so? Any idea on the system design of the wallet? - Amir
+58:48 ​Q: how to use c++ code files in flutter project? does this work for android and ios? - karamat subhani
+1:04:38 ​Q: How to make Text widget selectable in Flutter web? - Isa Isa
+1:05:43 ​Q: how to use in-app purchase ios without other third party plugin e.g revenue card? is there any complete guidelines? - karamat subhani
+1:10:13 ​Q. How good is dart as compared to other languages(JS, Golang) in terms of runtime as this is important for backend dev? - Navdeep kumar
+1:11:40 ​Q: can you guide for image segmentation ? please share list of package used google ML kit but, that is not give perfect result to remove image background. i studied image matting in python, not flutte - karamat subhani
+1:15:45 ​Q: How to do cartoon style like map like they do in "waze" app? - OmeN
+1:18:29 ​Q: I'm planning to build a package similar to Angular FlexLayout in Flutter. I'm wondering if I could use LayoutBuilder for this? Or do you have any other recommendation. 🙌 - Dinesh Srini
+1:23:09 Q: for Gianfranco, what is currently your biggest pain-point with using Dart on server? Is there anything in particular you'd like to see improved?
+1:27:13 ​Q if I want to create horizontal and vertical scrollbar in same screen, then how I create it? - dhrub rawat
+1:30:53 ​Q: What's the best of preloading video in flutter? - dt delhi
+1:35:20 ​Q: have you tried playing with Chat Gtc yet for generating Flutter/Dart code via ai on a text prompt? - Calan M
+1:38:09 ​Q: how do we handle redirections in web, ex- directing to payment link and redirecting back with some response? I used html open window for that, but that wasn't compiling for mobile. - Navdeep kumar
+1:43:27 ​Q: Can ML / AI be integrated to Flutter. - Shivam Purohit
+1:45:18 ​(I wouldn’t waste a precious ‘Q’ on this, but I did wonder why Dart ‘frog’ name - I love it though) - Calan M
+1:45:47 ​Q: When working with flavors is there a way to define an index.html file for a specfic flavor in .vscode/launch.json? We are currently cp over the main index.html when changing dev/stg/prod - Ryan Sampson
+1:50:19 ​Q : if i play audio in app and can play in background...as it running on single thread ..if i open the app again will it continue from where we left or restart ...? - Rutvik
+1:53:42 ​Q: Have you had a look at the new WASM compilation target for web that's now available in the master channel? - whiskeyPeak
+1:54:48 Interlude
+1:57:12 Live coding: Responsive Layout / "Mixins Provider.of" - Gist: https://gist.github.com/slightfoot/7775a5e45442cce4082fd92cdc9e4e59
+2:28:42 Outro

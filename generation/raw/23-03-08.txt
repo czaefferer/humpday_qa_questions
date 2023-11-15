@@ -1,0 +1,20 @@
+0:00 Intro
+2:42 Start
+12:38 Q: how many concurrent requests can a dart server handle? e.g. tiktok type app with over 100 000 people a day - Mtho
+21:09 Q: How long until the next Humpday Q&A? - John Wiese
+24:03 Q: What is the best way till now to work with Thermal Printers in Flutter? (should provide most ECS/POS systems) - Rebar
+30:51 Q: how to build an ios plugin that use a swift package - 7mada
+37:13 Q: What do you think about the future of Flutter? Do you think Flutter developers will ever have to change their stack? - Marjan Dn
+40:33 Q: are impeller improvements in Android as obvious as they are in iOS? Is it smart to use impeller just in iOS and not in Android for a production app? - aytunch
+43:46 q: Where are we with SEO? - Keyboard Warrior
+47:41 Q: what does debugFillProperties used for - Mas
+53:09 Q: witch one is better to use ValueNotifierBuilder or setState for TextField controller change - Mas
+...Q: I want to get the changes for other widgets - Mas
+1:03:05 Q. what are coco pods and fastlane exactly and what is its main use case ? - Train of Thought
+1:13:00 Q: is there a way of approaching a large flutter project that has many dev teams in a microservice type way? would it even work in the context of flutter? - Mthokozisi Ngwenya
+1:23:24 Q: What do you think about Dart v3 (v4) backend side future? Can it replace Go, and get same efficiency from memory and performance perspective? - Alex
+1:33:16 Q: how vulnerable are flutter apps when host platforms are compromised? e.g. log4j type stuff, etc - Mthokozisi Ngwenya
+1:39:38 Q: you may not believe but I'm still trying to get my first :)) I'm in Iran and All those job positions are for seniors. What should I do as a junior dev to get companies attention? - Amir
+1:43:10 Q: what do you think of Shore bird? Can you explain the advantages of code push and limitations. And what does it mean for the future of Flutter? Will front end programming lose importance? - aytunch
+1:48:19 Q: I want to get the changes for other widgets - Mas
+1:49:41 Outro

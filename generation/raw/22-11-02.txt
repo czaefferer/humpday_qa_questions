@@ -1,0 +1,39 @@
+0:00 Intro
+2:26 Start
+15:25 ​Q: Droidcon speaks will be available online?? - Damian Diaz
+16:12 ​Q: I use a custom API backend to push through Http a POST which is received through a php API listening on the web. I'd really like a direct tcp type daemon. Any suggestions? - Fluttercode
+20:26 ​Q :Any website available for get the flutter job??( not a remote job ), - Tech1st
+22:55 ​Q : How to hide the keys,map keys and api key details from reverse engineering? - Tech1st
+27:46 ​Q: I learned DDD from Reso's site. I know there is MVV(?) - what are the other architecture types that are best for specifically Flutter frontend Dart backend? - Fluttercode
+31:23 ​Q: Aws and amplify both are same? - Tech1st
+37:02 ​Q: can we somehow show rewarded ad in flutter view attach to Android service (i.e. without any activity) ? - KISHAN RATHORE
+37:39 ​Q: What is a recommended package to use for live streaming in my flutter app, at the moment I am using agora - AjanXc
+42:52 ​Q: Is there a better way to handle localization other than using translations json files? If not, do you have any tips on how to do it better? - Okello Gerald
+51:44 ​Q: should i use custom lint package or use analyser plugin for custom defined lints ? - KISHAN RATHORE
+55:14 ​Q: what positive change will bring wasm2 in context of flutter web. can you explain about wasm2 in context of flutter. - dhrub rawat
+56:30 ​Q: Is there a Go-Amplify? - James Johnson
+58:27 ​Q: Trying to build our app in iPhone, but keeps tells me "Framework not found Flutter" - Khader Murtaja
+1:00:57 ​Q: how to provide video for offline use like YouTube does but I also don't want the user to find the decrypted video. I want to decrypt the video when needed only. - Natnael Habtamu
+1:03:57 ​Q: Can we do push video stream to a rtmp server from flutter web? - HAWSI AADMI
+1:06:26 ​Q: What are the best resources to learn renderSliver, how we can create one from scratch? - dt delhi
+1:10:39 ​Q: In Amplify, configuration for an existing API goes into amplifyconfiguration.json, but I believe that gets overwritten when you change the environment. How to handle this? - Krischan1712
+1:12:26 ​Q: I have a flutter app that run foreground Android service. Service is showing another flutter app on window manager (Like flutter_floatwing package). Can I show rewarded ad there ? - KISHAN RATHORE
+1:15:31 ​Q: Which widgets help me to create an easy navigation on a web app in flutter ? - Isa Isa
+1:17:48 ​Q How can we bundle dart/flutter packages or plugins in dynamic fashion to reduce the size for users not using full feature ? - Sumeet Makhija
+1:25:52 ​Q : How would you wrap html across multiple pages in a page view? Existing html packages don't support it - Boolean
+1:30:47 ​Q: Amplify for desktop and web anytime soon? - Richard Rouzeau
+1:31:40 ​Q: what are your thoughts on the recent release of kotlin multiplatform? How does it effect flutter adoption? - FacileTech
+1:35:11 ​Q: Does anybody got an news about the new engine alternative to Skia for Flutter which Eric mentioned before he retired? - mmahgoub
+1:37:14 ​Q: is it bad practice to use some mix of Bloc/Riverpod/Provider in the same project (or is it better to use just one throughout)? - schwindlar
+1:40:34 ​Q: I'm in the process to create a Flutter Gaza, Once Flutter team approve. Will you guys help me by support our community by doing live streaming? - Khader Murtaja
+1:41:17 ​Q:how to identify flutter app running device developer mode enabled or not? - Tech1st
+1:44:48 ​Q: why dart/flutter is slow when it comes to decoding/encoding images and doing byte level operations? - Chathura Chamikara
+1:50:40 ​Q: why dartium was deprecated/abandoned. - Anil Beniwal
+1:52:56 ​Q: what is suggestion or roadmap to Display Live Video from bytes coming from websocket (raw h264 ) in Flutter - Thavrith Tok
+1:56:29 ​Q: I have postgresql in docker, when i go into production. Should i move from docker? - Roberto Potrus
+2:02:18 ​Q: Which flutter web renderer do you advice for a CRUD web app which has no visual components? - Isa Isa
+2:05:18 ​Q: Rewording missed question: Could we please have a rule to keep Flutter talks kid- friendly for the young coders, especially on game development? - Richard Rouzeau
+2:07:35 ​Q: Is there a widget which allows tabview inside tabview.? - dt delhi
+2:08:30 ​Q: Is it possible to pass in 'dart-define' properties to a Flutter App when opened in Android view in Android Studio and run as a native Android app? - Alan Hill
+2:09:26 ​Q: How does the Automatickeepaliveclient mixin work from a RenderObject perspective - Patrick Waweru
+2:10:38 Outro

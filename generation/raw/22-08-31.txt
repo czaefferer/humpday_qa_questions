@@ -1,0 +1,18 @@
+0:00 Intro
+2:37 Scott Stoll, Simon Lightfoot and Salih Guler
+6:58 Anna Leushchenko
+9:33 Q: When will Salih organize Flutter Istanbul ? - Isa Isa
+11:16 Frank van Puffelen
+13:55 Majid Hajian
+15:44 Craig Labenz
+17:36 Thomas Burkhart
+18:51 Filip Hráček
+21:32 Q: Some of us are don't know who some of these people are, hello? - James Johnson
+24:38 Frank van Puffelen II
+25:14 Norbert Kozsir
+28:48 Pascal Welsch
+29:25 Q: When will firebase fully support for flutter web? - Pia
+30:42 Q: ?If you create a package, how do you start it and how do you know there is need for it? - Crowd
+31:50 Tom Gilder
+33:05 Q: how do you even begin writing/designing packages - these are genius! - Calan M
+39:07 Outro

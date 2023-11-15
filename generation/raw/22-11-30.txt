@@ -1,0 +1,43 @@
+0:00 Intro
+3:07 Start
+12:04 ​Q: Using dart as a server, How can 1 achieve load balancing? By creating isolates? or creating another dart server that serves as a load-balancer either via proxy? - Maugost Okore
+18:16 ​Q: How can we pass functions to a isolate and return value from that isolate to main ui thread. I have send port we can only send objects. Compute is spawning multiple isolates. Need to use only one. - dt delhi
+22:27 ​Q: What are the effects of the Android 13 Notification permission changes to Flutter apps? Any easy integration there when building Flutter app against Android API 33+? - Pako St
+24:42 ​Q: What does a 3D experiment on impeller mean for the Future of Flutter? - Paurakh Sharma
+30:09 ​Q: is there a good and flexible to use youtube player package for flutter? - Eduard Alexandru
+33:14 ​Q: Guys, How do you keep yourself update? Do you follow tech bloggers? Explain your approach a bit, please - Amir
+38:26 ​Q: have any of you did a project where you had to scrape through youtube video descriptions and it's comments? how was the experience, any gotchas we should be aware of? - Eduard Alexandru
+41:20 ​Q: How much is too much objects to have at the same time? Let's say you have list of 1000 products? Is it bad to fetch whole list of object with all properties and parse for each screen what you need - Andrija Orešković
+50:50 ​Q: are there plans to abandon Ref being passed everywhere? - Alex L
+53:46 ​Q: I am facing issues reading FutureProvider in initState what am I doing wrong? (PS. Using riverpod) - Aditya K
+56:21 ​Q: creating shader profiles to avoid Jank is a bit of a pain. Is there a plan for fixing this? - Eli Geller
+58:04 ​Q: what is the status on video_player support for all 3 desktop platforms? it's a big deal for us. - aytunch
+1:01:54 ​Q: Is flutter getting more use internally in google? - Alex L
+1:04:41 ​Q: why is the hero tag an object instead of a String? In which context will the hero tag not be a String? - cekroz
+1:05:52 ​Q: how do you get iOS & Android Flutter app to open an applink inside app rather than in browser, I’ve tried everything, setting up app site association etc… but link still opens in browser - R VB
+1:06:41 ​Q: Is flutter stable for web ? - RageOfKurd
+1:07:14 ​Q: Scott, did you make the PR to make the Flex docs, require our brains to flex a bit less already? If not, any timeframe for it? Great talk btw, lmao :D - Mike Rydstrom
+1:14:25 cont. ​Q: how do you get iOS & Android Flutter app to open an applink inside app rather than in browser, I’ve tried everything, setting up app site association etc… but link still opens in browser - R VB
+...​Hi Simon sorry Sorry your not understanding my question I don't want my app to launch url but another app to launch my app upon clicking on url (rather than opening Safari) - R VB
+...​I tried setting up associated domains & all but it still doesn't open link - R VB
+...​I tried the file with an associated domains file checker it says it's valid - R VB
+1:27:25 ​Q: Ffi vs Method Channel, what is the difference? When to use which? - AAA
+1:35:00 ​Q: Handling responsiveness is being a real pain, currently using LayoutBuilder and Bootstrap's Breakpoints. (Eg. Getting overflows, Text not scaled, etc.) - Aditya K
+1:41:40 ​Q: any favorite javascript framework/library? (just curious) - AAA
+1:43:46 ​Q: why dart class losing some data when i apply some logic on it and add processed data in another class orignal main data class lost some data init - ali Hassan
+1:45:56 Q: firebase_messaging deliberately checks for a dummy field in order to omit push notifs coming from 3rd party APNS. This only happens in iOS and when app is in bg. We want to use firebase+onesignal - aytunch
+... What do you think of flutter teams stance on this decision? it doesnt help us devs imho - aytunch
+1:50:08 ​Q: In my app, the first click on “hot restart” does a “hot reload”. It’s the second click on “hot restart” that does a real “hot restart”. Any idea why ? - Jerbs
+1:53:00 ​Q: what can be new for flutter web in 2023? - Pia
+1:53:51 ​Q: Build runner is taking 30-45 mins on my M2 Pro. Is it common for you too ? My project using graphql_codegen for generating JSON models. - Krishna Teja
+1:58:19 ​Q: Is there a standard way of serializing/deserializing a Flutter widget tree? - Darrell Brogdon
+1:58:45 ​Q: junior flutter jobs are so rare , it's so disappointed how to put my first step as a professional developer? - Re mix
+2:01:00 cont. Q: Is there a standard way of serializing/deserializing a Flutter widget tree? - Darrell Brogdon
+2:03:31 ​Q: Oauth in dart is such a pain. So many platform checks. No one package to rule them all. Is there any recommendation or word from firebase about desktop support? - Fluttercode
+2:06:18 ​Q: I am using get-it for injection in a DDD architecture (i started with reso). My file is _huge_ . Should I be doing this another way for a large app? - Fluttercode
+2:14:48 Q: I've been playing around with OpenAI, REALLY impressed. Even got it to generate some Flutter code. Any thoughts on how developers can stay up with the tech curve? - Michael Maitlen
+2:17:30 ​Q: how would you send that batch of analytics on the app start? - Juan Macias
+2:20:35 ​Q: am I correct in assuming that if I'm building my app correctly using Riverpod, then I should never need to use something like the get_it package? (i.e. I should always have access to ref) - schwindlar
+2:22:50 ​Q: Should Flutter support Dependency Injection out-of-the-box similar to AngularTS? What's your take on it? By the way you guys are awesome 🙌 - Dinesh Srini
+2:28:11 Q: how can I build an official flutter community in my hometown? how can you help me as flutter team ? "Kurdistan, iraq" - RageOfKurd
+2:28:35 Outro

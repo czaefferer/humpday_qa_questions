@@ -1,0 +1,29 @@
+0:00 Intro
+2:44 Start
+8:29 About Dart 3 release
+17:33 Q: what's future of freezed package after the arrival of records and pattern matching in dart 3? - Hafeez Rana
+21:09 Q: How can I show obtain BuildContext to show Scaffold messages during Riverpod provider initiation? - Jax vio
+29:09 Q: how to run i frame video in flutter app (not youtube iframe) i tried several players such as chewie player as well but none of them work. - Ranula Times
+... it's streaming applicatiob. - Ranula Times
+31:51 Q: Do you expect dart 3 to change Riverpod significantly? Or still waiting for meta programming? - Christofer Henriksson
+35:38 Q: on web, I have a list of items, in which I scroll with the keyboard. ←→ when I reach the last item that is visible in the list and I have items that are not visible, I can advance automatically - Jeanmartin Pachas Villa
+39:29 Q:Sometime it is said catching every single error/ exception/failure can be bad as it hides the app problems. How can I continue my app stability during production while catching little nasty errors? - M. A.
+42:15 Q: is Provider feature-complete? Are there any recommendations not to use it? I mean any plans to stop supporting it? - M. A.
+52:22 Q: Are there any good diagram editor like react flow in pub yet? - Dương Bùi
+58:30 Q. I'm currently learning riverpod 2.0 and at first it was looking v interesting but as I'm diving more into it it's getting more complex like which provider to use when, the documentation lacks that - अ
+1:03:20 Q. Also the use of WidgetRef bugs me as I can't use context now and I've to wrap it with Consumer which is totally unnecessary as I just want to use the provider in that widget not updating it - अ
+1:05:39 Q: I used flutter haptic feedback to vibration but it didn't work, i already added android permissions. then i used vibration package and it worked. why flutter haptic feedback is not working ? - Hashan Kannangara
+1:07:53 Q. does get_it scale well in larger projects ? - Train of Thought
+...I use it along with injectable - Train of Thought
+1:10:28 Q: Is it a good practice to use AsyncValue.requireValue in child widgets when loading and error states are handled in the top level widget? - Kevin DUVIGNAU
+1:11:47 Q: Is it a bad practice to inject Ref into a StateNotifier, then use it to read and execute function on another StateNotifier? - Kevin Hon
+1:13:35 Q: Do you like to store a Stream in the Widget or in the separate Business Logic File. Of course consumed by a StreamBuilder in the Widget. - Marco Napoli
+1:17:24 Q. How to report all the caught and uncaught errors/exceptions to for ex. crashlytics and also show a proper message to the user regarding that error/exception? - अ
+1:21:17 Q: How to solve having a button outside a stack (overflow) does not respond onTap for example - Roberto Potrus
+1:25:46 Q: What happens with riverpod, if Remi left it? Will Flutter take over or create a custom one, instead of depending on 3rd party solutions? No offense to Remi, LOVE riverpod and stm is hard to create. - Roberto Potrus
+1:34:57 Q: I'?m watching a stream provider. I would like to show a snackbar when the value of the stream has certain value. Should i handle it in a build? - Roberto Potrus
+1:36:40 Q: Do you recommended riverpod_test package? It is easy for testing all riverpod notifiers and providers - Shreeman Arjun Sahu
+1:38:24 Q: Is it good to put custom widgets related to context into some mixin which can be only used in stateful' state class? - Shreeman Arjun Sahu
+1:43:44 Q. Question for Simon, How you become a Flutter God who's doing so so many extraordinary things in flutter? Pls share some valuable points about your journey of Flutter and some tips & tricks - अ
+1:58:25 Q: On the topic of navigating through code, is there a way to know which classes are extending an abstract class?!? - Mostafijul Islam
+1:59:53 Outro

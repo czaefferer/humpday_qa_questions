@@ -1,0 +1,26 @@
+0:00 Intro
+1:25 Start
+8:50 Preliminary "What's the best state management in Flutter" question - Roman
+15:31 ​Q: What is the best navigation package to use? (for devices only - AndroidGamer
+19:17 ​Q: as we know 'GET' package has a lot of controversies, is it good for other functions like route management? we already know state management from it is very shady😅 - Abdulraheem Fareed
+20:07 ​Q: What is the coolest application of the Flutter game dev toolkit you've seen so far? - Matthew Jones
+22:48 ​Q: would you say using packages is good or bad? should I always try to write my own stuff when I can or is using Packages perfectly fine? - Abdulraheem Fareed
+28:47 ​Q: Is it true that there is a high cost of "late" fields in variables? - Roberto Potrus
+33:12 ​Q: I just saw a neat video from Flutter Vikings about creating a WatchOS compainion app, using Method Channels, and I'm a little new to that. Do you guys have any tips for using Method Channels? - Eli Geller
+38:57 ​Q: roman will you public the repo of you frog game? - ali Hassan
+40:15 ​Q: sir why we used stream builder or future builder because future or stream read huga data from data base - Syed Waleed Nawaz
+43:26 ​Q: Is there a way to get the imei No of devices? - HAWSI AADMI
+47:17 ​Q: I've looked through Stepper code and saw it use ListView with shrinkWrap enabled. As far i understand even the flutter team does not recommend use shrinkWrap. Why do they not build what they preach - Roberto Potrus
+49:01 ​Q: I have had issues with using scrollable widgets in Flutter-web (they don't scroll), specifically when they are deep in the widget tree. Do you know any reason for this? - Okello Gerald
+53:01 About streams, future and verbosity of stateful widgets
+54:33 ​Q: I noticed that a class can only be declared as const with all the variables set to final. Does that have a bigger impact when using late -> no more const? - cekroz
+58:41 ​Q: Is there a way to add a value to a List at a defined position? - HAWSI AADMI
+1:01:31 Why Flutter Web is Poor in Performance? - DEATH GOD
+... ​Can Flutter beat Native at some point in Future? - DEATH GOD
+1:07:38 ​@Roman: Is that what you used for the app to control your smart devices? - Eduard Alexandru
+1:12:03 ​Q: Stream Builder vs. Value Listenable Builder? Which one for what and why? Thx! - cekroz
+1:14:38 ​Q: I'm using ExpansionTile in listview.builder. But I would like to only one at time expanded - Roberto Potrus
+1:17:48 ​Q: A new person who want to create mobile application, what should he choose Flutter or native Android development framework? - Mohit Varma
+1:20:40 ​Q: is there any plan to reduce statefull widget verbosity ? - Habba Babba
+1:21:55 I have two Qs: #1: Can Flutter have any claim in server side in the future? #2: How do you see the Fucsia integration with Flutter? Would it be the next main development kit for Fucsia? - Amir
+1:30:56 Outro

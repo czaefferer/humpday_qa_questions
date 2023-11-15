@@ -1,0 +1,23 @@
+0:00 Intro
+1:55 Start
+4:42 Introduction John Wiese
+7:53 ​Q: any experience trying Flutter developing using processing power of GitHub Codespaces or GitPod on devices like iPad? (Eg when travelling) - Calan M
+12:40 ​Q: Can we please create Windows Flutter Desktop with VS Code and not VS Studio? - James Johnson
+15:10 ​Q: Any experience or tips for mobile app analytics tools with Flutter other than Google Analytics for Firebase. OpenSource and self hosting are big pluses. - Jannik Rhode
+19:47 ​Q: Sometime Flutter App dont works in android Sdk 28 while its works fine in Sdk 30, 33, 33, why it's happen? - Ridz Creations
+23:20 ​Q: Is there any way to compile my Flutter tests to an executable file? Then I can take that file to run anywhere to test any input Flutter code I want. - Miller Go Dev
+24:29 ​Q: I want to create a dynamic gradient across sevaral widgets (colors of that gradient will change). Need some help or starting point. - Mostafijul Islam
+29:37 ​Q: MissingPluginException sometimes happens. Can you list common cases where it happens, explain the reason and how to avoid it? - ​Miller Go Dev
+31:44 ​Q: How can we build secure Flutter App? - Ridz Creations
+36:54 ​Q: how can i manage pagination in flutter - HALDUN MATAR
+38:32 ​Q: isn't confusing that there are many ways to do the same thing in flutter? I always get stuck to figure out which solution is the best - Mohammad Aldalati
+40:23 ​Q Is there something like a linter ruler I can enable, that warns me when I try to use "=" instead of ":" for named parameters by mistake? I keep doing that, and the error messages are perplexing. - Krischan1712
+45:13 ​Q:Would you guys be coming to the Flutter conference in India on November 19th? - Train Of Thought
+45:44 ​Q: Do you know tools for reports, like Microsoft Reporting Services that I can use with Flutter?? - Dorian Hidalgo
+46:36 ​Q: Is there something like Storybook in the React world that allows you to easily isolate and iterate on widgets while you're developing them? - Kyle Hayes
+48:30 ​Q: What different between software rendering and GPU rendering? Is threeJS GPU rendering or software, can we implement something like that in dart? - Dương Bùi
+50:29 ​Q: how is the best way to keep conection bluetooth in background? - Fábio Carlos
+51:18 ​Q: Best way to set window size and position of a desktop application. Initial size and position, min and max size. - Arturo San
+53:36 ​Q: is it possible to test code of videoplayer without actually running the videoplayer itself? - Mtho
+54:57 ​Q: I want to know about migrating packages from old version to new one's, any recommendations please? - Imad Bouirmane
+1:00:34 Outro

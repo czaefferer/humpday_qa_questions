@@ -1,0 +1,19 @@
+0:00 Intro
+1:54 Start
+5:42 About AtSign, IoT, Risc-V, Encryption and Flutter
+35:37 ​Q: You mentioned that you moved a lot of Java developers over to dart / flutter. How did you get them to start composition over inheritance? I struggled with getting a Java team through this. - Matthew Jones
+53:20 About Flutter Fridays
+56:47 ​Q: I need to know about calling another languages in Dart not just C or Java, but also for others like JS on Web and Scala ? - Imad Bouirmane
+1:03:37 ​Q: Are there other resources available for Patreon contributors? - bille
+1:06:27 ​Q: I need your help about automating the process of Build process for Android & iOS and Deploying process to Play & App Stores, Which the best tools for this ? - Imad Bouirmane
+1:11:19 Q: whats the difference between a Dart VM and a Dart Runtime? is either better than the other? - Mtho
+1:18:17 ​Q: How much important it is to make a data class immutable? What's the benefit and when can i ignore it? - Mostafijul Islam
+1:29:44 ​Q: is there a way of isolating the development of multiple flutter projects (each using different versions of the same package), without docker? - Mtho
+1:36:35 ​Q: Moving a project to GoRouter & still learning. What is the best way to manage error message popups so that they show one at a time and not multiple of the same? Used Pages API for that before. - Robin Dillenburg
+1:45:22 ​Q: How can i make a button with onPressed const? i Heard through the grapevine you make the function static. is it ideal? - Roberto Potrus
+1:48:24 ​Q: since both Dart and Golang are from Google teams, is it not efficient to combine the best of both worlds as time goes by into one? - Mtho
+1:55:36 ​Q: I am working on a Flutter web project. I have created breakpoints by wrapping the whole app in the Layout Builder. Every time the screen size changes, the app is rebuilt. Is there a better way? - Okello Gerald
+2:05:49 ​Q: why simple dart executable program consumes quite a lot of memory ~15mb - ~20mb Ram? f.e. simple hello world P.s. while other some languages consumes 2mb -5mb ram - Islomkhuja Akhrorov
+2:12:07 ​Q: With Riverpod, how would you update a ChangeNotifier (and notify its Listeners of the update) with a StreamProvider ? - Jerbs
+2:15:50 AtSign Demo
+2:23:02 Outro

@@ -1,0 +1,30 @@
+0:00 Intro
+3:36 Start
+8:22 Valeria about Flutteristas Conference
+12:56 Code Challenge
+15:46 Scratch-card in Flutter
+25:39 About Dash redemption codes
+29:12 Q: I have an appbar at the root of the app in a scaffold (one per bottom tab). How can I change the AppBar title depending on the current page (with data) being shown in the body? AutoRoute nested nav - Boolean
+33:37 Q: What is the benefit of using factory constructors over just using functions with the return type of the class itself? - David
+38:32 q. how do i pass values from one screen to another using the stacked state management (without having to pass it as a parameter) ?(ps: i checked the docs and I couldn't find the answers) - Train of Thought
+43:56 Q: Which State Management must know as a Flutter Developer in an current Flutter Development? - Madhan Kumar
+59:11 Q:how i can connect to sql server in flutter desktop, i found package but only for mobile? - Test
+...​in the c# i create a desktop app and connect to sql server management studio in the same device can i do the same thing in flutter desktop - Test
+1:07:03 what is the best way to read and write data in get storage asynchronously or is there any better way? cause I have sometimes issues with reading data even I had used await.... - Rutvik
+1:11:25 Q:How to become Flutter/ Dart GDE , how long it will take? - Madhan Kumar
+1:18:55 Q: Is using Future.delayed in the initState a problem? - Ben Jie Ming
+1:20:39 Q:What is the best free course to learn flutter and the advanced topics? - Test
+1:28:17 Q:What is Save Layer, how to use it to improve performance? - Madhan Kumar
+1:29:43 Q: In which case the SharedAppData widget is more useful? - Madhan Kumar
+1:33:11 Q:Is it possible to see Dart in the future used in data science? - Test
+1:34:52 ​What can be found on Simon's whiteboard 🤔 - Md.Yeasin Sheikh
+1:36:02 Q: I'm using Form Widget, How do I validate each TextFormField when it's onchanged?,other TextFormField should not validate untill I call formkey.currentState.validate()? - Madhan Kumar
+1:38:17 Q: Isolate takes more memory than normal, how do I call independent async functions? - Madhan Kumar
+1:43:18 ​Q: I'm using Navigator 2.0, and extending RouterDelegate. I'm also using boolean to add or not Pages to a list of pages, to pass it to my Navigator(). Is there a better way to use RouterDelegate ? - Jean Didier
+1:48:11 ​Q: many people are posting blogs about future of flutter. what do u say about that. - Mamoon Shahzad
+1:52:12 ​Q: Does RepaintBoundary improve performance ? - Md.Yeasin Sheikh
+1:57:32 ​Q : As I'm Non Flutter Community member,How to get Dash? - Madhan Kumar
+1:59:15 ​Q: does dart have something like pandas dataframe to work with tabulated data? to do column operations? - Chathura Chamikara
+2:00:45 Ideas for live coding
+2:05:06 Break
+2:15:05 Outro

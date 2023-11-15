@@ -1,0 +1,24 @@
+0:00 Intro
+2:00 Start
+12:10 Q: how can we customize fontweight in flutter like how can we assign fontweight of 250? - harsh joshi
+23:02 Q what is the best architecture for clean code? - Ridz Creations
+28:48 Q: I use Flutter on Android Tv. My IconButton isn�t clickable after it gets focus via FocusManager.instance.primaryFocus?.focusInDirection(TraversalDirection.right). What is the reason? - ???????? ??????????
+31:06 Q : how to call an variable already exists when the user enter its name (call variable from a string data if its the same of the variable name) ? - Adam Yasser Saeed
+37:39 Q: What is your experience as a woman in tech? Any recommendations for other women in the field? - Haley Rader
+44:23 Q: How to deep dive in flutter core? - Duong B�i
+45:37 Q : I was building a widget from scratch and I choose RenderObject over a custome painter. What is your input on RenderObject and CustomPainter - Trending Codes-Hasnen tai
+46:49 Q: Do you have any experience with desktop application for Linux and touch screen monitor? I recently tested with counter app and only detects one touch in the floating button, with mouse works OK. - Arturo San
+48:51 Q: Why flutter feel choppy when scrolling with the mouse? - Duong B�i
+51:24 Q: how do we decide when to use "debug mode" vs "profile mode"? - Mtho
+55:31 Q: Hi, which type of default flutter "controllers" do we need to dispose? I've heard forgetting to dispose can create "data leaks"... what are those? - Mtho
+1:01:46 Q. I overheard someone from another team in my company saying that you can�t build and release flutter for android TV, is it so? And why? - HAWSI AADMI
+1:03:23 Q: When do we use mutable and immutable models? - Ridz Creations
+1:07:56 Q: how to use flutter_lints plugin? - Tech1st
+1:10:33 Q: How do you handle remote authentication with either rest API or firebase and local auth. How do know which user info to return when the user authenticates with biometrics. I'm guessing by... - David Nwaneri
+Q: ...persisting the user's data and if so, with firebase that offers persisting data by default, since there is no persisted data after the user is logged out, do I also use a local storage package.. - David Nwaneri
+Q: ...like shared_preference. And most importantly how to properly structure the code to put all this together. - David Nwaneri
+1:17:40 Q: Do you think something like SuperEditor should be built into Flutter? Otherwise isn't it difficult to build apps like Notion, or any app where you need to be able to select multiple objects? - The Shrike
+1:21:14 Q: In android app If I put sms or background locaton permission , play store side reject the app, how to handle this issue? - Tech1st
+1:24:36 ?when we use nested listview widget in windows app scroll does not work properly? - dhrub rawat
+1:28:34 Q: why flutter apps getting large size of output (apk) ? app bundle also large size , - Tech1st
+1:30:11 Q: is it possible to capture video thumbnail in flutter web? Firebase functions thumbnail expire after 7 days, Repaintboundary screenshot not working for videoplayer, - Raghav Shukla

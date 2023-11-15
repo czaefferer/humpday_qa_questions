@@ -1,0 +1,32 @@
+0:00 Intro
+1:56 Start
+4:27 Presentation @mospherePro
+27:06 Demo @mospherePro
+52:12 Question & feedback to @mospherePro from Simon
+59:03 ​Q. Can you send files to your own @sign if not do I need to make another @sign - Arvin Teymouri
+1:00:45 ​Q. The Bottom app bar is only limited to Home and Received, just wondering if you will be adding transfer history as a whole so you could access both Sent & received - Arvin Teymouri
+1:01:25 ​Q. Will you add the search/add contact function in the trusted senders page, helps with reducing extra steps of adding manually 😀 - Arvin Teymouri
+1:02:51 ​Q: so you are not talking about encryption i want to send data through Bluetooth or nfc do i need to encrypt them? - Mas
+...​Q: the data will be like pdf or vcf file - Mas
+1:04:39 ​Q. How nice does it play with VPN's.... - Arvin Teymouri
+1:05:33 ​Question: regarding UI lagginess: isn't it enough to perform the encryption in an async function, do you need an Isolate? - Csaba Toth
+1:10:07 ​I missed the beginning, so I don't know if this was answered. Q: What is the "@ Platform"? - James Johnson
+1:11:18 ​Q: What is best way to encrypt the data when app is design to operate offline ? so, that SQL files cannot be opened in other devices ? - Harshit Kumar
+1:15:42 ​Q. would you add airdrop like feature between multiple os systems. eg android to mac os. Would be super useful - Arvin Teymouri
+1:16:38 Q: Have you looked at the IPFS - The InterPlanetary File System? Looks like similar goals yet with some big differences! - John Cumming
+1:19:16 ​Q: What is impeller? Is it new rendering engine just like skia? - Akash Singh
+1:22:12 ​Q: I faced so many problems on Gradle Build Problems and Key Release, any idea how can I resolve it fast without wasting time please, because I'm still now hh ? - Imad Bouirmane
+1:27:16 ​Q: How about Dart Frog the new framework for server side in Dart, if there more frameworks available please list it for backend side only !? - Imad Bouirmane
+1:34:24 ​Q: Tooltip widget how can I update the default text in tooltip? setState does not affect it? Also how can I make the tooltip always visible even if user tap wherever on the screen - Roberto Potrus
+1:38:38 ​Q:Hii i have been stuck with this problem " Phone Auth gives a new uid to the user everytime the otp is successfully verified . How to check if the user exists already. So that his uid is not updated" - Eashubh Thapliyal
+1:42:05 Q: How we can use Flutter to develop for any embedded devices like Home, Restaurant, kios and ... devices. ? - Imad Bouirmane
+1:45:49 ​Q: Any real examples for Flutter Web Apps ? - Imad Bouirmane
+1:47:07 ​Q: what is the groups recommended choice for Flutter ORM for sqlite? - James Foreman
+1:48:03 ​Q: Does having Custom throw impact the performance? - Harshit Kumar
+1:48:39 Q: How to run background job? such as at 12:00 AM uTC. - Harshit Kumar
+1:52:40 ​​Q: is there any pacakge for Proto-buffer in flutter ? - Harshit Kumar
+1:55:53 ​Q: Does http package include any retries? if it fails retrive the page - Roberto Potrus
+1:54:56 ​Q: Can we get some suggestions(reference) on clean architecture(TDD)? - Md.Yeasin Sheikh
+1:56:19 ​Q: How to find download folder in flutter web ? - Isa Isa
+1:57:01 ​Q: Whats the difference between double.infinity and double.maxFinite? Seen it being used on width and height values - Roberto Potrus
+2:00:06 Outro

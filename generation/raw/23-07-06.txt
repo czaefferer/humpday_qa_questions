@@ -1,0 +1,16 @@
+0:00 (incomplete) Best practices to mock nested dependencies for testing?
+1:18 Start 
+1:53 Q: could you share any details on debugLogDiagnostics in goRouter 9? The docs don’t mention it. - Mtho
+3:01 Should semantics be opt-in for web (instead of opt-out) by default?
+7:22 Can Firebase be used to create GDP compliant applications? Where is Firebase data stored?
+10:14 Q: What are some key considerations for code structure and important features that should be included when developing an app specifically designed for persons with disabilities? Thank you in advance! - Bahar Ramazanova
+13:27 How to overcome challenges of convincing enterprises to use Flutter?
+21:03 Q: is there any specific reason why firebase packages don't always support all 6 platforms? support seems to vary package by package... - Mtho
+...Q: are there any plans to enhance the plain dart firebase support? dartfire? dart firebase admin? - Micha Günther
+25:48 Should the app stores be more open?
+26:22 Q: When shorebird will support native code changes ? - Shreeman Arjun Sahu
+27:17 Will more widgets move to InheritedModel?
+28:42 Flutter support for WASM - when?
+31:25 Will more target-names be supported for flavors on iOS?
+32:44 How could the Flutters package ecosystem be improved, could Google fund the community
+41:00 Outro

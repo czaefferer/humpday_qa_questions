@@ -1,0 +1,21 @@
+0:00 Intro
+2:04 Start
+8:24 Danielle about Flutteristas Conference
+15:48 Q: What are your current plans to unravel the daylight savings time tyranny under which we all live? - Craig Labenz
+19:19 Q: Are we excited or very excited that Chromium with WASM GC support is out? 😀 - Mike Rydstrom
+35:33 Q: For Simon: The "BackendState[...] on State" extension from WowShopping uses "[...] => context.xRepo" getters. It it a problem, that this could suppress the "use_build_context_synchronously" lints? - Krischan1712
+40:05 Q : we are facing issue in xcode15 Can you please help ?Lexical or Preprocessor Issue (Xcode): 'Flutter/Flutter.h' file not found - Jaimin Prajapati
+46:31 Q: When you have a Row within a constrained space, How do you layout mutiple Text widget so that they are take up the same space, even when one Text is longer. I tried FittedBox but it scales it down - David Nwaneri
+58:45 Q: Flutter WASM (on stable) cannot include dart:html or package:js, this limitation thus includes url_launcher. A web app without links is bit meh (in many cases). Is there support on master yet? - Mike Rydstrom
+59:54 Q:why stack not implemented in dart while queue is implemented - omar
+1:02:54 Q: Please I need a bit of clarity handling localisation specifically for American and Bristish english, using the default `flutter_localizations` from the sdk... - David Nwaneri
+...Q: ...I find that I would have a base app_en.arb , and then I would also have to duplicate things - David Nwaneri
+1:04:24 Q: I need to change my bottomSheet height dynamically, according to the height of the content. It would required to know the size of the content before changing the sheet height. Any idea how ? - Jerbs
+1:07:39 Q: any advanced tips regarding flutter localization workflows (besides the basics in the official docs)? e.g. 3rd party translation services, helpful IDE extensions, etc. - Patt O'Brien
+1:13:37 Q: On X yday we (I, Matt, Casey) discussed making a BottomSheet that is scrollable, that when list reaches top, does not do overscroll, but starts dismiss drag. No luck. Any pointers? We suspect a bug - Mike Rydstrom
+1:17:55 Q: repository pattern I first encountered in Wow app, one for all Products and another for Wishlist. Do you recommend a Repository per “Entity”, or is it more a “per feature” idea? - Calan M
+1:20:48 Q - How to write a test for a widget which is shown after a certain Duration with an animation? - Tirth Patel
+...Context: I'm customising open/close animation of PopupMenuButton in the framework. - Tirth Patel
+1:26:35 Q: How to listen for gps positions in the background. Packages such as Geolocator/Location has background listening, but when app goes in background no position data is received to the app - Roberto Potrus
+1:41:07 Live Coding: Animated partial height sheet https://gist.github.com/slightfoot/a6b5e17e664567861d7cf0c0598f7c0d
+3:10:23 Outro

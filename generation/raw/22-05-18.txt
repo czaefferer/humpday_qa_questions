@@ -1,0 +1,35 @@
+0:00 Intro
+2:05 Start
+11:47 Q: How to handle save data? Such as killing the app. It should save the data. Is there a way to handle when the app is killed? - Roberto Potrus
+12:41 ​Q: When should we prefer .aot compiled files. Can it be used in Mobile or on Desktop / Web/ Server - shivam srivastava
+13:13 Introduction Superlist 
+26:02 ​Q: What was the biggest challenge you faced during development of Superlist? - Štěpán Záliš
+32:53 ​Q: How is the Superlist app structured? Do you split your app into multiple packages? Do you have an architecture you follow, like Clean Architecture? Would love to hear more about that 🙂 - Nils Reichardt
+37:10 Q: As someone from a .NET background I want to learn best practice for large scale production quality apps and learn from others mistakes. Whats the best open source Flutter app I can learn from? - Ben Buttigieg
+47:13 ​Q: Do you have a testing strategy? What are you testing? What kind of tests do you have? How much of the code base is tested? - Nils Reichardt
+53:00 ​Q : flutter is support long term project development? every flutter update need to upgrade the plugins? how to manage deprecated plugins ? - Tech1st
+1:00:28 Q: Let's say that we have a pre-compiled Android AAR file that has a few views on it, so how can i load this Android AAR file from Flutter and open a view? Any demo or reference for this. - Akash Singh
+1:02:07 ​Q: is new enum poor's man sealed class? - Swav Kulinski
+1:03:28 why don't we have a simple state management solution like VueX in flutter? why it has to be over the top complicated... - Akshat Tamrakar
+1:09:16 Q. How to handle multiple streamprovider on a Screen(building IOT app to fetch new values from BLE)?Now multiple streams makes app lagy - gourav verma
+1:10:55 ​​Q: in future can we see implementation of dart wasm in flutter web? - dhrub rawat
+1:19:38 Q: Can dart able to run multiple even loop in same isolate for parallel processing? - Rebaz Rauf
+1:23:12 ​Q: does compute funtion manage isolates in terms of reusing isolates or does it basically start new isolates? - talisfang
+1:25:11 ​Q: I wonder why async factory name constructor not supported yet in dart? - Harshit Kumar
+1:26:15 Can you build an app like TikTok in Flutter?
+1:29:23 ​Q: What are you using for realtime collaboration? Conflict-free replicated data type CRDT or Operational Transform OT. Or something else? - John Cumming
+1:32:25 ​Q: In SuperList, can you include an audio player widget within the text? - Richard Rouzeau
+1:35:15 Q: In Superlist, do you have drawing/sketching features? - John Cumming
+1:36:07 ​Q: In super list which state management they are using? - Puspharaj Selvaraj
+1:37:45 ​Q: Redmi and Realme phones are not showing notifications on Lock screen. I tried every notification settings. Is there anything specific I need to do. ( It's working fine for Samsung ). - Vikas Kumar
+1:38:15 Where do you see Flutter Web going? - Ben
+1:43:03 Q: can we have isolates in flutter web? - Puspharaj Selvaraj
+1:43:54 ​Q: What format should I use for animations? Such as on games when you win, you get coins - Roberto Potrus
+1:45:23 Q; Are features like window_size for desktop implemented in Flutter? That was the plan noted in the plugins' repo? Simon? 🙂 - Richard Rouzeau
+1:46:40 ​Q: Can we use flutter to develop app for Amazon Fire TV? Will there be some problems or everything will work just like it works for web or desktop. - Alpana
+1:47:59 ​​Q: Does something like NPM Dependency Confusion possible in Dart? - Harshit Kumar
+1:51:05 Q: How many lines of code does Superlist have? - Dương Bùi
+1:52:17 Q: does superlist have offline support. What's your preference for local data storage? - talisfang
+1:53:20 ​Q: Which Flutter feature do you miss the most? - ​Nils Reichardt
+1:55:22 ​Q: @Simon was speaking about RxDart a few minutes ago, like to hear more about it from him/everyone. - ​Abhinesh Kushwaha
+1:55:47 Outro

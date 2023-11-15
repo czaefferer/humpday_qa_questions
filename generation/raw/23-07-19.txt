@@ -1,0 +1,25 @@
+0:00 Intro
+2:07 Start
+15:47 Pacman Emulator
+28:32 Q: do you know if Fluttercon presentations will be available online for people who couldnt attend in person? - Mtho
+30:32 Q: I have the following scenario: Imagine I have a list of text widgets and everytime I scroll down I want to widgets on the top which are not in the viewport anymore to be removed. How can I do that? - LucasXLucas
+31:39 Q: is the flutter canvas and "canvaskit" the same thing? - Mtho
+34:46 Q: When I make a class of Textstyles that should be called like Textstyles. title(). Should I make those function all static or create factory methods ? - LucasXLucas
+42:55 Q: How about live review the riverpod brick i had shared over discord to you, by Simon ?😍 - Shreeman Arjun Sahu
+43:28 Q: As a flutter developer with 1. 5 years of experience, how should I start with Native Android development, what should I go with Java, Kotlin n XML or jetpack compose for UI - Prashant G
+52:14 Q: how can a file be transferred through Bluetooth within flutter app? - Mtho
+56:56 Q: is there a way to test the iOS build of the flutter app on a windows machine? next question: What would be the best way to present an app to the customer for reviews? - Chathura Chamikara
+1:01:04 Q: using firebase analytics, according to the documentation setUserProperty() should be called once on a device instance. when the user uninstalls and installs at a later time...., - Ugochukwu Umerie
+...Q: how does the firebase analytics keep track of the user property since it generates a new appid instance for a device? - Ugochukwu Umerie
+1:06:35 Q: What is the diff b/w Isolate and async await, what are the situation makes each stand-out? - Mitul Vaghamshi
+1:17:00 Q: To Simon regarding "shopify app gist". How to handle if there are two screens on top. Then e. g user token has expired, how to pop those all screens until reaching first view, without black screen. - Roberto Potrus
+1:23:51 Q: using Hive Db. i have stored around 20 MB (Objects) data inside it. but when i trying to read data screen hangs. so i have used compute. but compute not allowing to call methods of hive class. - Ajay Kamble
+1:28:53 Q: What do you guys think of the approach of returning errors inside of a record instead of throwing them? Just similar to GoLang approach to handle errors. - Jay Jah
+1:32:52 Q: in java(android) app, G dev docs says it will add ~1mb to the app size when usung enums, is it same with Dart or any langs? - Mitul Vaghamshi
+1:40:44 Q: What do you think of gskinners flutter widgetview a simple separation of layout and logic. Along with get_ it and watch_ it. I find it is easier to understand and closer to the sdk than e. g. Riverpod - Kevin Chadwick
+1:48:48 Q: Guys, what are the essential skills and qualifications that a Flutter dev should possess in order to be considered for high-paying job opportunities in the current market? - Reiko
+1:53:42 Q: how to use the build_ runner package for code-generation. I want to read some files then generate dart code. - Okello Gerald
+1:54:55 Q: Rephrasing: List has widget A,B&C. I scroll down so widget A is not on screen. Widget A should be removed now. Now when I scroll up again I only can see B and C left. The issue is making it smooth - LucasXLucas
+1:56:51 Q: A session or two ago, you mentioned alternate methods of sharing state across widgets w/o provider or riverpod. Can you explain? Might this be dependency injection related? - bille
+2:00:44 Live Coding: Slivers - Gist: https://gist.github.com/slightfoot/a72cfdb4d40632b15fb388fba5bc1ad0
+3:03:56 Outro

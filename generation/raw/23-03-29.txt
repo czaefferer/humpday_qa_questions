@@ -1,0 +1,19 @@
+0:00 Intro
+2:32 Start
+13:05 Q: how do I use docker compose file in flutter? - Hafeez Rana
+16:39 Q: All of my projects have used Material Design. How about your projects, the same? - Marco Napoli
+23:04 Q: 1/2 My app uses canvas.drawVertices(myVertices). I would like to create myVertices using the Vertices.raw() method in an isolate because it requires processing. Is this impossible because - Maat
+... Q: 2/2 Vertices are part of the dart:ui package which can only be used in the main isolate? - Maat
+25:01 Q: Any advice for side gigs? What would you do different if you had to start over again? - Michael Maitlen
+31:29 Q: on flutter web, how can we detect and prevent a user from logging in from two separate tabs or windows? or even launching two instances of same app in desktop?... - Mtho
+36:18 Q: Wear we at with smart watches? I believe the last update was by Simon from a year ago? - James Johnson
+39:41 Q: Will 'dart:io' be compiled in flutter wasm (wasm-gc) ? - Sabin Neupane
+52:29 Q: Can a stateless/stateful return a list of widgets? Such as column or row, but i dont want the layout of the flex widget. - Roberto Potrus
+... Q: why Cross axis stretch and not Cross axis start? - Michael Maitlen
+1:09:22 Q: can we get the flutter code from Figma ui? - Tech1st
+1:15:06 Q: How can we use javascript window.addEventListener in web for Flutter? I have kIsWeb but can not remove the warning from inport 'dart:html' library. - Binh Huynh
+1:17:32 Q: How can we upgrade all package on melos like `melos upgrade`(this command isn't available)? - Md.Yeasin Sheikh
+1:20:25 Q: Why is it that controllers and stuff like that needs to be initiated and disposed in their parent widgets? - Craxx
+1:32:59 q: recently discovered stateful widget have a resemble override method How can I use it or what was it used for (real life examples) ? - Patrick Waweru
+1:35:16 Code review: digital_coin
+3:09:52 Outro

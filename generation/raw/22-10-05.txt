@@ -1,0 +1,28 @@
+0:00 Intro
+1:49 Start
+4:49 ​Q: With the number of State management frameworks, available for flutter, what's your take on how developers can keep up, to stay relevant for job opportunities? - Ogaraku Justine
+8:01 ​Q: What dependency injection solution is mostly preferred when working with the Bloc package? - Ogaraku Justine
+11:36 ​Q: How can the app listen to volume button press even if the screen is locked - Besher Karkour
+15:16 ​Q: What are your 3 main features/concepts you suggest every developers should know, professionally? - Ogaraku Justine
+19:24 ​Q: tips for getting good at UI design? - Calan M
+... ​what if I have a portion of the design which has a large text already? a clock for example, am i not supposed to still not override text scaling? - mmahgoub
+25:23 ​Q: Is there any pros convert dynamic json values to their respective data types? - Roberto Potrus
+26:05 ​Q: What's your take on using the Clean Architecture for professional projects? - Ogaraku Justine
+29:07 ​Q: work manager plugin support in ios , headless task not working in ios . i need to run every 15 min background task without open app - Tech1st
+31:34 ​Q: Forms inside listview (not builder) seems not validate widgets that are not visible. Any reason? - Roberto Potrus
+33:39 ​Q: Stepper overflows when i have it horizontal and does not scroll. When vertical works fine. How can I solve it? - Roberto Potrus
+35:43 ​Q: Is it possible to pass a Flutter widget using method channels or something else and render it as native code, specifically in iOS ? - Damian Diaz
+...​Something like build a custom notification and pass the widget - Damian Diaz
+40:10 ​Q : what is the best plugin for running background task? - Tech1st
+40:39 ​what is the state of Dart 2 wasm, when it will release? - Ham Watan
+43:11 ​Yeah using pigeon just pass data and build view natively - Damian Diaz
+44:13 ​Q: Any takes on using Melos for managing monorepos? We are having doubts/being skeptical about having a single GitHub CI YAML instead of multiples. - Gianfranco Papa
+47:04 ​Q: What is the best Widget/library/plugings to play Music, more specifically mp3 files. - AFShin Seysan
+... ​Q: followup preferably with good documentation - AFShin Seysan
+49:37 ​Q: tips on how to study new thing in flutter and how to memorize it ? - Re mix
+53:41 ​Q: Is Records(upcoming feature) is similar like data class in kotlin? - Abdullah Al Mahmud
+54:36 ​Q: Is there a way to check if a user has modified the system date/time? - AlphaRadeon Z
+58:08 ​Q:can we create video player only written in dart not platform specific player - ali Hassan
+1:01:14 ​Q: hi when I try to create an app by my idea and not following any course. I got confused and don't know what to do first ? any advice - Re mix
+1:08:37 ​Q: We are trying to invest a lot in Flutter, however, google has a Track Record of Abandoning projects after several year. Any comments or heart-warming info? Is Flutter the next UI for Google Phone? - AFShin Seysan
+1:10:37 Outro

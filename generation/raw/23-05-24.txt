@@ -1,0 +1,25 @@
+0:00 Intro
+4:14 Start
+24:33 Q. Randal you also engaged in that tweet by luke on twitter, what are view on making styling as extensions and what is impact on performance? - MadSpace
+34:50 Q: should I use provider or riverpod or flutter_bloc , Please suggest I am new to flutter please help thanks masters in advance. - Krupal Vasani
+51:59 Q: running integration test on iOS with flavors result on the test stuck xcode build finish and the app launch on simulator and the test still loading/building - KladOS
+55:15 what do you guys think about Mason and bricks? Would you recommend - Mohamed Osman
+1:06:12 Q: Is it possible to achieve flavors on macOS app built in Flutter? - Stef Patterson
+1:08:57 Q I want to get location in seprate isolate but when i minimize application the Isolate get paused , how could i get location when application gets minimize - VIKASH KUMAR
+1:16:35 Q : What's a good way to handle platform level exceptions that crash the app? I recently faced, it was caused by an external plugin. I'm able to catch it at Android level but can't redirect to Flutter - Detained Developer
+1:24:39 Q: Is there a way to use Process.runSync to call powershell as admin. I've tried Process.runSync('powershell.exe', [-verb runAs] but get security error. - Verticrow
+1:26:42 Q: What is the benefit of building community? I applied to become GDSC leader for my uni. If I pass, what should I do to make my community to grow? - Dương Bùi
+1:31:53 Q: Is using shared prefs. to save data locally a bad practice? suppose i have two types of user and after first signing up, I wanna save the user. type on the device, is it ok to use shared prefs? - Amir
+1:41:32 Q: if we use state management (flutter_bloc, riverpod etc) why do we need stateful widgets? only for animations and text fields or there are more reasons? - VLADISLOVE
+1:47:09 Q: What is the best way to connect bluetooth audio device either plugin or native code for android - VIKASH KUMAR
+1:49:44 Q: any tips on selecting colors for a web app and making themes for apps in general? any cool material theme generators? - Chathura Chamikara
+1:54:39 Q: Do you guys think flutter is held back by trepidation on the part of developers in learning and using a new language? If flutter were done in Java and c# do you think adoption would be higher? - Danny Ackerman
+1:59:11 Q: @Simon, have you started your writing assignment? - Stef Patterson
+1:59:22 Q: How to verify whether ‘…’ suffix on the Text widget applied by ‘TextOverflow.ellipsis’ appears on UI or not when writing widget test? - Shashi Sharma
+2:05:36 Q: Is it possible to connect multiple phones with different OSes to exchange real-time data? (In close proximity) - Richard Rouzeau
+2:11:13 Q: Simon, are you saying you recommend that people pull plug-in code into their projects and not use a plug-in? - Stef Patterson
+2:12:00 Q What is meta programming here in talks to come to dart in future? - Navdeep kumar
+2:19:15 Q:Hello, is there a length limitation on messages between isolates? Also is there any good posts on isolates internals? - Pantelis Tsak
+2:22:25 Q: When i run flutter app with release flag it gives this error "failed to read key upload from keystore-jks Algorithm HmacPBESHA256 not available" I have the latest java version.. - Hashan Kannangara
+2:33:02 Live Coding Quizz app continued
+3:37:22 Outro
