@@ -4,4 +4,6 @@
 
 ## Specific topics:
 - [State management](topics/statemanagement.md)
+- [Riverpod](topics/riverpod.md)
+- [Firebase](topics/firebase.md)
 - [Live coding](topics/live-coding.md)
