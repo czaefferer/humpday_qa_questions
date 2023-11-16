@@ -1,0 +1,21 @@
+0:00 Intro
+2:01 Start
+8:14 Q: In my Flutter web app, is there an easy way to determine *my* ip address? - Flutterfly
+16:10 Q: could you recommend best tutorial for Flutter Testing? - Madhan Kumar
+18:17 Live Coding: In parallel to question - Gist: https://gist.github.com/slightfoot/f85b68042465febe95dc69d23f86ad8a
+19:15 Q: In a Flutter web app using GoRouter, how do you show dialogs and bottom sheets? If I call showDialog and press the browser back button, the page will navigate back but the dialog will stay open. - Smash Highlights
+23:16 Q: I haven't done any Flutter animation for years. Can you recommend a good refresher resource? - Matthew Jones
+25:05 Q: Do any of you know of any good GUI designers that generate standard Flutter code? (FlutterFlow adds too many custom things). We need to be able drop into an existing project in AS or VS Code. - PowerDroid
+32:53 Q: How can we do performance, memory, CPU profiling on flutter web? DevTools doesn't seem to offer theses functionalities yet. - Philippe Makzoume
+36:52 Q: How to Calculate Parent Widget Size? - Madhan Kumar
+50:29 Q: If you have a list of form fields in list view, how do you properly push the focused form field above keyboard? This has always been a pain point, especially when the list is in a bottom sheet? - Peter Musembi
+1:02:50 I think if you have a Scaffold it resizes automatically based on the resizeToAvoidBottomInset property - Pantelis Tsak
+1:17:27 Why do not use state management like riverpod - Mouaz Shahmeh
+1:25:30 Q from previous week: Q: I have an appbar at the root of the app in a scaffold (one per bottom tab). How can I change the AppBar title depending on the current page (with data) being shown in the body? AutoRoute nested nav - Boolean
+1:31:51 Q: HARD MODE How can I use InteractiveViewer and RepaintBoundary together to enable dragging of child elements across the screen without restrictions on width and height? - Yaroslav
+1:33:47 Q: I have 5 chip Widgets that represents 5 different section header and below that I have that section body then how to change colour of the chip based on current section is visible by scrolling? - Madhan Kumar
+1:36:42 Q: Anybody joining Advent of Code starting next month? - Fré Dumazy
+1:38:12 Q: how to achieve scroll bottomsheet like facebook and instagram comment section, the bottomsheet contain a header and a body, and the body is a list containing all the comments. The header can drag vertically to increase or decrease the height of the bottomsheet, also and when the list has been scrolled to top (list offset = 0),if the user continue drag down, the bottomsheet start decreasing its height base on how much is dragged. I have tried showModalBottomSheet and DraggableScrollableSheet, but no luck.😩 - wongvoonngee3307
+1:39:43 Live coding cont.
+2:27:46 Dart 3.2
+2:30:21 Outro

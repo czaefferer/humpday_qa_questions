@@ -1,3 +1,4 @@
+23-11-15 [1:17:27](https://www.youtube.com/watch?v=1JuZCCbJma8&t=1h17m27s) Why do not use state management like riverpod - Mouaz Shahmeh  
 23-11-08 [43:56](https://www.youtube.com/watch?v=UDWFxhobzhA&t=43m56s) Q: Which State Management must know as a Flutter Developer in an current Flutter Development? - Madhan Kumar  
 23-11-08 [38:32](https://www.youtube.com/watch?v=UDWFxhobzhA&t=38m32s) q. how do i pass values from one screen to another using the stacked state management (without having to pass it as a parameter) ?(ps: i checked the docs and I couldn't find the answers) - Train of Thought  
 23-09-06 [2:31:35](https://www.youtube.com/watch?v=YLXj6w4UoBg&t=2h31m35s) Q:Want to use state management in our company app but they told to not to use any state management where the application grows ? Also they are cloning opensource plugins but not contributing ?Its bad - Shreeman Arjun Sahu  

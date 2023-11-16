@@ -1,3 +1,4 @@
+23-11-15 [18:17](https://www.youtube.com/watch?v=1JuZCCbJma8&t=18m17s) Live Coding: In parallel to question - Gist: https://gist.github.com/slightfoot/f85b68042465febe95dc69d23f86ad8a  
 23-11-01 [1:41:07](https://www.youtube.com/watch?v=S9C496aj1cA&t=1h41m07s) Live Coding: Animated partial height sheet https://gist.github.com/slightfoot/a6b5e17e664567861d7cf0c0598f7c0d  
 23-09-13 [1:58:30](https://www.youtube.com/watch?v=YPt1hDwOM-U&t=1h58m30s) Live Coding: Scaling Layout - Gist: https://gist.github.com/slightfoot/81176152d5c27df42e9049103de48a9a  
 23-08-23 [1:25:03](https://www.youtube.com/watch?v=EB4TaQ0nfgo&t=1h25m03s) Live Coding: Website with Dart but without Flutter  

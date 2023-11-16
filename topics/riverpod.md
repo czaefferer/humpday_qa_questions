@@ -1,3 +1,4 @@
+23-11-15 [1:17:27](https://www.youtube.com/watch?v=1JuZCCbJma8&t=1h17m27s) Why do not use state management like riverpod - Mouaz Shahmeh  
 23-10-04 [2:15:35](https://www.youtube.com/watch?v=QmY9QCXhUGM&t=2h15m35s) Q: How to use mixin for caching state in AsynNotifier in RIverpod ? - Shreeman Arjun Sahu  
 23-10-04 [1:31:34](https://www.youtube.com/watch?v=QmY9QCXhUGM&t=1h31m34s) Q: I'm using riverpod to set the loading state. I need to push a new page as soon as loading is done without triggering rebuild on the current page. - Chathura Chamikara  
 23-10-04 [1:07:04](https://www.youtube.com/watch?v=QmY9QCXhUGM&t=1h07m04s) Q: Riverpod async notifier does not check the equality like Notifier. I have to use select for reducing the widget build. Any better option to do ? : @Randal L. Schwartz - Shreeman Arjun Sahu  
