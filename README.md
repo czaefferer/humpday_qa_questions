@@ -1,4 +1,4 @@
-# Humpday Q&N questions
+# Humpday Q&A questions
 
 [Archive of questions](chapters/) asked in the Flutter Humpday Q&A: https://www.youtube.com/@FlutterCommunity
 
