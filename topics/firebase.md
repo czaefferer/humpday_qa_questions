@@ -1,3 +1,4 @@
+23-11-22 [1:41:51](https://www.youtube.com/watch?v=39qL0yS27ak&t=1h41m51s) Q: Greetings I faced an Eroor in my firebase Firestore stating something like that ' Exceeded data limits I think'. Am I supposed to upgrade my firebase or any other solution for that - Mamoon Shahzad  
 23-10-18 [1:12:13](https://www.youtube.com/watch?v=ynoETkeinUM&t=1h12m13s) Q: When deploying my web app with Firebase Hosting, it asks “Configure as a single-page app ?”. What is the difference if I put “yes” or “no” ? Are both PWAs ? - Jerbs  
 23-09-27 [9:38](https://www.youtube.com/watch?v=WzCJ5KRovKE&t=9m38s) When will Firebase Analytics be GDPR compliant?  
 23-08-23 [1:12:27](https://www.youtube.com/watch?v=EB4TaQ0nfgo&t=1h12m27s) Q. What is the best approach for getting data from a flattened Data Structure in Realtime Firebase with Flutter? - Tran Khoa  

@@ -1,3 +1,6 @@
+23-11-22 [2:55:02](https://www.youtube.com/watch?v=39qL0yS27ak&t=2h55m02s) Live Coding: InheritedWidget counter app mutable - Gist: https://gist.github.com/slightfoot/8ff677dee3e4ee2c7ae41907c2a77f72  
+23-11-22 [2:18:11](https://www.youtube.com/watch?v=39qL0yS27ak&t=2h18m11s) Live Coding: InheritedWidget counter app immutable - Gist: https://gist.github.com/slightfoot/8ff677dee3e4ee2c7ae41907c2a77f72/fc8736313ad637f01adc1627891a696783cfb1a0  
+23-11-22 [1:59:07](https://www.youtube.com/watch?v=39qL0yS27ak&t=1h59m07s) Live Coding: Vertical PageView with scrollable children  
 23-11-15 [18:17](https://www.youtube.com/watch?v=1JuZCCbJma8&t=18m17s) Live Coding: In parallel to question - Gist: https://gist.github.com/slightfoot/f85b68042465febe95dc69d23f86ad8a  
 23-11-01 [1:41:07](https://www.youtube.com/watch?v=S9C496aj1cA&t=1h41m07s) Live Coding: Animated partial height sheet https://gist.github.com/slightfoot/a6b5e17e664567861d7cf0c0598f7c0d  
 23-09-13 [1:58:30](https://www.youtube.com/watch?v=YPt1hDwOM-U&t=1h58m30s) Live Coding: Scaling Layout - Gist: https://gist.github.com/slightfoot/81176152d5c27df42e9049103de48a9a  
