@@ -1,3 +1,4 @@
+23-11-29 [29:05](https://www.youtube.com/watch?v=jpJw552x1-c&t=29m05s) Q: Have any of you used Supabase? How does it compare to Firebase? - Austin Stoker  
 23-11-22 [1:41:51](https://www.youtube.com/watch?v=39qL0yS27ak&t=1h41m51s) Q: Greetings I faced an Eroor in my firebase Firestore stating something like that ' Exceeded data limits I think'. Am I supposed to upgrade my firebase or any other solution for that - Mamoon Shahzad  
 23-10-18 [1:12:13](https://www.youtube.com/watch?v=ynoETkeinUM&t=1h12m13s) Q: When deploying my web app with Firebase Hosting, it asks “Configure as a single-page app ?”. What is the difference if I put “yes” or “no” ? Are both PWAs ? - Jerbs  
 23-09-27 [9:38](https://www.youtube.com/watch?v=WzCJ5KRovKE&t=9m38s) When will Firebase Analytics be GDPR compliant?  

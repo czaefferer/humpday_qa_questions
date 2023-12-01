@@ -1,0 +1,28 @@
+0:00 Intro
+3:19 Start
+9:01 Lukas about Flame GameJam 3.0
+19:34 Simon about Cicoparser
+26:32 ​Q: For the Flame Engine and for individual independent developers, do you think targeting Flutter Web would be a good workaround for the new Play Store “20 testers” requirement? - PowerDroid
+29:05 Q: Have any of you used Supabase? How does it compare to Firebase? - Austin Stoker
+37:22 Q: I haven't looked too closely at Flame. Does it provide any resources for animation that are superior to what Flutter provides out of the box? - Matthew Jones
+42:08 Q: I'm looking to write a Flutter app that runs on a raspberry pi and provides inputs / outputs through the GPIO. Is there a good way of interfacing Flutter with Circuit Python? - Matthew Jones
+45:41 ​Q: what is difference between ValueNotifier and ChangeNotifier? When best to use either? - Calan M
+51:28 ​Q: Trying to load data from Supabase in an Isolate. Isolates have a real problem with any code that uses things in the main Isolate. How do we get around this? - Kevin Moore
+57:12 ​Q: Any thoughts on Hixie’s exit from Google? - Gary Montgomery
+58:01 ​Q: do we have something like 'Rust Foundation' for Dart/Flutter? - Tirth Patel
+59:14 ​Q: Ever get the vibe that Flutter's drowning in too many widgets? It's like a widget overload, making it a real challenge to stay on top of the widget game. (Cont.) - Dinesh Srini
+​(Cont.) Could that not be simplified by using constructor attributes to differentiate them? (for example, Flex can be replace Row and Column, no?) any thoughts. - Dinesh Srini
+1:09:17 ​Q. i want to do image segmentation using tensorflow but didn't understand anything, like how to do that?..please guide me if you knows about it.. - Rutvik
+1:10:11 ​​Q: My app need to have a lot of google ads, on iOS working perfect but on android I have sometimes inifinity load( ussualu after fourth ad in list) I’m using keep alive in list and banners(type of ad) - Vess
+1:13:33 ​Q: Is there any way to render widget via a String? I have a few widgets which store on github gits now i want to render those on runtime in flutter. I aleady get code as a response via github api. - Prashant Nigam
+​(continue) something r'''Container()''' like this. Is possible to render widget in this way? - Prashant Nigam
+1:18:29 ​​Q:How would one go about building an offline first desktop app. As in, the ''best" local db and remote db to use. And also any pointer to resources on this would be appreciated - Mr Riyality
+...​Q:Why is there so little resource for flutter desktop? Unless i am bad at searching 😅 - Mr Riyality
+1:23:56 ​Q: Any tips on how to warm up shaders in a Flutter Web app? I have simple animations that look a little janky the first time they run. - Daniel Coyula
+1:25:26 ​Q: have yall seen and experimented the "native assets" feature, where one can add native code as assets to a dart application/lib? - Renan
+1:27:53 Q: any experience or advice for doing in-app purchases to work cross platform? i.e. buy on iOS, make purchased item available in their account on Android and web. - Austin Stoker
+1:31:16 ​Q: [GoRouter] An extra with complex data type ({ScrollController cont, ValueNotifier<int> noti}) is provided without a codec. Consider provide a codec to prevent extra being dropped during serializ... - Roberto Potrus
+1:34:02 ​Q: Flutter webview in separate route - any idea how can we reduce the initial load time? Could that be loaded in a separate isolate or offstage widget of some sort to preload the route & the webview? - Dinesh Srini
+1:39:32 ​Q: super.key is recommended but when a widget is private, linter gets annoying with optionals parameters such as super.key. Yes i could turn off that through linter, but i would like to have it on - Roberto Potrus
+1:42:39 Live Coding: Defining widget tree in XML - Gist: https://gist.github.com/slightfoot/4c522d8c6fb90b00df615ec69d250125
+3:24:29 Outro
