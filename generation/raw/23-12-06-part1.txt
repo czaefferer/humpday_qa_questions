@@ -1,0 +1,10 @@
+0:00 Intro
+2:14 Start
+10:11 About Flame GameJam 3.0
+13:13 About identitiy of extension methods
+23:16 Q: What is the best way to connect flutter app to vehicle OBD system and read data? - Hashan Kannangara
+26:21 About Jetbains AI: https://www.youtube.com/watch?v=SN51H_q9wBg
+29:31 Q: Can Flutter overtake QT in the embedded system domain? and what tools are available as of now to get into it? - Dishank Jindal
+36:41 Q: I've been thinking a lot about Dio lately, and I was wondering which library you prefer for http and Dio. - Curo Gom
+41:53 Q: I'm stuck at the (little bit after beginner) phase, any resources to help me improve? - roaa noman
+Part 2: https://www.youtube.com/watch?v=TaHhT1QdYUM

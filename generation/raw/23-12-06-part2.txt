@@ -1,0 +1,25 @@
+Part 1: https://www.youtube.com/watch?v=wrWDP2jRwss
+4:20 Q: to create a type of dynamic component and this is rendered on screen, either as a text or image and we can update its values, what pattern do you recommend or any existing example, thank you - Jeanmartin Pachas Villa
+8:30 Q: How do you guys implement loading states. For example you have 5 rows on the screen and if you click one it downloads an item, how shld y implment 1 main loading state and a state for each item ? - The Fsquad
+11:29 Q: Any good references on setting up CI/CD for flutter app? Also tell us your fav CI CD tool (if there's any) - अ
+14:06 Q: I'm testing some different architectures on my project to see which one fits best on it. Could you recommend some open-source projects regarding architecture? - Rodrigo Castro
+19:42 Q: Is there any way to connect flutter app with latest OpenAI Assistant API? found dart_openai package but the author seems not updated it with beta features😐 - Hashan Kannangara
+22:31 Q: is flutter web slow? especially compared to JS web apps? - Mtho
+26:17 Q: widget of the week series is no longer going on, how do I keep up with wigdets in flutter - Ugochukwu Umerie
+26:35 Q: Is the number after the '#' some kind of address value? - Curo Gom
+28:08 Q: is there a way handling memory in Dart? eg. pointers, etc - especially similar to Rust "ownership and borrowing" ... just curious - Mtho
+29:46 Q: can you tell me more about the FFI plugin and in which usecases working directly with FFI will make more sense? - Dishank Jindal
+35:06 Q: How can the null-safety be selectively disabled for a specific file or part of the code, such as slider_theme.dart#L1067? - Md.Yeasin Sheikh
+40:43 Q: i am doing some image stuff and i have the gesturing issue on the edge of the widget while image is scaled and rotated slightly.. why ? and if you could show example or solution.. thanks - Rutvik
+42:58 Q: what's happening to flutter there alot of releases lately - Nidal Bakir
+44:05 About Flutter 3.16.3
+45:38 Q: Any recommendations on migrating from M2 to M3 in a iterative way, without doing everything at once? - Fré Dumazy
+49:57 Q : could you share projects built using RxDart with github repository? - Madhan Kumar
+51:06 Q: I have one statement management question, because you are all with Flutter from the very beginning. Will you still recommend vanilla state management or something like BLOC/Riverpod? - Dishank Jindal
+53:32 Q: How to Embed DartPad on a Flutter Web Project? - Tirth Patel
+55:06 Q: how to use geofencing in the flutter app? - Tejas Galande
+1:00:10 Q: Sir, when I press back button of the device, I want to go back to the first route, after that , when again back button is pressed I want to quit the app, how to do? - Mohammad Saidi
+1:03:27 Q: What can I do to improve SEO quality of a flutter web app ? - Isa Isa
+1:08:00 Live coding: Gesturing outside
+1:47:35 Live coding: Name tagging - Gist: https://gist.github.com/slightfoot/8645ddcc0541060d2648a9ec61ba5083
+3:30:14 Outro
