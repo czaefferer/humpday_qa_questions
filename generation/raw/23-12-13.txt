@@ -1,0 +1,17 @@
+0:00 Intro
+1:56 Start
+14:27 Q: how to get flutter dash? - Vyankatesh Rathod
+21:30 Q. can you suggest any certification exam/ course for flutter? - Vyankatesh Rathod
+26:53 Q:How to automatically update an application after it has been published without the user's request? - Madhan Kumar
+33:10 Q: how dow you use switch pattern matching to render widget conditionally in the widget tree, I have been using it for business logic, just curious on how to use it in the widget tree? - Ugochukwu Umerie
+40:05 Q: I'm hoping to make it to more live event this year. Is there a good directory of upcoming Flutter events posted somewhere? - Matthew Jones
+43:10 Q: for fuller context (no pun), would you recommend Flutter devs to become familiar with the “forerunner” React? (Hooks, reactive patterns, general history etc) - Calan M
+44:46 q: lets say I have gradient as background of listview, is it possible to make this gradient gradually grow from one color to another as listview grows? - Roman Nakonechnyi
+46:43 Q: How to decrease initial time of app - Pradeep G
+52:41 Q: how to slove package inconsistent when some package need kotlin version 1.8.0 but some need kotlin 1.7.0 - Pradeep G
+54:16 q: I am struggling with layering widgets especially with passing functions. I had to put the function in the parent widget and update state in the actual function. is there a proper way to abstract - Laser Schondorf
+56:27 Q: are there any streams for intermediate flutter devs to watch someone make an app maybe on twitch that you can recommend - Laser Schondorf
+54:16 cont. q: I am struggling with layering widgets especially with passing functions. I had to put the function in the parent widget and update state in the actual function. is there a proper way to abstract - Laser Schondorf
+1:03:27 Q: w/o starting a discussion on state mgmt, just curious, why do u think flutter doesn't have the BindingContext concept that Xamarin has. just one prop that links your widget to an object instance - Danny Ackerman
+1:13:34 Live coding: Accessing state in child--widgets - Gist: https://gist.github.com/slightfoot/80b9c97ff68a373e80d5d5982585736e
+2:38:49
