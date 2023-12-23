@@ -1,0 +1,20 @@
+0:00 Intro
+2:23 Start
+19:46 Q: How to manage the responsive screens(app & web both), because sometime it's throw the error the infinity size error - Dheeraj Prajapat
+23:37 Q: what are you thoughts on latest Google announcements around the Play Store? They seem like major wins for mobile developers... - Mtho
+26:12 Q: Have you tried Google's IDX yet and how do you like it? I like it so far, and you can run the iOS Simulator in a browser with a Mac for those who need it. - Marco Napoli
+32:54 Q:how to build Automotive Connecting Apps using Flutter, is Similar like Flutter Web ? - Madhan Kumar
+39:04 Q: what's your advice on "how to start a flutter community in your city?" - Mtho
+44:01 Q:I can receive data from webview(HTML) to flutter, but How to send Data from Flutter to webview?.I've tried webview_flutter package any other options? - Madhan Kumar
+45:11 Q: is it okay to call runApp() twice? Like: runApp(MySplash) -> do some init stuff -> runApp(MyApp()? - Arturo
+46:55 Q: in dart, have you come across situations that needed you to handle memory directly instead of leaving it to "Dart Engine"? - Mtho
+53:09 Q: is there any other way make responsive views other than layout builder ? - Ugochukwu Umerie
+...the different responsive break points sometime aren't right? - Ugochukwu Umerie
+1:04:38 Q: what's from Flutter/Dart world could be highlighted as 'less discovered area' to focus on in 2024? - Vadym Pinchuk
+1:09:31 Q: Is the OverlayPortal widget a good option for each element of a scrolling GridView? (Is it light enough?) - Richard Rouzeau
+1:14:19 Randal about functional programming in Dart
+1:20:27 Simon about TapRegion
+1:24:26 Simon about blurred background video playback effect - Gist: https://gist.github.com/slightfoot/f6baee7f7c01779611317ffb4963aeeb
+1:28:15 Live coding: Rolling list - Gist: https://gist.github.com/slightfoot/1fa8ddf069bfea69c4de1fcd3569deaf
+1:48:19 Live coding: Magic Layout - Gist: https://gist.github.com/slightfoot/b63f29a051920939cb8d431415313306
+2:52:31 Outro

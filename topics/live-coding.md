@@ -1,3 +1,5 @@
+23-12-20 [1:48:19](https://www.youtube.com/watch?v=kJWtSAFnJxk&t=1h48m19s) Live coding: Magic Layout - Gist: https://gist.github.com/slightfoot/b63f29a051920939cb8d431415313306  
+23-12-20 [1:28:15](https://www.youtube.com/watch?v=kJWtSAFnJxk&t=1h28m15s) Live coding: Rolling list - Gist: https://gist.github.com/slightfoot/1fa8ddf069bfea69c4de1fcd3569deaf  
 23-12-13 [1:13:34](https://www.youtube.com/watch?v=7k_tMJF1B-0&t=1h13m34s) Live coding: Accessing state in child--widgets - Gist: https://gist.github.com/slightfoot/80b9c97ff68a373e80d5d5982585736e  
 23-12-06 [1:47:35](https://www.youtube.com/watch?v=TaHhT1QdYUM&t=1h47m35s) Live coding: Name tagging - Gist: https://gist.github.com/slightfoot/8645ddcc0541060d2648a9ec61ba5083  
 23-12-06 [1:08:00](https://www.youtube.com/watch?v=TaHhT1QdYUM&t=1h08m00s) Live coding: Gesturing outside  
