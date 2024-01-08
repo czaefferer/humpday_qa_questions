@@ -1,0 +1,23 @@
+0:00 Intro
+2:39 Start
+13:29 Q: What are your Flutter-based resolutions for 2024? 🙂 - Fré Dumazy
+21:12 Q: What is your tip to handle lists within lists (and you may not know how long thelists are) - Tran Khoa
+27:13 Q: I am trying to implement kafka messaging to my flutter application, but not working seamlessly with flutter, it is working with Angular properly, can you suggest any resource or library ? - Vyankatesh Rathod
+30:54 Q: How to clear cache data (while capturing photo from camera/image_picker package it increases cache data) - Pradeep G
+46:19 Q: can one use other payment gateways other than Gpay and apple pay for Android and iOS respectively to accept payment without the app getting rejected. Happy new year - Ugochukwu Umerie
+...what payment gateway would you use to fund something like a virtual wallet? And you redirect to a WebView to complete payment? - Ugochukwu Umerie
+58:21 q: how to replicate complex ui design (eg cred app) - Pradeep G
+1:11:55 Q firebase initialisation take too long time where is the best place to initialised database - Pradeep G
+1:18:09 Q : how to integrate other Web link to flutter web - Pradeep G
+1:19:23 Q: how can I create a Draggablescrollablesheet with dynamic height (without passing initial child size and allowing it to take the height of the child widget) - Faisal Ansari
+1:22:43 Q: Is it a bad idea (or bad practice) to wrap DialogRoute in a custom Page, and use it in a Notifier? - Johannes Pietilä Löhnn
+1:36:33 Q: (rewriting old one as I had typo) Is it a bad idea to wrap DialogRoute in a custom Page, and use it in a Navigator?This to not have to do a lot of workarounds to get it reactive from state. - Johannes Pietilä Löhnn
+1:39:05 Q: Display a image which will auto fit height and width image in a box with ranfom image sizes - Shreeman Arjun Sahu
+1:40:21 Q: Would you please show some useful tip while writing test, thanks - Binh Huynh
+1:48:07 Q: what would be new changes to flutter this year? full impeller implementation? new 3D stuff? - Chathura Chamikara
+1:49:32 q: did anyone use azure functions as backend to flutter frontend? feels more and more like not a good fit. especially for push notifications, api security, etc - Laser Schondorf
+2:01:00 Q: How to slove iframe scrolling issue in flutter web (on embedded Youtube video scrolling is not possible) - Pradeep G
+2:03:42 Q: what do you think about approach with theme extensions: every widget has its own theme extension from where it have got all stuff: Decoration, TextStyle, TextTheme, EdgeInsets, Alignment, Color, - VLADISLOVE
+... BorderRadius, Radius, LinearGradient, Duration, doubles etc - mostly all that could be lerped..it is a little bit boilerplate and verbose but this approach has some pluses. what do you think ? - VLADISLOVE
+2:20:30 Live coding: Rainbow Islands with Dash and snow - Git: https://github.com/slightfoot/snowdash
+3:19:07 Outro
