@@ -1,3 +1,4 @@
+24-01-10 [2:07:30](https://www.youtube.com/watch?v=4YQG41-cLu4&t=2h07m30s) why flutterflow doesn't support pdf viewer widget integration with firebase? is there any other low code tool that can be helpful for project on which we can retrieve not ony text but pdf files - Qwiklab Myst  
 24-01-03 [1:11:55](https://www.youtube.com/watch?v=jqL5AFZq-0o&t=1h11m55s) Q firebase initialisation take too long time where is the best place to initialised database - Pradeep G  
 23-11-29 [29:05](https://www.youtube.com/watch?v=jpJw552x1-c&t=29m05s) Q: Have any of you used Supabase? How does it compare to Firebase? - Austin Stoker  
 23-11-22 [1:41:51](https://www.youtube.com/watch?v=39qL0yS27ak&t=1h41m51s) Q: Greetings I faced an Eroor in my firebase Firestore stating something like that ' Exceeded data limits I think'. Am I supposed to upgrade my firebase or any other solution for that - Mamoon Shahzad  

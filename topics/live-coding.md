@@ -1,3 +1,4 @@
+24-01-10 [2:13:58](https://www.youtube.com/watch?v=4YQG41-cLu4&t=2h13m58s) Live coding: Colored chip sections  
 24-01-03 [2:20:30](https://www.youtube.com/watch?v=jqL5AFZq-0o&t=2h20m30s) Live coding: Rainbow Islands with Dash and snow - Git: https://github.com/slightfoot/snowdash  
 23-12-27 [2:57:19](https://www.youtube.com/watch?v=aCt_6BYXYeE&t=2h57m19s) Live coding: Rainbow Islands wit Dash and snow  
 23-12-27 [2:19:00](https://www.youtube.com/watch?v=aCt_6BYXYeE&t=2h19m00s) Live coding: Fundamentals of converting Integer to String  
