@@ -1,0 +1,27 @@
+0:00 Intro
+3:29 Start
+13:58 Q: Could you share your thoughts on Majid Hajian's book? - Vyankatesh Rathod
+16:22 Q: I wanted to learn about the architecture which is best for the development of app like I have know about MVC architecture And if I want to learn about new architecture, then how should I proceed. - FlutterWithRaman
+21:35 Q How to use python code in flutter (without api) - Pradeep G
+25:03 Q: Can we append text to TextField in a widget test, without replacing the previous text? `enterText` seems to replace the previous - Fré Dumazy
+28:06 Q How to show iframe in flutter web applications - Pradeep G
+30:24 Q: Riverpod is working great (Randal!), but now we need to save the state to localstorage/firebase. Any best practices you suggest? Is there something like hydrated_bloc? - Austin Stoker
+34:50 Q. i am implementing something like instagram reels. but it's taking too much load. i am using video player. if you can help me like how I load the video or like stream.. like what is better and how ? - Rutvik
+40:48 Q some package not developed web applications how to use that features ( payment integration) - Pradeep G
+47:05 Q: does flutter need CSRF Tokens in forms like other popular frameworks? - Mtho
+52:37 Q: What is the array limit in Dart/Flutter? - Johan Scheepers
+53:58 Q: not flutter Q , google's fuchsia os It seems going die? - io 01
+57:52 Q: Is that real that alcohol increase productivity during coding?? - Mamoon Shahzad
+58:59 Q: could you share your thoughts on caching mechanism behind Instagram application? - Madhan Kumar
+1:09:41 Q: I’ve been having difficulties understanding different types of Inherited widgets in Flutter - Roohaani Videos
+1:11:00 Q: how to make my dart strong? i started my flutter journey 5 months ago but i still lack too much in dart logic i know flutter Ui things but when it comes to making logic in dart I'm poor in it. - Muhammad Tayyab Zaman
+1:25:00 q network image and video,pdf take too long time how to load early - Pradeep G
+1:25:32 Q: I want to make some native api call for the wakelock functionality rather than using packages I want to implement using kotlin code using MethodChannel. Why is this hard? (tried and failed) so much - FlutterWithRaman
+1:29:24 Q:Is it possible to write an application that will work on other applications? For example, I use the night screen and when I turn it on, the entire screen of my phone becomes dark and it can work on - çağdaş
+1:31:36 Q: using NestedScrollView with BlocConsumer in the body, rebuilding just the body e.g. from shimer to list, when I scroll the sliver app bar do not snap, any idea what it can be? Snap & floating true - Damian Diaz
+1:37:06 Q: How can I handle viewmodel to viewmodel commination without creating spaghetti mess? - Nahom B
+1:45:22 Q: Current Kotlin stable version is 1.9 but still Flutter default kotlin version is ext.kotlin_version = '1.7.10'. So, we can change manually but why it is not 1.9 by default in Flutter. - FlutterWithRaman
+1:47:55 Q: there are a ton of bluetooth packages. Which is the current standard for Android, iOS, and Windows? - Jacob Miller
+1:58:50 Interlude
+2:12:20 Live coding: Rainbow Islands with Dash and snow (continued) - Git: https://github.com/slightfoot/snowdash
+4:12:09 Outro

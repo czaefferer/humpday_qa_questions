@@ -1,3 +1,4 @@
+24-01-17 [30:24](https://www.youtube.com/watch?v=oRuCUf0uh_s&t=30m24s) Q: Riverpod is working great (Randal!), but now we need to save the state to localstorage/firebase. Any best practices you suggest? Is there something like hydrated_bloc? - Austin Stoker  
 24-01-10 [2:07:30](https://www.youtube.com/watch?v=4YQG41-cLu4&t=2h07m30s) why flutterflow doesn't support pdf viewer widget integration with firebase? is there any other low code tool that can be helpful for project on which we can retrieve not ony text but pdf files - Qwiklab Myst  
 24-01-03 [1:11:55](https://www.youtube.com/watch?v=jqL5AFZq-0o&t=1h11m55s) Q firebase initialisation take too long time where is the best place to initialised database - Pradeep G  
 23-11-29 [29:05](https://www.youtube.com/watch?v=jpJw552x1-c&t=29m05s) Q: Have any of you used Supabase? How does it compare to Firebase? - Austin Stoker  
