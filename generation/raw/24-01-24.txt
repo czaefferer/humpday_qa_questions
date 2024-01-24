@@ -1,0 +1,29 @@
+0:00 Intro
+3:13 Start
+10:26 About Global Gamers Challenge
+12:25 Q: Can't you just pass your repository instances from the top level widget to each widget in the tree and live without any ChangeNotifier etc. and only use setState? - David
+21:15 Q: When to use 1. MaterialApp's routes 2. MaterialApp's onGenerateRoute 3. None of the above but rather just Navigator.push a MaterialPageRoute with a builder that returns the new page - Negan
+30:46 Q: For complex and larger projects, Do you guys select a state management type depending on the project or stick to one you like? - Alex Price
+43:53 Q: Do you recommend the MVVM pattern in Flutter? What are the pros and cons? - Negan
+50:17 Q: How to use nodejs code in flutter web applications - Pradeep G
+51:54 Q: How to stream the video in flutter (offline) - Pradeep G
+52:45 Q:can we write code for watch tv button phone app using flutter (any other new operating system) - Pradeep G
+53:53 Q(1/2): path_provider's documents suggest to use the "Application Library" path to store a sqlite database file; however, the "Application Library" is not available on Android, Linux, or Window. - Elijah Luckey
+...​Q(2/2)In that case would it be better to just use the "Application Support" or "Application Documents" path - which is a path available on all platforms? - Elijah Luckey
+1:09:35 Q: Should I learn Rust for flutter (as per of market) or it useful in large application just want to know? I already give 3 year in flutter now planning to start learn new language rust or swift. - Prashant Nigam
+1:12:25 Q: How and where to ask help for solving error (other than GitHub, stack overflow) - Pradeep G
+1:13:46 Appearance Robert
+1:16:06 Q: What database are you using for cloud and offline sync instead of Firebase/Firestore? - Marco Napoli
+1:22:56 q is flutter can replace android or it just remains as arrangemental things - Arjun Singh
+1:29:18 Q: As a starter what should I do to improve my coding. Give me your experience tips.. - Mamoon Shahzad
+1:38:57 Q: I've got a Flutter app that provides SPA website editing capability. The editor writes to a Fire-store and the SPA website displays based on the same Firestore project. (more...) - bille
+...Q (cont): A preview button lets me audition the web page. How can I render and update the page in the background so that there little/no wait time when previewing the web page (Svelte, not Flutter)? - bille
+1:45:21 Q: how to schedule background task on flutter desktop apps; something similar to workmanager - David Nwaneri
+1:53:53 Q: I want to run swf extension based file in my flutter app then which is best solution for this? - Tejas Galande
+1:57:09 Q: Give me some clear cut explanation abou dependency Injection with some example. - Mamoon Shahzad
+2:00:07 Q: Not a question. but I remember Simon talking about creating a splash screen in flutter. And handling the black screen. But I can't find it now. Can someone which talk it was?? 😑 - Mostafijul Islam
+2:01:11 q: lot of trouble to send image in fcm and show in ios notifications tray - Arjun Singh
+2:06:38 Q: I am trying to make a canvas navigable, at this point I put a GestureDetector on a CustomPaint and I control it with a setState for X&Y inside onPanUpdate. its a good idea? - TheMrP
+2:13:30 Robert showing Flutter in Neovim
+2:43:05 Live coding: Including web content in Flutter Web - Gist: https://gist.github.com/slightfoot/4c84f0b66ac7a4ad650f6b8eefb054be
+3:21:16 Outro
