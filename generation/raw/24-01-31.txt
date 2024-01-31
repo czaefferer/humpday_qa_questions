@@ -1,0 +1,36 @@
+0:00 Intro
+2:52 Start
+10:51 About Macros- and Flutterflow-Tweets
+19:24 About Global Gamers Challenge
+20:30 Q: How useful are Hooks and should we use them in bigger projects? - Ben Jie Ming
+24:37 Q: Flutter apps should already work on Apple Vision Pro. Do we think more "spatial computing" support will be added in the future? (Speculation is fun!) - Matthew Jones
+31:27 Q: if Bloc uses Provider under the hood, is Bloc not at a disadvantage considering Riverpod exists? - Mtho
+32:25 Q: what are the cons of having all repositories as singletons instead of putting an instance of them in a provider for global use? - David
+36:47 Q: please explain code generation with jsonserialization. Please explain the scenario when expected json key not included in api response and getting null value instead of value & set default value - Mona Louise
+40:14 Q: Any idea how to view an ISAR DB outside of our mobile app? We will receive a copy of the DB from the app via a support/feedback form. - Alan Hill
+...Q: ISAR: To debug what might have happened with the app. Yep...I was thinking I might need to create a standalone app. - Alan Hill
+45:19 Q: In Riverpod, what's the role of ConsumeStatefulWidget? The other two already do so much - Mtho
+47:01 Q: Using RealmDB in our curent iOS app...Realm DB has an external viewer. Switched to Flutter for our next cross platform app. We're sending logs too plus using Sentry! Thanks 👍 - Alan Hill
+47:40 (cont.) Q: In Riverpod, what's the role of ConsumeStatefulWidget? The other two already do so much - Mtho
+50:07 Q: Can't we develop apps more declaratively with Flutter, like in Haskell? Considering app performance, that's not feasible. - 한힘찬
+53:45 Q: Will macros kill StatefulWidget/StatelessWidget? - Nahom B
+...Couldn't we have something like @State macro on a Widget? - Nahom B
+1:02:25 Q: what are your thoughts on Apple announcing the allowance of 3rd party app stores? - Alex Price
+1:05:46 Q I have custom trained yolov8 instant sigmentation ai model how to use this in flutter for predicting the image - Pradeep G
+1:07:57 q:how to integrate chatbot in flutter web applications - Pradeep G
+1:08:33 Q: does Isar load the whole database to memory or is it lazy access to data? One property of my collection has a json field that can be big. Should I create a new table for this field and save memory? - Eduardo Lopes
+1:13:15 Q: I am not able to debug code in riverpod providers... do you also have this issue? - Eduardo Lopes
+1:17:29 Q: some time network image failed load the image why? - Pradeep G
+1:21:42 Q: in android we have logcat, and we can see logs on killed apps.. do we have sth like that for iOS? - Jéssica Pereira
+1:22:50 Q: is there a way of adding custom html tags during flutter build web? - Mtho
+1:23:23 Q: Have you tried react native? I tried to evangelize my team to use flutter, but it didn't work. - José Pérez
+1:32:09 Q: What are the differences between Flutter's Render Tree and the Web's Render Tree? Why can't they be compatible with each other? - 한힘찬
+1:40:51 Q: Serverpod doesnot support GET requests? How memory will be impacted if i use post requests for everything? - Shreeman Arjun Sahu
+1:42:19 Q: Hello team wanted to know how I can build the feature where images can be nested in a folder or a stack like instagram and whatsapp does if user receive more than 2 images - Orion Paul
+1:45:14 Q : I have a rest api {"data":{{"image":"url"}}}... how I can handle the error like key thing (empty of data called on null)? I mean this is not the correct way but just trying like how can we..... - Rutvik
+1:47:22 @Simon Lightfoot, the default integration with native views in flutter is hybrid composition which afaik "embeds" the native view in the flutter widget hierarchy, so it's a bit similar to react native - csmanul
+1:47:54 Break
+1:53:27 Continuation
+1:57:07 Live coding: ListView ratios - Gist: https://gist.github.com/slightfoot/82649399bc2bb0cb42ec4c6d703a66e9
+2:19:00 Live coding: Chat Message photo stack example - Gist: https://gist.github.com/slightfoot/915b9e069d920c464100f8980c547e4c
+2:51:56 Outro

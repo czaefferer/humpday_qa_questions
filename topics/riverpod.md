@@ -1,3 +1,7 @@
+24-01-31 [47:40](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=47m40s) (cont.) Q: In Riverpod, what's the role of ConsumeStatefulWidget? The other two already do so much - Mtho  
+24-01-31 [45:19](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=45m19s) Q: In Riverpod, what's the role of ConsumeStatefulWidget? The other two already do so much - Mtho  
+24-01-31 [31:27](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=31m27s) Q: if Bloc uses Provider under the hood, is Bloc not at a disadvantage considering Riverpod exists? - Mtho  
+24-01-31 [1:13:15](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=1h13m15s) Q: I am not able to debug code in riverpod providers... do you also have this issue? - Eduardo Lopes  
 24-01-17 [30:24](https://www.youtube.com/watch?v=oRuCUf0uh_s&t=30m24s) Q: Riverpod is working great (Randal!), but now we need to save the state to localstorage/firebase. Any best practices you suggest? Is there something like hydrated_bloc? - Austin Stoker  
 23-12-06 [51:06](https://www.youtube.com/watch?v=TaHhT1QdYUM&t=51m06s) Q: I have one statement management question, because you are all with Flutter from the very beginning. Will you still recommend vanilla state management or something like BLOC/Riverpod? - Dishank Jindal  
 23-11-15 [1:17:27](https://www.youtube.com/watch?v=1JuZCCbJma8&t=1h17m27s) Why do not use state management like riverpod - Mouaz Shahmeh  
