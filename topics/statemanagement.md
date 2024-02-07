@@ -1,3 +1,6 @@
+24-02-07 [58:41](https://www.youtube.com/watch?v=BifB5D3VCno&t=58m41s) Q. I always get confused which state management to use and how should be a structure of the app. Are there any boilerplates you recommend - Dashing$uma  
+24-02-07 [56:00](https://www.youtube.com/watch?v=BifB5D3VCno&t=56m00s) Q: Hi, what are your thoughts on rody davis's signals state management package - Mohamed Demba NDIAYE  
+24-02-07 [1:01:44](https://www.youtube.com/watch?v=BifB5D3VCno&t=1h01m44s) which state management is currently popular? - Sabarinathan  
 24-01-24 [30:46](https://www.youtube.com/watch?v=tVAqEC8R3Q8&t=30m46s) Q: For complex and larger projects, Do you guys select a state management type depending on the project or stick to one you like? - Alex Price  
 24-01-10 [1:44:24](https://www.youtube.com/watch?v=4YQG41-cLu4&t=1h44m24s) Q: Which state management is best of all tell me one that is perfect to use all the time as a mid level developer - Mamoon Shahzad  
 23-12-06 [51:06](https://www.youtube.com/watch?v=TaHhT1QdYUM&t=51m06s) Q: I have one statement management question, because you are all with Flutter from the very beginning. Will you still recommend vanilla state management or something like BLOC/Riverpod? - Dishank Jindal  
