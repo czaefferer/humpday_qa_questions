@@ -1,0 +1,21 @@
+0:00 Intro
+2:32 Start
+13:24 About Global Gamers Challenge
+17:16 Q: We’d like to enforce separation of layers by linting the imports. Import_lints looks pretty good, but it works as an analyzer plugin, which means I couldn’t also use custom_lint for riverpod_lints. - Austin Stoker
+23:01 Q: Is there a way to clip the “application window” on desktop so the bounding area is irregular and not just a rectangle? - Michael Maitlen
+38:20 About ChatGPT
+41:13 Q: What ASO tools or techniques do you use to improve discoverability for the Apple and Google App Store? - Marco Napoli
+45:27 Q: is there a generally accepted best way to get a quick prototype out? ui template open source projects? - Stephen Papadatos
+50:38 Q: I want to use ML model in flutter there are three for me "tflite" "tflite_flutter" and "firebase ml" which one should I use suggest me as per ur experience?? - Mamoon Shahzad
+1:05:20 Q: Actually after many projects developed for Mobile, I'm looking for TV, Auto and Embedded devices platforms, any guide for this and useful sources? - Imad Bouirmane
+1:07:44 Q: in Stful Widgets you dispose controllers in the overridden dispose method. What happens with controllers instantiated in Stless widget's build methods? Auto-disposed or cause of memory leaks? - David
+1:10:48 Q: I had like 400b of data to be sent to the server but my network speed was a bit slow hence was getting a timeout exception upon sending the data, could I get any suggestions for this to overcome? - Niroop Nife
+1:21:18 Q: I tried to render currency symbol on Android, like naira, yen, it doesn't, until it's wrapped with defaultTextStyle(), it does work well on iOS though, why is that? I'm using Poppins Google fonts. - Ugochukwu Umerie
+1:28:36 Q: I have uploaded my application to Google play Store and it is still under internal testing from past two months and I've arranged 20 plus testers also for testing as per requirements. - Mamoon Shahzad
+1:30:04 Q: Are there any run time memory limitations for an android and iOS app? - Sourav Adhikari
+1:33:57 cont. Q: I have uploaded my application to Google play Store and it is still under internal testing from past two months and I've arranged 20 plus testers also for testing as per requirements. - Mamoon Shahzad
+1:34:45 Q: Anybody got experience transforming a bottom sheet to a full screen page? Either by dragging all the way up or programmatically - Fré Dumazy
+1:38:36 ​Q: When I build with --obfuscate --split-debug-info, I can't read crash logs on crashlytics. I uploaded dSYMs using codemagic script - for iOS. I'm a little confused about dSYMs, for Android and iOS - David Nwaneri
+1:40:22 Q: Simon, can you update us on 3D engine? - Johan Scheepers
+1:46:45 Live coding: Custom Animated Bottom Sheet - Gist: https://gist.github.com/slightfoot/59fa0101d0c51731fa4acf3816c2b72d
+4:10:00 Outro

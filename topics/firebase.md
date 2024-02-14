@@ -1,3 +1,4 @@
+24-02-14 [50:38](https://www.youtube.com/watch?v=1qZxFApx1xs&t=50m38s) Q: I want to use ML model in flutter there are three for me "tflite" "tflite_flutter" and "firebase ml" which one should I use suggest me as per ur experience?? - Mamoon Shahzad  
 24-01-24 [1:16:06](https://www.youtube.com/watch?v=tVAqEC8R3Q8&t=1h16m06s) Q: What database are you using for cloud and offline sync instead of Firebase/Firestore? - Marco Napoli  
 24-01-17 [30:24](https://www.youtube.com/watch?v=oRuCUf0uh_s&t=30m24s) Q: Riverpod is working great (Randal!), but now we need to save the state to localstorage/firebase. Any best practices you suggest? Is there something like hydrated_bloc? - Austin Stoker  
 24-01-10 [2:07:30](https://www.youtube.com/watch?v=4YQG41-cLu4&t=2h07m30s) why flutterflow doesn't support pdf viewer widget integration with firebase? is there any other low code tool that can be helpful for project on which we can retrieve not ony text but pdf files - Qwiklab Myst  

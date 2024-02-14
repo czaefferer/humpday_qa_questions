@@ -1,3 +1,4 @@
+24-02-14 [1:46:45](https://www.youtube.com/watch?v=1qZxFApx1xs&t=1h46m45s) Live coding: Custom Animated Bottom Sheet - Gist: https://gist.github.com/slightfoot/59fa0101d0c51731fa4acf3816c2b72d  
 24-01-31 [2:19:00](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=2h19m00s) Live coding: Chat Message photo stack example - Gist: https://gist.github.com/slightfoot/915b9e069d920c464100f8980c547e4c  
 24-01-31 [1:57:07](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=1h57m07s) Live coding: ListView ratios - Gist: https://gist.github.com/slightfoot/82649399bc2bb0cb42ec4c6d703a66e9  
 24-01-10 [2:13:58](https://www.youtube.com/watch?v=4YQG41-cLu4&t=2h13m58s) Live coding: Colored chip sections  

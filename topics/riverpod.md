@@ -1,3 +1,4 @@
+24-02-14 [17:16](https://www.youtube.com/watch?v=1qZxFApx1xs&t=17m16s) Q: We’d like to enforce separation of layers by linting the imports. Import_lints looks pretty good, but it works as an analyzer plugin, which means I couldn’t also use custom_lint for riverpod_lints. - Austin Stoker  
 24-01-31 [47:40](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=47m40s) (cont.) Q: In Riverpod, what's the role of ConsumeStatefulWidget? The other two already do so much - Mtho  
 24-01-31 [45:19](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=45m19s) Q: In Riverpod, what's the role of ConsumeStatefulWidget? The other two already do so much - Mtho  
 24-01-31 [31:27](https://www.youtube.com/watch?v=YS_g2TJN-cQ&t=31m27s) Q: if Bloc uses Provider under the hood, is Bloc not at a disadvantage considering Riverpod exists? - Mtho  
