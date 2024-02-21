@@ -1,0 +1,27 @@
+0:00 Intro
+1:53 Start
+9:05 About Flutter & Friends 
+11:36 About Google Gemini
+21:46 About awaiting futures
+36:44 Q: I'm currently facing app crashes when I make multiple swipes on a pageview. The page view contains photos and videos that are cached. I dispose of the video controllers - it's in a stateful widget. - Christine Wasike
+47:41 Q: On flutter web app, installed on my phone, sometimes I have access to the camera and sometimes not. Any idea why ? Usually, it won’t work after the first kill of the app (I’m using mobile_scanner) - Jerbs
+55:58 About Flutter roadmap
+1:03:48 Stef about new Flutter Apprentice edition: https://www.kodeco.com/books/flutter-apprentice/v4.0/
+1:10:41 Simon about Dart Support in Cloud Functions
+1:20:21 Q: Any ideas for best practice for giving focus back to a field with autofocus after a dialog opens and closes? https://gist.github.com/d70ba3a86ca484e19f0f33f36203d4ca - Austin Stoker
+1:26:53 Q: How to get rid of SetState and start real statemanagement? - Mamoon Shahzad
+1:30:42 Q. does flutter in windows have a wrapper of NTAPI? - Andrew Arañas
+1:35:29 Why pop-scope is not working in android - I have Bottom Navigation bar I have to show exit dialog on device back button click ? - River
+1:39:40 Q: For FlutterConEurope's CFP site it is mentioned: "Travel and accommodations covered on case-by-case basis." any exact criteria? - Tirth Patel
+1:40:37 Q: When to use Future<void>((){}) vs scheduleMicrotask()? - Duncan
+1:44:49 Q:How to Handle json from server because sometime the keys value may be null or we should mark all nullable ? - Shreeman Arjun Sahu
+1:48:46 Q: Is it ok to use the same repo for two get.lazyput controllers - K D
+1:49:12 Q: I have listView which display nearest users to your location. Each user cause list rebuild everytime they send new location and if there is alot of users. The list is lagging. What should i do? - Roberto Potrus
+1:52:10 Q: Has someone tried to use Riverpod for integration tests (mother of all tests real device) to handle the more... complex scenarios needing data for seeding? - Pako St
+1:54:20 Q: How would you center a list of widgets and only make it scrollable once it's larger than the available height? I usually resort to using SingleChildScrollView with a Column as child inside a Center - Damian Bast
+2:01:40 ​​Q: Hi. I want to hear from your experience, what do you think about using dart frog for medium-large scale projects? I think is great with melos and shared packages but I don't know if it's mature - Lucas Trinidad Delgado
+2:06:52 Q:Any review of package media_kit with supporting all platform?? - Shreeman Arjun Sahu
+2:14:23 Q:bloc vs cubit ? does cubit can do all what bloc do or not ? - Rabie N
+2:17:06 Q: Are there best practices in doing integration with most platforms. E.g I never caught an issue with my flutter app only on old android version - Alex Price
+2:21:40 cont. 4821 Q: Any ideas for best practice for giving focus back to a field with autofocus after a dialog opens and closes? https://gist.github.com/d70ba3a86ca484e19f0f33f36203d4ca - Austin Stoker
+2:23:14 Outro
