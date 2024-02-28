@@ -1,3 +1,5 @@
+24-02-28 [28:43](https://www.youtube.com/watch?v=m1ytM8iBGHY&t=28m43s) Q: Now when firebase decided to deprecate dynamic links, what are some good alternatives to try? - Moksh Mahajan  
+24-02-28 [1:39:30](https://www.youtube.com/watch?v=m1ytM8iBGHY&t=1h39m30s) Q: I can't get a static ip address on firebase so that I will be able to share it with network providers for mobile data packages that will work specific for the app only. - Orion Paul  
 24-02-14 [50:38](https://www.youtube.com/watch?v=1qZxFApx1xs&t=50m38s) Q: I want to use ML model in flutter there are three for me "tflite" "tflite_flutter" and "firebase ml" which one should I use suggest me as per ur experience?? - Mamoon Shahzad  
 24-01-24 [1:16:06](https://www.youtube.com/watch?v=tVAqEC8R3Q8&t=1h16m06s) Q: What database are you using for cloud and offline sync instead of Firebase/Firestore? - Marco Napoli  
 24-01-17 [30:24](https://www.youtube.com/watch?v=oRuCUf0uh_s&t=30m24s) Q: Riverpod is working great (Randal!), but now we need to save the state to localstorage/firebase. Any best practices you suggest? Is there something like hydrated_bloc? - Austin Stoker  

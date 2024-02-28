@@ -66,4 +66,4 @@ done < youtube_ids.txt
 grep -irn $dest_dir -e "state manag" | awk -F'\\[' '{print substr($0,13,8)" ["$2}' | grep "https://www.youtube.com" | sort -r > $topics_dir/statemanagement.md
 grep -irn $dest_dir -e "riverpod" | awk -F'\\[' '{print substr($0,13,8)" ["$2}' | grep "https://www.youtube.com" | sort -r > $topics_dir/riverpod.md
 grep -irn $dest_dir -e "firebase" | awk -F'\\[' '{print substr($0,13,8)" ["$2}' | grep "https://www.youtube.com" | sort -r > $topics_dir/firebase.md
-grep -irn $dest_dir -e ") live coding" | awk -F'\\[' '{print substr($0,13,8)" ["$2}' | grep "https://www.youtube.com" | grep -v ") Q" | grep -v "continued" | grep -v "cont." | sort -r > $topics_dir/live-coding.md
+grep -irn $dest_dir -e ") live coding" | awk -F'\\[' '{print substr($0,13,8)" ["$2}' | grep "https://www.youtube.com" | grep -v ") Q" | grep -v "continued" | grep -v "cont\." | sort -r > $topics_dir/live-coding.md

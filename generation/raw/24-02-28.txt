@@ -1,0 +1,27 @@
+0:00 Intro
+5:10 Start
+15:06 Q: Give some examples where it's useful to use the concept of zones in dart and some use-cases where it is not possible to accomplish the job without using runZoned or runZoneGuarded. - Moksh Mahajan
+25:48 Q: Working with a private 3rd party plugin that sets up it's own GoRouter. Initially this threw some alarm bells for me, fells weird to have two GoRouters, one in main app another in plugin, thoughts? - Michael Maitlen
+28:43 Q: Now when firebase decided to deprecate dynamic links, what are some good alternatives to try? - Moksh Mahajan
+... Q: for dynamic links the big valuable is if someone doesn't have the app it brings them to the store & then opens that page in the app after download. Does this package handle that? - 1ManStartup
+39:18 Q: Anyone try Flutter dev in heads up yet? Quest3 or Apple Vision Pro - Michael Maitlen
+42:18 Q: Did you happen to need to implement Play Store review prompt? If you did, what frictions did you experience? - Pako St
+50:17 Q: Facing this issue Error starting debug session in Xcode: Timed out waiting for CONFIGURATION_BUILD_DIR to update. - Christine Wasike
+52:54 Q. If I want to learn a backend stack with flutter then which one is good in your opinion? to become a full stack developer. - Sandeep Shah
+59:46 Q: What are some good practices to implement app update feature in your flutter app? Should we implement a custom version checker api and hit that on startup for checking the version? - Moksh Mahajan
+1:01:50 Q: Danielle, whats your high score on your video games? - Michael Maitlen
+1:06:46 Q: how do you handle localization, and more specifically if following the Flutter Internationalization guid in the docs, how do you access a localized variable without context? - 1ManStartup
+1:15:30 ​Q: in firestore snapshots, if you ask for the latest 20, does it transmit only the new items incrementally even though you see all 20 each time the shapshot fires? - Randal L. Schwartz
+1:23:53 Q: Any hints about RawKeyboardEvent which deprecated ...etc - Mouaz Shahmeh
+1:29:50 Q: Google Pay has been discontinued, is that the one written in flutter? if so, what do you think it will affect Google's commitment to flutter? - Mthokozisi Ngwenya
+1:30:52 Q: What's your opinion on Serverpod as a backend? - Moksh Mahajan
+1:39:30 Q: I can't get a static ip address on firebase so that I will be able to share it with network providers for mobile data packages that will work specific for the app only. - Orion Paul
+1:42:03 Q: How to integrate chatbot in flutter web applications - Pradeep G
+1:46:04 Q: Is there any way to catch errors and display the user before runApp() in Flutter? - Md.Ruhul Amin
+1:47:21 Q: Using a text in a ListView.builder with Theme.of(context).textTheme doesn't update when I switch the ThemeMode could this be a Flutter - jxstxn __
+1:49:04 Q: bringing this back from last week. Video crashes app when swiping quickly through pageview still occurring even after adding the custom dispose & adjusting sizing on the cache manager -video_player - Christine Wasike
+1:52:00 Q:where can i put my project env folders and key store files in my project for the safety - çağdaş
+1:53:35 Intermission
+2:07:34 Live coding: GridView cell auto size height according to content - Gist: https://gist.github.com/slightfoot/6333adea2dd656ef62b025b20c8e2160
+2:44:05 Live coding: Paused Whilst Scrolling - Gist: https://gist.github.com/slightfoot/e851806dbc33e4fa7f7b2cc7d7bff122
+3:08:07 Outro
