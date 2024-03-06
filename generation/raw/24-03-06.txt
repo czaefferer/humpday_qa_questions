@@ -1,0 +1,47 @@
+0:00 Intro
+1:50 Start
+5:35 Edson about Global Gamers Challenge and Google Wallet
+12:03 Q: Are Google wallet available world wide? - Johan Scheepers
+13:28 cont. Edson about Global Gamers Challenge and Google Wallet
+26:31 q: we have native wallet integration for an add to app, with custom method channels, what is the recommended migration path for a pure flutter app. - Satyajit Malugu
+28:54 Q: what are the usecases of Google Wallet? - Ruqaiya Sattar
+32:02 How can an App owners support users with problems in Google Wallet? - Scott
+35:37 q: google wallet support flutter web app? - Pradeep G; Q: Does Google Wallet work outside of Android? - Mtho
+40:30 Q: Is there a wrapper that includes Google Pay and other popular options yet? - Richard Rouzeau
+42:28 q : can we do international transaction in google wallet? - Pradeep G
+43:05 Q: Is it okay for the Global Gamers Challenge, if all the Google Wallet Logic is handled server-side (Node.js) ? - Fabien EME
+43:52 Q: Can we have Google Wallet in Demo mode, or should we request production mode? - Mobile People
+45:47 Q: is this SDK not for wallet provisioning - Satyajit Malugu
+47:23 Q: does google wallet SDK support OpenID4VC credentials? - Dinesh Srini
+48:22 Q. There are actually two Flutter plugins for adding to Google wallet. Which is the recommended one? - Roman Jaquez
+53:08 Q : We need to add test users in our Google account so that judges can add the passes we developed to their Google wallet. will they be shared ? - Clip Apex
+54:03 Q: Newbie question: Do you need your own database to keep individual event tickets info? - Richard Rouzeau
+54:32 Q: While integrating Google Wallet, Can we skip the credentials part from GCP if we are already using firebase as our backend? - Salman
+57:30 Q: On my website (a Flutter web app), the fonts look different when viewed from computer web browser, compared to when viewed from a mobile web browser. Any idea why ? - Jerbs
+59:04 Q: Need to implement a server/client architecture, any advice on strategies for keeping data synced between server and multiple clients that will be on/offline. Clients may also have data for update - Michael Maitlen
+1:02:00 Q: is the Google wallet like meta mask? - Ugochukwu Umerie
+1:02:30 Is there a way to add encrypted data to a pass - Simon
+1:04:30 Q: I made an Android app with Wallet integration for a challenge, do I need to publish it on Google Play or send it as an APK on DevPost? - Igor
+1:05:50 Q: I have build my game for web, but in my Android phone I can not rotate the screen to landscape, can we rotate the entire app 90degree for web browser on mobile? - Binh Huynh
+1:09:05 Q:dailogflow not support web app how to integrate this in web app? - Pradeep G
+1:11:03 Q: Is there a real time stream from Google Wallet that we can subscribe to for our own database? - Richard Rouzeau
+... Q: It's to update the database automatically. - Richard Rouzeau
+... Q: Since we can only access the passes we've issued. How do we know that the user has scanned something IRL and added it to their wallet as you mentioned before? - Fabien EME
+... Q: what's the payload for the callbacks - Ugochukwu Umerie
+1:15:14 Q: how do you design a card for Google wallet - Alex Price
+1:22:56 Q: What are the major optimization for startup speed ? - Shreeman Arjun Sahu
+1:27:46 Q: what's the local database you prefer in flutter? SQLite, hive, realm db? , and why? - Ruqaiya Sattar
+1:29:30 any recommendations for wrapping native SDKs that don't have far equivalent and no vendor provided way - Satyajit Malugu
+1:31:00 Q: has anyone tried Google Project IDX (dev in browser)? - Calan M
+1:32:20 Q:how to replicate the animations? - Pradeep G
+1:35:48 Q: how to hide env variable? - Pradeep G
+1:40:02 Q: Why do we need to extend from class Exception when implementing custom exception classes? How is it different from simply making a class and throwing its instance? - Moksh Mahajan
+1:42:46 Q: When using slivers, if I have a layout error, for example passing a RenderBox instead of a RenderSliver, I usually have to restart to get rid of the error. Fixing it and hot reloading doesn't work - David Nwaneri
+1:43:54 How can I use Firebase in Linux to create app in Flutter? - Sanjar Anvarov
+1:49:58 Q: General competition question unrelated to the Google Wallet if I may... should we use the showLicensePage / showAboutDialog function to display a LicensePage in the apps we submit? - Wesley Coffin-Jones
+1:50:34 Q: I have some problems writing services in flutter, for example I can easily make UI part, but I can't convert UI with written services? - Izzatillo Abdumannonov
+1:55:52 Q: Could you please clarify if it will be possible to directly integrate machine learning models into the FlutterFlow app's online platform in the future? - Qwiklab Myst
+1:57:15 Q: What are the advantages of firebase?Because we can use back-end instead of firebase? In which cases do we need firebase? - Izzatillo Abdumannonov
+2:03:53 Q: Oh just prepared a gist for a question 😅 Wondering if this was a completely wrong approach to test change notifiers. gist: ff362af06e1b2824f2931f721bc6434f - Fré Dumazy
+2:15:22 Q: Does Machine Teachable models works fine for flutter like will it give me the correct results?? this is not a flutter question though you guys can guide me as I am a flutter enthusiast.. - Mamoon Shahzad
+2:17:15 Outro

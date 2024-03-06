@@ -1,3 +1,6 @@
+24-03-06 [54:32](https://www.youtube.com/watch?v=zsnrgbUplJg&t=54m32s) Q: While integrating Google Wallet, Can we skip the credentials part from GCP if we are already using firebase as our backend? - Salman  
+24-03-06 [1:57:15](https://www.youtube.com/watch?v=zsnrgbUplJg&t=1h57m15s) Q: What are the advantages of firebase?Because we can use back-end instead of firebase? In which cases do we need firebase? - Izzatillo Abdumannonov  
+24-03-06 [1:43:54](https://www.youtube.com/watch?v=zsnrgbUplJg&t=1h43m54s) How can I use Firebase in Linux to create app in Flutter? - Sanjar Anvarov  
 24-02-28 [28:43](https://www.youtube.com/watch?v=m1ytM8iBGHY&t=28m43s) Q: Now when firebase decided to deprecate dynamic links, what are some good alternatives to try? - Moksh Mahajan  
 24-02-28 [1:39:30](https://www.youtube.com/watch?v=m1ytM8iBGHY&t=1h39m30s) Q: I can't get a static ip address on firebase so that I will be able to share it with network providers for mobile data packages that will work specific for the app only. - Orion Paul  
 24-02-14 [50:38](https://www.youtube.com/watch?v=1qZxFApx1xs&t=50m38s) Q: I want to use ML model in flutter there are three for me "tflite" "tflite_flutter" and "firebase ml" which one should I use suggest me as per ur experience?? - Mamoon Shahzad  
