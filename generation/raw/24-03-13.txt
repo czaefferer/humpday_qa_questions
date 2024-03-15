@@ -1,0 +1,12 @@
+0:00 Intro
+3:25 Start
+18:28 Q: I have a question regarding ObjectKeys and ValueKeys. If I use an object as a parameter for ValueKey and ObjectKey, will it behave the same (ref equality)? If yes, why do we need Object Keys? - Moksh Mahajan
+21:13 Q: Is there support for Retrieval Augmented Generation with the Gemini API? - Gary Montgomery
+22:07 cont. Q: I have a question regarding ObjectKeys and ValueKeys. If I use an object as a parameter for ValueKey and ObjectKey, will it behave the same (ref equality)? If yes, why do we need Object Keys? - Moksh Mahajan
+23:27 Q: Do we need go_router, if I don't want any deeplinking functionality in our app and it's not targetting web? - Moksh Mahajan
+27:45 Q: I see a lot of open source projects have a dockerfile. Is it for facilitating the project setup locally using docker or does it provide something more to dockerize a flutter project? - Moksh Mahajan
+29:14 Q: How to control distance between text and underline ? So far no solution is really relevant - Jerbs
+33:26 Q: Is it mandatory to add all the license packages names in an app ? - Jerbs
+35:00 Q: what's the difference between using a ListenableBuilder compared to Consumer (from Provider) to listen to instances of a ChangeNotifier? Is a ListenableBuilder fine for simple animations? - Dilane
+37:51 Live coding: Gemini
+2:16:34 Outro
