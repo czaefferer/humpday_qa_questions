@@ -1,3 +1,5 @@
+24-03-20 [56:43](https://www.youtube.com/watch?v=qByAoUXOb2M&t=56m43s) Q : I can view the Firebase storage images in mobile web browser whereas the same I am not able to view the images in larger screens in web browser - Jebaseelan T  
+24-03-20 [52:16](https://www.youtube.com/watch?v=qByAoUXOb2M&t=52m16s) Q: Confirming there isn't a way to save local data for Flutter web between sessions. Tried both SharedPref and NoSQL that uses IndexedDB and data is lost when browser is closed. Now using Firebase - Michael Maitlen  
 24-03-06 [54:32](https://www.youtube.com/watch?v=zsnrgbUplJg&t=54m32s) Q: While integrating Google Wallet, Can we skip the credentials part from GCP if we are already using firebase as our backend? - Salman  
 24-03-06 [1:57:15](https://www.youtube.com/watch?v=zsnrgbUplJg&t=1h57m15s) Q: What are the advantages of firebase?Because we can use back-end instead of firebase? In which cases do we need firebase? - Izzatillo Abdumannonov  
 24-03-06 [1:43:54](https://www.youtube.com/watch?v=zsnrgbUplJg&t=1h43m54s) How can I use Firebase in Linux to create app in Flutter? - Sanjar Anvarov  
