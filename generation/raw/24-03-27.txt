@@ -1,0 +1,24 @@
+0:00 Intro
+3:30 Start
+18:42 Q: How to integrate real time communication in flutter (can you do the coding for webrtc ) - Pradeep G
+24:34 Q: To support offline use, which practices would you advise for keeping the data fresh? iOS' bg restrictions make it hard to trigger syncs on data pushes. Also periodic syncing seems not so reliable - Fré Dumazy
+36:00 Q: When building Android and iOS home screen widgets, I noticed that using a background task every 15 min is inconsistent. Is it better to natively build these widgets? Is that more predictable? - Prince Shrestha
+38:57 Q: is it possible to run flutter to take a screenshot from the iOS or android widget target? - Prince Shrestha
+50:15  - Q: Is there a free and reliable tool to generate a privacy policy for an app ? - Jerbs
+58:18 Q: Is sembast database good to use in production flutter apps? - Moksh Mahajan
+1:02:51 Q: Missing API declaration warning email received from the app store on app release. so this error needs to fix by the package author or app developer. - Nitin Gadhiya
+1:09:59 Q: Is there any good doc to integrate AWS (for example SNS) to your flutter app because the official docs are just nuts. - Jheel
+1:14:50 Q: I would like to create a chat with Riverpod, based on a stream of last message, and fetching the previous 20 msg upon scrolling the top list (“infinite scroll”). Any idea/resource how to do it ? - Jerbs
+1:18:58 Q: I would like to wrap SliverList with a Card. Then i forgot Card is not Sliver, then i thougt. Using SliverToBoxAdapter will solve it, but then i remember i cannot use SliverList - Roberto Potrus
+1:19:48 Q: I hear alot that using dynamic is bad practice. But why do we still use it on json? - Roberto Potrus
+1:26:13 Q: When should I use Dart Completer and Dart Future? How are they different when dealing with asynchronous tasks? - Ruhul Bro
+1:35:38 Q: Do we have a place (web, app...) that has AI trained with all Flutter documentation so we can ask more about Flutter deeper? - Binh Huynh
+1:43:29 Q: With the flutter engine, it doesn’t have to open the app view right? Can we run that in background, take screenshot and exit so that I can complete the logic on native swift to show IOS home widget - Prince Shrestha
+1:43:49 Q: I have been asking myself this a lot, but I feel like I can code faster than using flutter flow. But flutter flow has drag and drop and on iPad which is cool? Idk if I should just manual code 😂 - Prince Shrestha
+1:45:50 Q: SliverRow is not working like a Row. It stretch the widget out - Roberto Potrus
+1:47:23 Q when i create thread using isolation than in running thread how to send data or some message - vinay yogi
+1:48:03 Q. is there ay suggestion to create a offline downloaded play video like netflix - vinay yogi
+1:48:23 I want to compare Flutter UI to Android or IOS. Do you have any ideas or resources? I want help - TechMind
+1:50:37 Angular seem to get that AI soon, I wonder what about Flutter - Binh Huynh
+1:52:34 Intermission
+2:02:28 Outro
