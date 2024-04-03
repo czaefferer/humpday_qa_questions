@@ -1,0 +1,29 @@
+0:00 Intro
+3:09 Start
+8:13 Simon, Randal and Roman about AI
+24:13 Khanh and Ander about Flutter and AI
+41:22 Q: Ander and Khanh, before the next inevitable rename, do you think we could convince the marketing team to ask Gemini whether yet another rename is a good idea? - Craig Labenz
+46:20 Q: why isn’t Gemini Phone app available on iOS .. using Flutter? - Calan M
+47:04 What is the status of on-device-AI- Roman
+50:35 Q: Are there a list of Dart/Flutter/Google publishers? Officially maintained packages - Johan Scheepers
+53:17 Q: Maybe it's the best time to ask about the possibility to upload the whole Flutter docs PDF? - Richard Rouzeau
+55:39 Q: Will new AI features like generating a video from an image be included in the Gemini API or other ones? - Richard Rouzeau
+58:36 The most important question I have is: When are you Flutter Googlers coming to present at Flutter London? - FlutterLDN
+59:32 Q: speaking of dev tools, is Duet running on the gemini model? - Justin Bassett-Green
+1:07:14 Hi Simon, Ray here. Has anyone tried uploading Pub packages documentation and code to Google Notebook AI? I haven't had time to try. - Ray Li
+1:09:27 Q: I want to implement live captioning in my app while sound recording is going on. What are some ways to do it? I tried using flutter_tts package, but it doesn't support continuous listening. - Moksh Mahajan
+1:15:53 Q: So how come many of these Ai including Android Studio Bot experiments are not available in the UK? The differences in the language? - George Medve
+1:16:49  Q: part1 I’ve inherited a codebase with lots of pkgs internal to our company. Do you have tips/processes in place to keep your own apps up to date with Flutter upgrades, Gradle, ext pkg versions? - Michael Maitlen
+...Q: part2 migrating from 3.10 to 3.19 has been "an adventure". currently stumbling over Gradle build issues. looks like CodeMagic is at Gradle 8+ and locally I have 7.6 - Michael Maitlen
+1:27:41 Q: What's the best way to implement the Producer-Consumer pattern in Dart and is there a Dart equivalent of the .NET BlockingCollection? - Duncan
+1:36:54 Q: Hello, I am a Flutter dev from Uzbekistan, could you tell me your opinions about FlutterFlow, its generated codes’ performance and predictions about no/low coding in Flutter? - Samandar Ahadjonov | Flutter o'zbek tilida
+1:44:09 Q: Any ideas about how one could parallel download compiled WASM to optimize Flutter web loading? - wolfenrain
+1:45:40 Q:how to send and receive stream of video to the server for webrtc SFU livestream? - Pradeep G
+1:47:59 Q: What do you recommend to check a widget's position relative to its parent? Golden tests are the only way? - Verde
+1:51:25 Q; are emoji in file names supported? - Justin Bassett-Green
+2:02:25 Any flutter way to do multi-threading in web? - Yawar Osman
+2:04:36 Q: Any experience running runtime interpreted Dart from a compiled Dart app? I want to allow users to execute simple Dart scripts within my app - Fré Dumazy
+2:08:21 Q: Have a project(bike rider rental app), have no idea about system designing and i am only developer my question is how to build this kind of app what should i keep in mind start building the app. - Adil Ayoub
+2:18:43 Is this possible in dart? void func(String customKey){ context.<customkey>; }, the customKey is dynamic so using extension don't work - RTK
+2:21:32 i like json - 大祐永田
+2:23:36 Outro
