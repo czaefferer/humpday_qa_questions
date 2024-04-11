@@ -1,3 +1,5 @@
+24-04-10 [1:36:30](https://www.youtube.com/watch?v=Logu_cx_qck&t=1h36m30s) Live coding: WoW Shopping App - Git: https://github.com/slightfoot/wow_shopping  
+24-04-10 [1:09:50](https://www.youtube.com/watch?v=Logu_cx_qck&t=1h09m50s) Live coding: Layout for labels above an image  
 24-03-20 [1:44:07](https://www.youtube.com/watch?v=qByAoUXOb2M&t=1h44m07s) Live coding: Scroll Parent On Overflow - Gist: https://gist.github.com/slightfoot/32c781db10552b32d10a692431a1bd29  
 24-03-13 [37:51](https://www.youtube.com/watch?v=QwqL5sGb4zc&t=37m51s) Live coding: Gemini  
 24-02-28 [2:44:05](https://www.youtube.com/watch?v=m1ytM8iBGHY&t=2h44m05s) Live coding: Paused Whilst Scrolling - Gist: https://gist.github.com/slightfoot/e851806dbc33e4fa7f7b2cc7d7bff122  

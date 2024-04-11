@@ -1,3 +1,4 @@
+24-04-10 [31:54](https://www.youtube.com/watch?v=Logu_cx_qck&t=31m54s) Q: Guys, for state management you do recommend Riverpod, right? Why do you choose Riverpod over Bloc? - Reiko  
 24-02-07 [58:41](https://www.youtube.com/watch?v=BifB5D3VCno&t=58m41s) Q. I always get confused which state management to use and how should be a structure of the app. Are there any boilerplates you recommend - Dashing$uma  
 24-02-07 [56:00](https://www.youtube.com/watch?v=BifB5D3VCno&t=56m00s) Q: Hi, what are your thoughts on rody davis's signals state management package - Mohamed Demba NDIAYE  
 24-02-07 [1:01:44](https://www.youtube.com/watch?v=BifB5D3VCno&t=1h01m44s) which state management is currently popular? - Sabarinathan  
