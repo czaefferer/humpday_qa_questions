@@ -1,0 +1,25 @@
+0:00 Intro
+2:48 Start
+12:43 Q: How can we create a listview with a widget in between and when the user scrolls the widget in the middle should stick to the top and bottom ? - Faisal Ansari
+15:31 Q: Can you do push notifications with Flutter? - Johan Scheepers
+16:06 Hi! I'm currently learning Flutter for mobile app development, but I'm a bit worried about finding a job in the future. Can you tell me about the outlook for Flutter in the United States? - V
+19:28 cont. Q: How can we create a listview with a widget in between and when the user scrolls the widget in the middle should stick to the top and bottom ? - Faisal Ansari
+22:20 Q: Impeller is enabled by default on iOS. But impeller can't support complex UI's. I have to disable impeller to view the correct UI - Nehal Jaisalmeria
+23:40 Q: I’m hoping to add an app feature to combine a url to an image and text (location, date, notes) to create a single graphic images. Anything advice where to begin? Pkgs, Flutter abilities, … - bille
+...I see packages such as html editor, but that is to embed an html editor into the app. I am looking to autogenerate a graphic (say, png) based on the user-supplied url and metadata. - bille
+25:54 Q: Any experience with a Cloud Android emulator on which I can install an APK? To have CI install a version on a device that can be interacted with via the browser - Fré Dumazy
+27:23 Q: Regarding the camera package. I have set the camera zoom to 2 in the camera initialization. It works as intended in android. But in iOS, zoom does not seem to work. - Chathura Chamikara
+...Q: continue: I use camera image stream for image comparison and trigger video recording from that. - Chathura Chamikara
+29:36 Q: Can screenshot and screen recording be prevent on flutter web ? Also, what is the best solution for iOS and androi for this goal? - Jerbs
+34:25 Q: Flutter has a Stepper widget which supports horizontal and vertical orientation. Horizontal orientation, overflows the progress bar at the top with step names instead of scrolling. Work around? - Manoj S
+36:37 Q - Can I utilize the Mac Mini M2 with 8GB RAM for app development beyond a moderate level? The 16GB option costs an additional $200, but I'm constrained by budget. - V
+41:33 Q : In my ListView has 2 form fields followed by some other widgets, when I tap my first form field, I need to ensure all textfield should visible. - Madhan Kumar
+43:28 Q: Can you use the gstream api to create a screen sharing web app in flutter? for users to share their screens with other users? I found their sdk for android and iOS but no web - The Pande Podcast
+45:58 Q : How to give dynamic width for gridview children based on content - Madhan Kumar
+47:07 Q: How can I best prepare for a Flutter junior developer role interview? And what are the most sought-after skills and experiences for Flutter junior developers? - Don Eladio
+48:40 Q: Which AI code assist tool best trained for dart / flutter? Codium, Copilot...? - Manoj S
+50:17 Q: I will build a mail client app is there any recommendation or a good package to help me with this - Nidal Bakir
+52:56 Q: What's a good place to start writing plugins, use ffi and all that good stuff? - Jeffery Huy
+55:39 Q: What's a clean way to implement analytics calls so that it's not interwoven with ui business logic code? - schwindlar
+59:39 Q: how to show count received notification in home screen when app in background or terminated with firebase messaging ? - Muhammad Omer
+1:02:08 Outro

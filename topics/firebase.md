@@ -1,3 +1,4 @@
+24-04-17 [59:39](https://www.youtube.com/watch?v=Hi_Txd9Q9Pw&t=59m39s) Q: how to show count received notification in home screen when app in background or terminated with firebase messaging ? - Muhammad Omer  
 24-03-20 [56:43](https://www.youtube.com/watch?v=qByAoUXOb2M&t=56m43s) Q : I can view the Firebase storage images in mobile web browser whereas the same I am not able to view the images in larger screens in web browser - Jebaseelan T  
 24-03-20 [52:16](https://www.youtube.com/watch?v=qByAoUXOb2M&t=52m16s) Q: Confirming there isn't a way to save local data for Flutter web between sessions. Tried both SharedPref and NoSQL that uses IndexedDB and data is lost when browser is closed. Now using Firebase - Michael Maitlen  
 24-03-06 [54:32](https://www.youtube.com/watch?v=zsnrgbUplJg&t=54m32s) Q: While integrating Google Wallet, Can we skip the credentials part from GCP if we are already using firebase as our backend? - Salman  
