@@ -1,0 +1,24 @@
+0:00 Intro
+3:03 Start
+8:40 About Google layoffs
+17:15 Q: any update on flutter web? - Md.Yeasin Sheikh
+20:48 Q: How do you feel about the upcoming Qualcomm laptops? - Pako St
+35:14 Q:How to implement a 3D map with user interaction? - Pradeep G
+37:36 Q: Firebase's dynamic link service is deprecating can you suggest another good service for deep linking? - Muhammad Ijaz
+43:13 Q: SharedPreference vs Restoration: My app already restores state from SharedPreference at start, do I still need to implement Restoration? - purple polyhedron
+49:04 Q:How can I intercept and analyze network traffic from a mobile app? - Pradeep G
+58:23 Q: I am making a web app using Flutter but the size it's making is around 10MB so can we optimize the flutter-engine is such a way that the final O/P size less than 5MB (doesn't contain assets folder) - FlutterWithRaman
+1:04:24 Q: Are you guys happy with the current state of the support team behind flutter at Google? what would you do instead? - Gustavo Aquino
+1:12:07 Q: any updates on permission manifest for ios - VISHAL
+1:13:24 What about image compression in web? - Free Entertaining
+1:15:22 Q: In many Flutter components (MaterialApp, Container, TextField, …), they use helper methods or variables to create widgets they later use in the build() method. Why is this bad patern allowed here ? - Jerbs
+1:18:41 Q: On android, I need access to a unique device id, that persist on app uninstallation. How would you do it ? (the android serialNumber is inaccessible do to privileges) - Jerbs
+...On iOS, the Keychain does persist data on app unintallation though - Jerbs
+1:21:54 Q: Is it fine to add/clear or create an array inside build method? - Roberto
+1:26:07 Q: What is the best/preferable practice on localization in terms of Key:value pairs? - Md.Yeasin Sheikh
+1:34:45 Q: Anyway to offload computation in layout phase to Isolate? - Dương Bùi
+1:38:49 Sending context to other files which are not part of the UI is Ok? For example sending context to an API class and put the result in the state there? - Free Entertaining
+1:49:35 how melos can be used effectively for flutter project - Soft Dev
+1:54:36 How to become a good software engineer? - Rupak Sapkota
+2:12:16 Is there any tricks to find a balance between over architecting a project and actually converting the idea into code. - Mostafijul Islam
+2:36:43 Outro
