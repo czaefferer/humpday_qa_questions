@@ -1,0 +1,19 @@
+0:00 Intro
+2:51 Start
+23:19 Q: are there ways of doing CI/CD for flutter without depending on 3rd party services? - Mtho
+25:23 Q: This is URL, I am opening this in webView within my flutterweb app using webview_flutter_web package. On redirecting result screen.. I want to handle the last navigation of the url and as long as - Ruqaiya Sattar
+... Q: link changes I want my webview to stop showing the last screen and get the changed url in my textview in my webApp. So I have used many webview plugins, no success. :( Could you suggest me how to - Ruqaiya Sattar
+34:58 Flutter is dead or live - Rahim Abdullaev
+47:02 Q： What are the recommended steps and technologies to implement face and body filters, such as enhancing skin appearance and body slimming, within a Flutter application? - Rith
+50:33 Q: Any good resource to understand internal working of Dart and Flutter ? - Shivam Srivastava
+53:00 Q: How to make a widget in the Listview to stick to the top and the bottom when it reaches the edge of the Viewport just like SliversPersistentHeader but in both directions? - Faisal Ansari
+55:26 Q: what are you thoughts on passkeys over passwords? especially in the flutter ecosystem... - Mtho
+56:35 Q: Is it detrimental to use extensions extensively with widgets? Would there be drawbacks if I frequently use them with widgets? - Abd Alqader Alnajjar
+1:00:08 Q: What is the appropriate package to showcase my design system ? - Abd Alqader Alnajjar
+1:00:49 Q: How can I create a flutter that uses ussd with multiple interactions in terms responses to the ussd network. I have found a number of plugins on pub but they don't work properly - The Pande Podcast
+1:06:28 Q: When using bloc creating too many state and events is ok? Or should I use 1 class with copyWith() to maintain state ? too many states is difficult to maintain - Shivam Srivastava
+1:08:53 q: i would like to create a a Rubik cube in flutter. I don't understand how to make it rotate :( any info/guide - Andrea Bittau
+1:12:31 Q: Chose flutter as my first job without prior native exposure, I can code, debug (intermediate level) and know about native ecosystem, but jobs requires native exp., please suggest what I should do? - Sujal Abhani
+1:14:23 Q: Firestore retrive a array with alot of data cause jank. Even if i run the task inside a isolate. What can i do to avoid the jank. - Roberto
+1:19:16 Q: I am using CachedNetworkImage and used placeholder and errorwidget. Now I have url of the image but the url do not contain image. How it will be handled? - Rutvik
+1:21:21 Outro
