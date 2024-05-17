@@ -1,0 +1,19 @@
+0:00 Intro
+2:28 Start
+11:35 About Flutter 3.22 and Dart 3.4
+1:28:45 Q: About getter in build() and navigation - https://gist.github.com/80a191d6f796666e99759507b9e6b2ec - Md.Yeasin Sheikh
+1:39:27 Q: How do you feel about macros? JsonCodable is neat but what are those prefix0 objects in the example? - Pako St
+1:41:45 Q-Access app files (e.g. SQLite) on device for dev tools? 2. EvalOnLibrary + InstanceRef: how to get values? (Struggling) - Fun2Code
+1:43:18 Q: I've integrated deep link and app links, I've tested with a simulator and emulator, it is working fine, when I try to launch the app link with the URL launcher with real iOS device, not working - Madhan Kumar
+1:45:27 Q: Hi. how does the latest wasm update impact startup time of flutter web? - Mtho
+1:46:28 Q: Hi, I want to getsream sdk to develop part of the live streaming app I am working now given that their sdk only support android and ios can how can I use their api to create a web app in flutter? - The Pande Podcast
+1:48:55 Q: are we going to have wasm on this version🤔 - Md.Yeasin Sheikh
+1:49:04 Q : I've created Flutter app, inside I'm using Flutter web app , any better approach for communication from Flutter Web App to flutter app, - Madhan Kumar
+1:52:58 Q: Are we going to have a live coding on wasm? - Md.Yeasin Sheikh
+1:53:20 Q: Feels like macros will be even more better than kotlin data classes as we can customize right? Does that mean we will not need to stateful widgets too I mean verbose approach? - Sujal Abhani
+1:56:24 Q: I am developing a devtool extension for displaying all the files that are being created by the app. What would be the approach you recommend? - Fun2Code
+2:01:02 I'd love to see a live-coding session about TextEditingDelta class. Is it possible in the future? Maybe it's a niche subject, but in my opinion, Flutter lacks proper rich text editor. - Arturo
+2:02:26 About "Cutting the stateful boilerplate"
+2:22:08 Live Coding: Finding the cause for rebuilds in a ListView
+2:50:25 About needing more templates
+2:57:03 Outro
