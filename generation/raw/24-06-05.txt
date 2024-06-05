@@ -1,0 +1,31 @@
+0:00 Intro
+2:30 Start
+23:11 Q. Any tips for understanding the focus tree, specifically keyboard focus/screen reader. How can I inspect the focus tree? - Flutterfly
+31:15 Q: how to do performance test for dart server? go or dart backend for project like StackOverflow - Md.Yeasin Sheikh
+39:02 (1/2) Q: could you go through scroll widgets talk a bit about them in terms capabilities? I have been having huge problems with singleChildScrollView lately - Lukas Simon
+...Q: (2/2) in relatively simple screen it refused to render (only with impeller, works fine on skia) the solution was slivers, but I am still a bit confused why it won't work otherwise - Lukas Simon
+50:03 Q: After upgrading Flutter to the latest version, I have an issue with reloading on web. Now I have to either kill and launch the app, or reload the localhost web page. Any solution ? (i use VsCode) - Jerbs
+38:45 Q: what is the alternative to zero cost object in Dart? E.g inline class in Kotlin - FacileTech
+57:50 Q: can you share your knowledge about GC in Dart and optimisation techniques to write performant code? - FacileTech
+1:02:51 Q: not a question but watch Slava's presentation from "Flutter and Friends" conference about dart, inspiring and 11/10, would watch again - Rafal Wachol
+1:04:15 Q: What do you think about using dart as a backend language and if it is possible to suggest a package to use? - Salem Zakarneh
+1:07:02 @Randal L. Schwartz Q: What is the best folder structure for maintaining and scaling a Flutter project? I'm looking for recommendations that promote clean code, modularity, and easy maintenance. Thank - Manish Gautam
+1:14:31 Q: what be the best way to implement sockets in a flutter app keeping performance in mind? I get a lot of UI Jank as I continuously update a widget based on new value - FacileTech
+1:19:42 Q: Is flutter supposed to encapsulate android development or is it a tool to make android or hybrid development easier. - Sameer Shrestha
+1:23:58 Q: What do you think about macros in Dart? - Manish Gautam
+1:25:36 Q. DataTable dont have lazy loading.. is there any way to achieve it? - Rutvik
+1:30:08 Q: How can I make fonts responsive in Flutter? I have used the Sizer package, but it has not been very effective. - Hashan Kannangara
+1:36:10 Q: How to fix: When a user receives a notification on their mobile device, clicking on the link provided is opened in the local browser and isn’t handled by the native application. - Randal L. Schwartz
+1:47:00 Q: If I'm listing a 10k images for example and I showed only 20 then the user scrolled rapidly then what can I do if I don't want to show a loading. I want it to be already loaded If I scrolled - Salem Zakarneh
+1:52:20 Q: Is passing model and passing the model's filed same? - https://gist.github.com/yeasin50/b032f817928448191a81752b96339f7a - Md.Yeasin Sheikh
+1:57:00 Q: what you think about using Shader in flutter are they worth it, or we should use Flutter Code - Manish Gautam
+1:58:20 Q: can i use ScrollAwareImageProvider with CachedNetworkImage? - Nidal Bakir
+1:59:07 Q: With Simon, Salih, Daria and Mangirdas giving the first talks of FlutterCon in parallel, how to clone myself to watch them all live? ;) - Krischan1712
+1:59:47 Q: here is a gist roughly showcasing the scrolling - https://gist.github.com/mendoxe/4d6195171b4640a687227aa470a47093 - Lukas Simon
+2:03:15 Q: what is the best logic for creating a user doc after registration using Flutter and Firebase without Functions? - David
+2:07:56 Q: Is it possible to send a flutter widget tree , in some sort of xml , to other flutter app , to replicate a screen share functionality ? - The Chromic Journey
+2:10:10 Q: I'm trying to optimise performance a Flutter component - when loaded in Native app works exceptionally well, however when loaded in standalone web is too slow like takes ~10-12 secs. - Mike Mannox
+2:15:00 Q: Why are gestures not working after zoom and rotation? - https://gist.github.com/irutvikk/dbb9abcbc5a06ce03f98540ebc8765e2 - Rutvik
+2:21:47 everything dissapears and there is only white screen - Lukas Simon
+2:25:33 Are macro's rolled out now? Been out of the scene for a minute. - Pa Ka
+2:27:10 Outro
