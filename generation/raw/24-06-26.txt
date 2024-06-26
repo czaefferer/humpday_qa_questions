@@ -22,13 +22,13 @@
 ... Q(2/2) it is the simulator but it occurs in my actual device. Tried all versions and same issue remains. Any suggestions or alternative stable image pickers? - M. A.
 1:28:35 Q: Are there any architectural decisions you should consider when deploying a flutter app specifically for web when it's only ever ran on iOS/Android? e.g. Routing - Alex Price
 1:32:57 Q: I'm using share_plus plugin to share a link via sms or whatsapp. QA is E2E the flow with appium and can't find the native share modal to test, do you guys know the name of this modal android/ios? - Jéssica Pereira
-1:38:10 Live coding: Suggestions overlay and fixing selection handler appearing behind it - 
+1:38:10 Live coding: Suggestions overlay and fixing selection handler appearing behind it - https://gist.github.com/slightfoot/6e04b070478b7be3e1463db68517c277
 3:19:19 A wild Kevin appears
 3:21:12 Kevin about I/O Crosswords - https://crossword.withgoogle.com/game/ - https://github.com/VGVentures/io_crossword
 3:19:04 Q: I sometimes struggle with measurements. For example, if a button is 80 pixels wide, how can I ensure it is compatible with all screen sizes as shown in the design, without using external libraries - AZEEZ / عزيز
 3:30:50 Recently heard about a new initial loading system for web builds. That's faster than the old way. Didn't got to test it yet. Is it a part of the wasm direction flutter heading to?!? - Mostafijul islam
 3:31:40 Honestly I'm waiting for flutter component inside Angular to be possible soon - Zlati Pehlivanov
-3:36:15 Keyvin about going FullScreen in iOS
+3:36:15 Kevin about going FullScreen in iOS
 3:37:55 Q: How can we make scrolling smoother in Flutter web? The current scrolling using a mouse feels janky. - AZEEZ / عزيز
 3:39:20 Is there a way to embed multiple Flutter apps/instances in a single web page? - Verde
 3:41:13 Outro
