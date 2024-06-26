@@ -1,3 +1,6 @@
+24-06-26 [48:08](https://www.youtube.com/watch?v=X0bin1qozYg&t=48m08s) Q3: What are the related branches/services/domains(such as Firebase,Rest API,....) we should learn/explore as flutter dev. while there are too many? - Md.Yeasin Sheikh  
+24-06-26 [31:07](https://www.youtube.com/watch?v=X0bin1qozYg&t=31m07s) Q: Could we compare Sentry and Firebase crashlytics? How come firebase needs native setup and Sentry doesn't. - Lukas Simon  
+24-06-26 [1:13:20](https://www.youtube.com/watch?v=X0bin1qozYg&t=1h13m20s) Q: Ive created a shelf server running locally and can connect to it with local client web app, but when I push client to firebase I get an XMLHttpRequest error. Is this a CORS issue? Http vs Https? - Michael Maitlen  
 24-06-05 [2:03:15](https://www.youtube.com/watch?v=Ul9sWxdJ41Y&t=2h03m15s) Q: what is the best logic for creating a user doc after registration using Flutter and Firebase without Functions? - David  
 24-05-01 [37:36](https://www.youtube.com/watch?v=8-15a-hV7AY&t=37m36s) Q: Firebase's dynamic link service is deprecating can you suggest another good service for deep linking? - Muhammad Ijaz  
 24-04-17 [59:39](https://www.youtube.com/watch?v=Hi_Txd9Q9Pw&t=59m39s) Q: how to show count received notification in home screen when app in background or terminated with firebase messaging ? - Muhammad Omer  
