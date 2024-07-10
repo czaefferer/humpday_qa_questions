@@ -1,0 +1,22 @@
+0:00 Intro
+3:02 Start
+18:42 Q: Is it better to use 1 screen and react to different screen sizes in its build() or to have separate screens for each size and do the diffentiation in a wrapper widget? Any tips for bigger projects? - Negan
+32:55 Q: i have created app which works fine on wifi as soon as i turn on the mobile internet it gets stuck(takes lot of time) for a single api call (permission given). - Adil Ayoub
+39:26 Q: When it comes to performance, can Dart be as performant as languages like C on a server? Dart can be compiled to machine code and should not have any disadvantages compared to low lvl languages, r? - Harald Lesch
+45:41 Q: Any way to load svg images in wasm? - Free Entertaining
+50:01 Q: Sentry sometimes reports Watchdog termination errors on iOS (suggesting it is related to RAM overuse). Any recommendations on how to debug/track that? - 0x00FF00 (Verde)
+52:38 Q: Do you agree that the flutter industry is going through a difficult time and that it is very hard to find a well-paid job? (please ignore if it does not fit the format) - David
+1:00:18 Q: Does using word any cause problems in libraries mostly some that might have issues with dart or flutter SDK version for example: http: any - Orion Paul
+1:05:00 Q: I am creating a web app and it's running in debug mode but it's not running in release mode we have implemented the supabase realtime in this which is locally hosted. - FlutterWithRaman
+1:07:33 Q: Is it possible to wait for all futures in a named record in parallel? Gist: 951b80e75c3302e982dbca7cdea7b2d2 - Krischan1712
+1:12:08 Q: Flutter assets doesn't load in the first run when using Flutter as a dynamic feature module in a native android app. It works when you re launch the app though. Anyone faced this, maybe @simon? - Codepur
+1:17:36 Q: I am interested in trying to run Flutter on an "embedded devices" with a screen, which devices and how? - Mike Mannox
+1:24:10 q does android 14 had problem in bluetooth I communicate with Hc 05 module and if I disconnect the bluetooth from android it still get data from device but this problem not in less than 12 android vr - Arjun Singh
+1:27:13 q: how to take screenshot in the golden test for a video player widget. - Soft Dev
+1:28:16 Q: The icons are not displaying properly in flutter web when i deployed into my server, it working fine in local machine , i deployed counter up into my server , the add icon is wrong - Madhan Kumar
+1:30:54 Q: Have you tried setting up Flutter dev environment on the new Snapdragon laptops? - Pako St
+1:34:11 Q: what part of code is responsible for showing splash on ios? I have used flutter_native_splash and now i just removed it but still showing the splash - Free Entertaining
+1:35:27 Q: I'm trying to create my own translation solution, which changes strings itself into translated strings based on current locale. - Shivanshu Gupta
+1:37:35 Q: do you know of any library to create a http/2 server in flutter? Where can I find a good description of how http/2 works? How can I start to implement it myself? - Reii
+1:52:03 cont. Q: Flutter assets doesn't load in the first run when using Flutter as a dynamic feature module in a native android app. It works when you re launch the app though. Anyone faced this, maybe @simon? - Codepur
+2:10:00 Outro
