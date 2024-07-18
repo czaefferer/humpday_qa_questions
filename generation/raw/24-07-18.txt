@@ -1,0 +1,24 @@
+0:00 Intro
+1:48 Start
+15:01 q: recently I upgrade flutter SDK now apk build size 3 times more than previous version - Arjun Singh
+17:00 Q: How can I implement automatic monthly uploads of user contacts to our server in a Flutter app used by 200 real estate employees? - Muhammad Omer
+19:04 Q: What is the best way to maintain the project as we have created one and new developers code on there own way how to maintain the same code base for long time as projects take time. - Adil Ayoub
+26:15 Q: My question is big so here is my gist for my question be24a2728632d4b39603b141d133758d - Shivanshu Gupta
+33:12 Q: Child process created with process.start on Windows DO NOT terminate even when the parent process is killed, sigint and sigterm listeners don't catch termination from TaskManager or other failures - Shivanshu Gupta
+35:03 Q: How can we increment the FCM notification count on our Flutter app's home screen throughout the entire app lifecycle, including background? - Muhammad Omer
+37:08 Q: When targeting web, how can you pick a file (web has no access to path) and store it in firebase storage as a file (pdf) not bytes? Tried file package but didn't work... - Niko Vassilis
+42:00 Q:Has anyone used Vania Dart for backend development? Given its similarities to Laravel - Muhammad Omer
+42:55 Q: Any advice on keeping ALL the versions (gradle, android, 3rd party packages and libraries) used in a mature app. Having a heck of a time migrating to 3.19 and updating the Android build files. - Michael Maitlen
+49:05 Q is some discussion going on Angular vs Flutter framework - Arjun Singh
+50:31 Q: Interested in becoming a DevRel? Please advise the way forward! - Loïc Fonkam
+54:07 Q: When we are using Queue instead of List in dart or flutter? - Harsh Joshi
+1:01:15 q: how to store keys (facebook keys,google keys) in secret manager( or in cloud)that which we are mentioning in values.xml file and info.plist file for security purpose - Madhan Kumar
+1:05:23 Q: Inside a scrollable page I have a scrollable table. Once the table reach the top of the screen, I want the table to be sticky and start scrolling instead of the page. How would you do that ? - Jerbs
+1:07:00 Q: I'm using in app purchases in my flutter app. After the purchase is successful, and when I want to hit my backend to activate the paid feature, how do I handle the case when this API call fails, but the money is now deducted. - Moksh Mahajan
+... Q: Adding more context to the IAP question, suppose there is a network error, I have already implemented req retries and caching, but still there can be a possibility that user clears data for the app - Moksh Mahajan
+1:14:42 Q: Assuming I request permission (read+write) to a specific path. Does AndroidOS and iOS have guards preventing me from writing null to that entire block of memory? Aim to understand limit of C in FFI - Loïc Fonkam
+1:17:15 cont. Q: Inside a scrollable page I have a scrollable table. Once the table reach the top of the screen, I want the table to be sticky and start scrolling instead of the page. How would you do that ? - Jerbs
+1:19:41 Q: What’s the differences between flutter_pi, embedded flutter (eflutter) and the official flutter? I would like to develop an app for arm64. - Charles Steinmetz
+1:26:48 Q: A few clients of mine use only singletons to fetch data from the internet (ex: UserApi() ). They instantiated all their classes at once, and call them everywhere they need. Is it a bad approach ? - Jerbs
+1:30:47 Q: Opening a site using webview_flutter, websites change the theme depending on the systems theme. How can I tell the websites to use a theme based on a local variable instead (overwrite the system's) - David
+1:32:42 Outro
