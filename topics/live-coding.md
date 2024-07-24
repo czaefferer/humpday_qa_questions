@@ -1,3 +1,4 @@
+24-07-24 [1:14:20](https://www.youtube.com/watch?v=mMv9wRcKZrw&t=1h14m20s) Live coding: Circular scrollable list - Gist: https://gist.github.com/slightfoot/6266c566608482ddcc9760e9e24a952e  
 24-06-26 [1:38:10](https://www.youtube.com/watch?v=X0bin1qozYg&t=1h38m10s) Live coding: Suggestions overlay and fixing selection handler appearing behind it - https://gist.github.com/slightfoot/6e04b070478b7be3e1463db68517c277  
 24-06-12 [2:18:55](https://www.youtube.com/watch?v=QBmqKvw_0s8&t=2h18m55s) Live Coding: Limit Height without IntrinsicHeight - https://gist.github.com/slightfoot/b5f4e220012ab7f6a38c263c1d95c0d4  
 24-05-15 [2:22:08](https://www.youtube.com/watch?v=RaO51TygOLU&t=2h22m08s) Live Coding: Finding the cause for rebuilds in a ListView  

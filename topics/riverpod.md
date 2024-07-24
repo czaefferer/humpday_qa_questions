@@ -1,3 +1,4 @@
+24-07-24 [44:25](https://www.youtube.com/watch?v=mMv9wRcKZrw&t=44m25s) Q: (P1) I have been watching several open-source repos to learn about the archi for my apps. (Using riverpod). Sometimes, I need advice in niche decisions that are not covered ......, - M. A.  
 24-04-10 [31:54](https://www.youtube.com/watch?v=Logu_cx_qck&t=31m54s) Q: Guys, for state management you do recommend Riverpod, right? Why do you choose Riverpod over Bloc? - Reiko  
 24-03-27 [1:14:50](https://www.youtube.com/watch?v=lIJ68y81m6M&t=1h14m50s) Q: I would like to create a chat with Riverpod, based on a stream of last message, and fetching the previous 20 msg upon scrolling the top list (“infinite scroll”). Any idea/resource how to do it ? - Jerbs  
 24-02-21 [1:52:10](https://www.youtube.com/watch?v=jNbiiZI6FgI&t=1h52m10s) Q: Has someone tried to use Riverpod for integration tests (mother of all tests real device) to handle the more... complex scenarios needing data for seeding? - Pako St  
