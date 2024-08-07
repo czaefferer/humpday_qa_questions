@@ -1,0 +1,20 @@
+0:00 Intro
+3:02 Start
+7:44 Lukas about Flutter&Friends conference
+11:00 About Flutter 3.24 and Dart 3.5.
+25:53 Q: Simon can you say more about the "prototype" stuff (re: slivers) that isn't being used enough? - Rona Kilmer
+29:54 cont. About Flutter 3.24 and Dart 3.5.
+33:28 Q: Does that carousel view support content of different heights? - Matthew Jones
+36:20 cont. About Flutter 3.24 and Dart 3.5.
+1:07:08 i wish simon to complete his wow shopping app in near future with a better clean arch. approach , as folders and files are not well managed , i think we can prefer get_it for dependency injection - Manish Gautam
+1:07:34 Q: I have an issue at felangel equatable issues 177 - Manish Gautam
+1:09:13 Q: I want to show play store update screen within the application( like bottomsheet), if they clicked update , we have to close bottomsheet and show snackbar like app is upgrading background. - Madhan Kumar
+1:10:40 Q: addPostFrameCallback scheduleFrameCallback usecase when to use? elaborate - Flutter Crew
+1:11:30 Q: cont: once update is downloaded then we have to restart the application , is this possible in flutter? - Madhan Kumar
+1:13:04 Q:what do you think about flet? - Test
+1:16:03 Q: Any way to inspect WebSocket requests similar to Chrome in Flutter?The dev tools inspector doesn't have any information about the WebSocket messages.Thank You. - Code With Shashank
+1:17:40 Q: How can I learn about managing large Filter projects starting from uploading the project to github all the way to uploading to the store - Test
+1:19:49 Q: Override translation on widgets from my custom package. My main app have same localization keys as my custom package. But i still see the custom package translation on those widgets instead of main - Roberto
+1:23:50 Q:When i expand the expansionpanel the border and the content of the ListTile below the expansion panel behaves weirdly and moves away from each other in SliverList as slivers for CustomScrollView - Suman Mitra
+1:25:57 Q: How do you track/listen to the changes in the location of a flutter widget in a screen ? - The Chromic Journey
+1:28:15 Outro
