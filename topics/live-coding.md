@@ -1,4 +1,4 @@
-24-08-14 [1:43:55](https://www.youtube.com/watch?v=Kifd_BTMdTM&t=1h43m55s) Live coding: Shenanigans with Slivers and rebuilds - Gist   
+24-08-14 [1:43:55](https://www.youtube.com/watch?v=Kifd_BTMdTM&t=1h43m55s) Live coding: Shenanigans with Slivers and rebuilds  
 24-08-14 [1:33:48](https://www.youtube.com/watch?v=Kifd_BTMdTM&t=1h33m48s) Live coding: Animating from white to transparent  
 24-07-24 [1:14:20](https://www.youtube.com/watch?v=mMv9wRcKZrw&t=1h14m20s) Live coding: Circular scrollable list - Gist: https://gist.github.com/slightfoot/6266c566608482ddcc9760e9e24a952e  
 24-06-26 [1:38:10](https://www.youtube.com/watch?v=X0bin1qozYg&t=1h38m10s) Live coding: Suggestions overlay and fixing selection handler appearing behind it - https://gist.github.com/slightfoot/6e04b070478b7be3e1463db68517c277  

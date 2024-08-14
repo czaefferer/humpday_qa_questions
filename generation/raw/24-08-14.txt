@@ -29,5 +29,5 @@
 1:30:28 Intermission
 1:33:48 Live coding: Animating from white to transparent
 1:41:20 About new Jaspr release
-1:43:55 Live coding: Shenanigans with Slivers and rebuilds - Gist 
+1:43:55 Live coding: Shenanigans with Slivers and rebuilds
 2:25:20 Outro
