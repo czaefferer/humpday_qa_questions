@@ -1,3 +1,4 @@
+24-08-28 [57:19](https://www.youtube.com/watch?v=AibrECd4gpg&t=57m19s) Live coding: Animated scrolling BottomSheet - Gist https://gist.github.com/slightfoot/ab0cd346baadc863c6b524d79773cc2b  
 24-08-14 [1:43:55](https://www.youtube.com/watch?v=Kifd_BTMdTM&t=1h43m55s) Live coding: Shenanigans with Slivers and rebuilds  
 24-08-14 [1:33:48](https://www.youtube.com/watch?v=Kifd_BTMdTM&t=1h33m48s) Live coding: Animating from white to transparent  
 24-07-24 [1:14:20](https://www.youtube.com/watch?v=mMv9wRcKZrw&t=1h14m20s) Live coding: Circular scrollable list - Gist: https://gist.github.com/slightfoot/6266c566608482ddcc9760e9e24a952e  

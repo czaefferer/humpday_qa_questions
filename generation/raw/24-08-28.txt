@@ -1,0 +1,29 @@
+0:00 Intro
+2:38 Start
+15:29 Q:How to preserve widget states in flutter, when navigating using BottomNavigationBar using go_router with shell route, I've shared gist gist.github.com/a803a7b1e3623b508981d3819f9bc398 - Madhan Kumar
+23:39 Q:Plz do Live coding a gemini ai based website using jaspr. - Shreeman Arjun Sahu
+27:24 Q: I am developing music sharing app and i am using Riverpod with generator is this State management is scalable? - SE
+29:16 q which package can I use to make zoom like app with recording features - Arjun Singh
+33:48 Q: What are the actual usecases to enable and disable auto backup for android? - Sourav Adhikari
+35:18 Q: Is this the correct approach to transform the url of a network image into an uint8List in the model class? , how to utilise this code generator - Madhan Kumar
+36:42 Q: Whats the state of macros, when can we start getting rid of freezed ? - CrovaX 3D Mapping
+39:12 Q: The release build aab or apk size automatically increase after using firebase_auth: 5.0.0 (auth requires minSdk 23) what is the actual issue - Sourav Adhikari
+43:02 cont. Q: Is this the correct approach to transform the url of a network image into an uint8List in the model class? , how to utilise this code generator - Madhan Kumar
+47:10 Q: I have a problem with the Mapbox package; the bill is higher compared to the web. Is there a solution for this? 🙏🏻 - Salah Cheihbi
+49:55 cont. Q: Is this the correct approach to transform the url of a network image into an uint8List in the model class? , how to utilise this code generator - Madhan Kumar
+51:00 Q: I'm using CachednetworkImage with a some customisation on the service that loads the image from supabase storage via rest endpoint and its headers. problem is I'm caching different sizes of images. - Zlati Pehlivanov
+...Q: having issues with clearing the cache when reuploading a new avatar. - Zlati Pehlivanov
+...even if i clear every size manually with evictCache, generating the cacheKey e.g. image path for every size. But for some reason the UI does not update immediately and often requires app restart - Zlati Pehlivanov
+56:37 Intermission
+57:19 Live coding: Animated scrolling BottomSheet - Gist https://gist.github.com/slightfoot/ab0cd346baadc863c6b524d79773cc2b
+1:08:59 Q: do you recommend any frameworks for integration testing? I have tried enabling the integration_test package but it falls down when interacting with web views or native OS - Alex Price
+1:09:50 cont. Live coding: Animated scrolling BottomSheet
+1:50:03 Q: Can i actually use Content Provider and get some data from another application? I worked too much on it but got nothing working. - Yawar Osman
+1:51:04 cont. Live coding: Animated scrolling BottomSheet
+1:53:59 Is it safe to use it for authentication purposes? ex: passing tokens to verify another app? - Yawar Osman
+1:56:02 Q: Do you suggest creating background/foreground services in flutter ? or create them in native and then use method channels to start them . - The Chromic Journey
+1:57:10 cont. Live coding: Animated scrolling BottomSheet
+1:58:49 Q: - How to sync two PageViews together, so that when one is scrolled, the other automatically scrolls - David Nwaneri
+2:03:38 cont. Live coding: Animated scrolling BottomSheet
+3:02:57 Randal about his upcoming screencast on https://www.youtube.com/@RandalOnDartAndFlutter
+3:07:15 Outro

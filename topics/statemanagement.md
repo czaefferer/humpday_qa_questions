@@ -1,3 +1,4 @@
+24-08-28 [27:24](https://www.youtube.com/watch?v=AibrECd4gpg&t=27m24s) Q: I am developing music sharing app and i am using Riverpod with generator is this State management is scalable? - SE  
 24-07-24 [16:31](https://www.youtube.com/watch?v=mMv9wRcKZrw&t=16m31s) Q : Recently , I have developing a Flutter app using GetX state management. I need to know how to improve the app using devtools like performance improvement, cpu mangmnt. Can you explain in detail ? - PRADOSH PATTANAIK  
 24-06-26 [1:05:57](https://www.youtube.com/watch?v=X0bin1qozYg&t=1h05m57s) thanks. for clarification: i meant to specifically ask for a initialRoute with routes solution with a streambuilder without any notifiers or state management solution or other 3rd party packages - Negan  
 24-04-10 [31:54](https://www.youtube.com/watch?v=Logu_cx_qck&t=31m54s) Q: Guys, for state management you do recommend Riverpod, right? Why do you choose Riverpod over Bloc? - Reiko  
