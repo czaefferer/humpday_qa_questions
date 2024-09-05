@@ -1,0 +1,35 @@
+0:00 Intro
+3:17 Start
+7:38 Lukas about Flutter & Friends
+16:49 Q: Talks from Fluttercon 2024 are available on droidcon. What do you recommend to watch? Which talks are your top5? - Reii
+23:16 Q: How do you generate a Flutter theme from Figma design tokens (as a JSON file) ? (I am using token studio to generate the big JSON file) - Jerbs
+28:01 Q: Is it necessary to publish flavorised builds in store for subscription? - Senmi
+... Q: Any way to use same subscriptions defined in store in flavorized builds? Is it necessary to push them to store too ? - Senmi
+37:00 Q: Simon could you show how to make a server with an endpoint to download a file with the ability to pause/resume the download? Any best practices or good articles? Special headers to use? - Reii
+38:30 Q: what's better default flutter navigation or navigator 2.0 packages like go_router - Aman Ali
+41:59 Q: I am looking to build a custom screen which recursively goes between pagination and declarative routes of custom screen based on a flag - Train of Thought
+... contd: i am mainly confused about how to do pagination where i need to push screens as i scroll below - Train of Thought
+44:54 Q: I see flutter released stable web. Why flutter isn't using flutter for web on its own website? - Bolt's Galaxy
+47:48 Q: I am building the app prototype with riverpod generator. I am on the right path or switch to bloc. - SE
+51:04 Q: Weird behavior on Android only: First time installs run great, but after uninstall, re-installed app gets stuck on the splash screen. Any ideas what it could be or how to debug? - schwindlar
+54:55 as follow up question lets say Q: when to use nav 1 and when to use nav 2? - Salem Zakarneh
+56:46 Q: How can I cache the HLS audio I am using just_audio - SE
+1:02:47 Q: first time making an App for a client (iOS, Android). Which Apple developer account should I use, ours or clients? Also how do you usually provide test versions of the app to the client? - Dustlay
+1:08:40 Q: How can I create a custom scroll view that loads more data as I scroll down, but instead of adding small widgets like list tiles, I want to load a completely new screen? - Train of Thought
+1:11:32 Q: which db should I use for real time location read and write SQL supabase or noSql consider scale and latency if possible price as well? - MuslimStoic
+1:16:22 Q: Any disadvantage to using lots of isolates all over the place in your app? - Alex Price
+1:18:17 Q: When do I know that I really need to use isolates and how does it affects the device resources? - Salem Zakarneh
+1:28:32 Q: Is it possible to add TextOverflow.marquee? - Dharam Budh
+1:31:16 A wild Randal appears
+1:31:53 Q: what is a fail safe way to go about solving a complex problem pertaining to flutter? - Train of Thought
+1:33:58 Q:is there any other frameworks built on dart like flutter? - MuslimStoic
+1:35:16 Q: i am looking forward to have some help for implementing chat feature using graphQl - xordox
+1:37:05 i want to learn one good state management ? could you please tell me that - Sabarinathan
+1:37:29 Hello, what is the best way to implementing play video DRM as a native and host it in flutter app? - Adel Bashar
+1:39:03 i used dio request in compute but Interceptors was in main ui isolate , in that case i faced error like BackgroundIsolateBinaryMesseng initialization , - Manish Gautam
+1:39:25 Q: What do you use as payment gateway for Flutter web? as there are not many options available. - Aman deep
+1:39:59 is it possible to do the AES 128 BIT CBC encryption by using dart ? - Danny Ansari
+1:40:14 Q: Best payment package option that accepts Apple Pay? (Asking on behalf of a very large company..) - Alex Price
+1:41:35 Intermission
+1:47:49 Q: laggy TwoDimensionalGridViewPort gist.github.com/01997ebded25bb83b9c297d8c25791f3 - Md.Yeasin Sheikh
+2:54:14 Outro 
