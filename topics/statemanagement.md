@@ -1,3 +1,4 @@
+24-09-11 [2:08:56](https://www.youtube.com/watch?v=LbpboHb49PM&t=2h08m56s) Q: could you please let us know about signal state management package - Aman Ali  
 24-09-04 [1:37:05](https://www.youtube.com/watch?v=LNtDRO0UrKs&t=1h37m05s) i want to learn one good state management ? could you please tell me that - Sabarinathan  
 24-08-28 [27:24](https://www.youtube.com/watch?v=AibrECd4gpg&t=27m24s) Q: I am developing music sharing app and i am using Riverpod with generator is this State management is scalable? - SE  
 24-07-24 [16:31](https://www.youtube.com/watch?v=mMv9wRcKZrw&t=16m31s) Q : Recently , I have developing a Flutter app using GetX state management. I need to know how to improve the app using devtools like performance improvement, cpu mangmnt. Can you explain in detail ? - PRADOSH PATTANAIK  

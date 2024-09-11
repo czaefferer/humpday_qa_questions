@@ -1,0 +1,33 @@
+0:00 Intro
+3:33 Start
+8:55 About Fluttercon USA
+21:51 Q: How can we use macros to generate a List<Widget> based on individual files in directory? Would it be better to stick to build_runner for the time being? - Pako St
+22:54 Q: can flutter widgets replace html css and javascript and work efficiently for building web apps at this stage? (ignore seo) - Salem Zakarneh
+24:50 ConferenceQ: will some talks be recorded do you think? - Calan M
+26:44 Q: is it legal to deploy flutter app on a different server apart from playstore? - solomon ondula
+27:29 Q: How to hide a variable or a key (Google maps api key , Used in the index.html ), from being inspected in flutter web . - The Chromic Journey
+30:15 Q: Is it true that wrapping an InkWell() inside a Material() widget is bad for performance? - Alex Price
+31:50 Q: Thoughts on offline first approach in flutter? Packages to have in mind? or your previous experiences? - Elian Ortega
+37:42 Q.p0: (WowShopping) While handling state-management with InheritedWidget to update the parent I have often seen boradcasting a StreamController and - Md.Yeasin Sheikh
+... Q.p1: my question is how to decide which is approach is better than one another among ChangeNotifier, ValueNotifier, Stream....? - Md.Yeasin Sheikh
+... Q.p2: is equal more expensive than identity ? - Md.Yeasin Sheikh
+51:13 Q: is there any way to run python code in flutter Some things like dart ffi or method channel I want to run some ml related code in my flutter? - MuslimStoic
+55:33 Q: is it legal to deploy flutter app on a different server apart from playstore? - solomon ondula
+57:08 Q: Couldn't save refresh token in http only on debug, while it's fine on postman, does it has anything with flutter? Or i should build it to make it work? - Free Entertaining
+58:11 Q: why is this okay? gist.github.com/573cb36f172e91dcc088df460a389029 - David
+1:02:52 Q. I'm using dio and made a cache interceptor which stores the cache in db. Now I want to call the api as well after returning the cached data and return that new api data as well. How can I do it? - अ
+1:04:17 (Q: Btw is Equatable package still popular for dart data classes “extends Equatable” for checking object value equality?) - Calan M
+1:05:47 Q: I try to create a standalone button, that opens a menu, that closes when clicked outside of the menu. Is there something like FocusNode, but for widgets, to detect if a widget is "focused" or not? - Jerbs
+1:09:20 Q: Is there any way to do what flexible_wrap package does with built in widget? There is a demo video on the package to see what I'm talking about. - Nahom B
+1:11:32 Q: How to prevent browser back button? I mean when the back button tapped then shows a confirm dialog? - Free Entertaining
+1:13:08 Intermission
+1:15:03 Q: Follow up on flexible_wrap, Wrap doesn't allow flexible width. And GridView.extent changes the height. - Nahom B
+1:15:58 Q: PopScope doesn't work if it wraps the Scaffold? - Free Entertaining
+1:18:50 Live coding: Flexible Wrap - Gist https://gist.github.com/slightfoot/2e956ab9f5c3529ae1f30a3717815613
+1:23:28 Q: Why do you not use VS Code? I used IntelliJ for Android dev and continued it for Flutter but eventually conceded to VS Code! - Utsav Mangla
+1:25:27 cont. Live coding: Flexible Wrap
+1:40:26 Q: About the refresh token question: gist.github.com/41f49e8cf89e699bd155a35f4a31f96b - Free Entertaining
+1:45:25 Q: What are you thoughts on AI for better "auto complete" on the code? I believe using AI in this scenario might speed thing, reduce a lot of keystrokes. - Utsav Mangla
+1:50:59 q: how to implement card with dynamic height in horizontal listview - Soft Dev
+2:08:56 Q: could you please let us know about signal state management package - Aman Ali
+2:09:55 Outro
