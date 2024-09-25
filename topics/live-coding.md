@@ -1,3 +1,5 @@
+24-09-25 [2:22:45](https://www.youtube.com/watch?v=QiLPSsD9kRc&t=2h22m45s) Live coding: Pie progress indicator - https://gist.github.com/slightfoot/4e87e4bd0dc84200ac45a63e2ea96705  
+24-09-25 [1:56:55](https://www.youtube.com/watch?v=QiLPSsD9kRc&t=1h56m55s) Live coding: Flutter Windows Desktop - Client Area Adjustment - https://gist.github.com/slightfoot/9a274ae6477ac09f55674b3be6704b02  
 24-09-11 [1:18:50](https://www.youtube.com/watch?v=LbpboHb49PM&t=1h18m50s) Live coding: Flexible Wrap - Gist https://gist.github.com/slightfoot/2e956ab9f5c3529ae1f30a3717815613  
 24-08-28 [57:19](https://www.youtube.com/watch?v=AibrECd4gpg&t=57m19s) Live coding: Animated scrolling BottomSheet - Gist https://gist.github.com/slightfoot/ab0cd346baadc863c6b524d79773cc2b  
 24-08-14 [1:43:55](https://www.youtube.com/watch?v=Kifd_BTMdTM&t=1h43m55s) Live coding: Shenanigans with Slivers and rebuilds  
