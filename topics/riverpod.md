@@ -1,3 +1,4 @@
+24-10-02 [1:39:30](https://www.youtube.com/watch?v=RX6cS7TdIy0&t=1h39m30s) @Randal If you had to choose between Riverpod and InheritedWidget (Simon's architecture, e.g., wow_shopping_app), what would you pick? - Md.Yeasin Sheikh  
 24-09-04 [47:48](https://www.youtube.com/watch?v=LNtDRO0UrKs&t=47m48s) Q: I am building the app prototype with riverpod generator. I am on the right path or switch to bloc. - SE  
 24-08-28 [27:24](https://www.youtube.com/watch?v=AibrECd4gpg&t=27m24s) Q: I am developing music sharing app and i am using Riverpod with generator is this State management is scalable? - SE  
 24-08-21 [12:43](https://www.youtube.com/watch?v=1SISzT2CyoY&t=12m43s) Q: Is there documentation or a person you’d recommend to study the Bloc pattern for a larger project? About to start a new role and have mainly been used to Riverpod until now, they use bloc/provider - Alex Price  
