@@ -1,3 +1,5 @@
+24-11-06 [1:41:33](https://www.youtube.com/watch?v=txmWGhgPKuU&t=1h41m33s) cont. Q: Its flutter working in a new state managment. BloC, GetX, Riverpod... Are external. - EXONENT  
+24-11-06 [1:35:27](https://www.youtube.com/watch?v=txmWGhgPKuU&t=1h35m27s) Q: Its flutter working in a new state managment. BloC, GetX, Riverpod... Are external. - EXONENT  
 24-10-16 [39:41](https://www.youtube.com/watch?v=NUovKv3Sywo&t=39m41s) Q: What Flutter app architecture do you reccomend for a large application that needs to integrate AI models and APIs? Do you recommend using Riverpod for state management in such an app? - Rafael Primo  
 24-10-16 [1:05:26](https://www.youtube.com/watch?v=NUovKv3Sywo&t=1h05m26s) Q: When starting a small project with state management, is Provider enough for managing state? As the app grows more complex, is it better to start with Riverpod instead of Provider to manage state? - Javier Carrion  
 24-09-11 [2:08:56](https://www.youtube.com/watch?v=LbpboHb49PM&t=2h08m56s) Q: could you please let us know about signal state management package - Aman Ali  

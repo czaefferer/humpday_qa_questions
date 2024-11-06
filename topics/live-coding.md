@@ -1,3 +1,4 @@
+24-11-06 [1:51:17](https://www.youtube.com/watch?v=txmWGhgPKuU&t=1h51m17s) Live coding: Fade reveal - https://gist.github.com/slightfoot/3528b92328b4c91e68a47871b6b14480  
 24-10-16 [1:45:25](https://www.youtube.com/watch?v=NUovKv3Sywo&t=1h45m25s) Live coding: Datatables in a SingleChildScrollable  
 24-10-16 [1:13:39](https://www.youtube.com/watch?v=NUovKv3Sywo&t=1h13m39s) Live coding: Transparent App background  
 24-10-02 [2:01:51](https://www.youtube.com/watch?v=RX6cS7TdIy0&t=2h01m51s) Live coding: Carousel dialog box - https://gist.github.com/slightfoot/ccfc006be5e9a16053eba64ac1926b43  
