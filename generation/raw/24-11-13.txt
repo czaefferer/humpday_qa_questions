@@ -1,0 +1,21 @@
+0:00 Intro
+4:15 Start
+11:55 Daria about the book "Flutter Design Patterns and Best Practices"
+35:07 Q: what are some of the most important Patterns in Flutter book? (I’m going to buy copy, so just a quick overview) - Calan M
+47:11 q :any quick quide which tell setting grade, kotlien and java with snippet cause when I upgrade flutter my relese build is effected trying so many things but nothing find on same page - Arjun Singh
+55:14 Q: Image takes time to loader and app gets negative review. I have used cached image package can't change the backend code image size more than >= 10MB. how to fix this issue - Adil Ayoub
+1:01:03 Q: Can you please share how can someone can become Google Expert Developer in Flutter (GED) - Prince Thakur
+1:04:18 Q: Whats the best way of displaying two markers (with the same lat-long) in google maps . As currently the markers just overlap , and only the top one is visible and clickable (for infowindow) - The Chromic Journey
+1:08:33  Q: Thoughts on the flutter fork? A good thing? - Alex Price
+1:11:49 Q: I started a new job and their dart codebase is atrocious, not following any conventions, code smells everywhere. How can I not be an ass while telling them that we need to 1/2 - Duncan Szewart
+...improve a lot of their prior work; and what are things I should prioritize e.g. Stricter linting rules.. 2/2 - Duncan Szewart
+1:17:03  Q: Internally what is the difference between a factory constructor and a static method constructor? And best practices associated with this? - Loïc Fonkam
+1:26:05 q: Is there any issue with GestureDetector only working on areas that have physical child and not working on Padding and other spaces that doesn't actucally have something physical? - Muhit Mahmud
+1:27:19 Q: Can we discuss widget catching and the FPS performance we observe, focusing particularly on drawbacks if any? - Loïc Fonkam
+1:37:06 Q: Could you share insights on effective code review practices and essential testing? Which types of testing are must-haves, and which are good to include? Any other best practices? - Free Entertaining
+1:42:48 Q: Why can not pass not const parameter in the constructors? - Free Entertaining
+1:44:00 Hey, how about a live coding session (maybe in the future) where you code-review utility-methods from viewers? I know I have a lot, and some a probably not even needed - Krischan1712
+1:46:44 Q: What's the difference between Channel Method and ffi? When would one be used instead of the other? - Go Full Stack
+1:56:53 Live coding: Custom Magic Circle Button - https://gist.github.com/slightfoot/5ab70a412e7002db60b4fbb37cdc4706
+2:38:55 cont. Q: Can we discuss widget catching and the FPS performance we observe, focusing particularly on drawbacks if any? - Loïc Fonkam
+2:50:39 Outro
