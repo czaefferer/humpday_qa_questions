@@ -1,0 +1,29 @@
+0:00 Intro
+3:42 Start
+20:55 Q: http1/2 server with upload/download file endpoint during live coding session? 🙏🙂 - Reii
+22:37 q:do you recommend compressing the files in flutter or doing it on the server - Juan Casas
+26:25 Q: How can we handle the state and with the best practice architecture for tons of feature apps? - Tushar Dubey
+31:10 Q: How does Android Studio compare to IntelliJ IDEA for Flutter Dev(Considering that the ultimate version is paid)? - Loïc Fonkam
+38:52 Q: How can we integrate Gemini with a local database and process accordingly? - Tushar Dubey
+39:24 Q: Had nested nav issue; take Scaffold > PopScope > Navigator. I only want to pop scaffold when inner nav has no backstack. How to update PopScope.canPop when the inner nav pops via Nav.of(ctx).pop() - Fré Dumazy
+41:40 q: What you think abou Supabase - Paulino Fonseca
+47:36 Q: Do you know any Figma plugin that can be use to parse flutter ThemeData from Figma Layer or Project? - Loïc Fonkam
+51:29 Q: Is using code generation in Flutter like for example using Riverpod, Freezed, and Retrofit through build_runner a good practice? Sometimes it feels like it’s no longer Flutter. - ebr Obaaood
+1:00:12 q: will flutter ever integrate a state management solution to replace riverpod/bloc etc? - Michael Dausmann
+1:03:40 Q: is there any proper way to run background service in ios platform - Hashan Kannangara
+1:06:16 Q1: Any good recommendation of an implementation of bidirectional streams (gRPC)? I am considering Serverpod but never used it. - Loïc Fonkam
+...Q2: I need to stream frames to server perform AI computation on each frames(ie camera stream) and Stream back modified frame to client in realtime. Considering gRPC, any easier alternative? - Loïc Fonkam
+1:10:36 Q: Any recommendation for cloud provider with access to GPU and pay as you go service? - Loïc Fonkam
+1:13:47 Q: Are there any specific libraries or tools recommended for Flutter developers who want to incorporate AI into their apps? - Jawad Alam
+1:15:07 Q: what would be an interesting challenge to test your knowledge in flutter ? - Train of Thought
+1:17:07 Q: How easy is it to improve the UI of an existing Flutter app without impacting the overall architecture or functionality? - Jawad Alam
+1:18:14 Q: Best way to make a Card() perfectly circular? - Alex Price
+1:20:43 q: how I build sleep tracking app and what package should I add - Arjun Singh
+1:22:25 q: if alert pop open which context it is taking when I pop back my provider class missed the context - Arjun Singh
+1:27:37 Q: what's about serverprod as back-end ? -Mohamed klila
+1:30:05 q: Can you talk about dependency inversion at runtime? - Paulino Fonseca
+1:32:17 Q2: does UnmodifiableListView is equivalent to fast_immutable_collections? - Niko Vassilis​
+1:35:00 Q: Follow up for PopScope/nested nav -> https://gist.github.com/d5ee19ce3caa850bb1b4c5ed28a05139 - Fré Dumazy 
+1:36:52 Live Coding: Updating PopScope based on inner Navigator  - https://gist.github.com/slightfoot/0bc4b3546d53bb2fae04ef4942defdca
+2:30:20 Live coding: Http/2 Server - https://gist.github.com/slightfoot/4a362928622730c4f43f99fabca89749
+3:02:31 Outro
