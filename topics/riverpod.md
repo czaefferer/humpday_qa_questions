@@ -1,3 +1,5 @@
+24-12-04 [36:00](https://www.youtube.com/watch?v=l2bnKvuhHe0&t=36m00s) Q: Why should riverpod notifiers should not have ui related stuff like text editing controllers,animation controllers ? - Shreeman Arjun Sahu  
+24-12-04 [32:03](https://www.youtube.com/watch?v=l2bnKvuhHe0&t=32m03s) Q: Quick poll for the hosts: Getx or Riverpod? What’s your preference and why? - Jawad Alam  
 24-11-20 [50:45](https://www.youtube.com/watch?v=ac-jiVa4FwY&t=50m45s) Q: I'm trying to build a chat with the new Riverpod v2 api. It works but I’m not sure it is the right way. Any advice on the following AsyncNotifier ? https://gist.github.com/9aa08921f97f5ec6dda4b8407d991239 - Jerbs  
 24-11-20 [1:16:43](https://www.youtube.com/watch?v=ac-jiVa4FwY&t=1h16m43s) Q-P1: Riverpod Author suggested movng from StateNotifer to Notifer or Async Noti. I’ve a mox of Sync& Async elements that putting them all in one notifier would mix things. - M. A.  
 24-11-06 [1:47:59](https://www.youtube.com/watch?v=txmWGhgPKuU&t=1h47m59s) Q: I'm using riverpod_generator and I need to pass a value into a provider without creating a family. How do I do this? - Matthew Jones  
