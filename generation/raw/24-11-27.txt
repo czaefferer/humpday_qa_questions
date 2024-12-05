@@ -1,0 +1,27 @@
+0:00 Intro
+2:37 Start
+22:01 Q: I am creating a dynamic PD using pdf package, I am getting too many pages exeception because of too many cells in a page. Please guide me how to fix this - Ashutosh Kapoor
+27:45 Q: Is it okay to use a FutureBuilder inside a build method? When I do, it seems the snapshot isn't ready for a lot longer than the async call really takes to complete. Maybe just slower in debug mode? - Will P
+31:12 Q: any news on the progress of macros? I have a library I'm working on that needs code generation, so would love to do it w/ macros. - Will P
+...Q: When will we get sumtypes and data classes in dart? - Amsakanna Chandramohan
+35:37 Q: Where should I use my file picker opens up the system dialog? UI layer or Infra layer? - Amsakanna Chandramohan
+39:06 Q: what are your feelings on AI code assistants with Flutter dev? I've tried Codeium but not really impressed. Any personal experiences? - Will P
+46:51 Q: I am very much into UI development using flutter, but I want to excel in backend stuff, how should I proceed - Ashutosh Kapoor
+54:18 Q: barrel files yes or no? I saw a discussion about this causing slowdowns in the IDE (like the analyzer taking 2/3 seconds while trying to use a code snippet) but this only happens in big projects. - Gonzalo Gauto
+1:00:16 Q: Is it good to have a shared package to export all the most commonly used utility packages like dartx, collection and consume it in other feature modules inside the same app? - Amsakanna Chandramohan
+1:02:01 Yo Si! I have a decent question for you guys. Have you guys got much experience working with the kinda pre-built pre-packaged ThemeForrest type of flutter applications that are available. - Dan Woodel
+1:08:03 About the new Flutter forum: https://forum.itsallwidgets.com/
+1:09:38 Q: Why is a constructor not const by default? - Amsakanna Chandramohan
+1:11:07 Q: I have a Column with a image and a button, the button color must be the major color in the image, I used pallete_generator but I took around 2 - 3 seconds which doesn't look good, any alternative? - Ashutosh Kapoor
+1:13:11 Q-P1: With the clean architecture that is used in most Flutter tutorials, and articles (Data [data sources impl, models, repo], Domain [entities, repo, usecase], ..etc). Is that considered MVC? - M. A.
+...Q-P2: If not, what it is? And how other archis will look like? Is there a reference book to learn these? - M. A.
+1:23:22 Q: is the concept Generative Ui Will be popular in the near or it hard to see? - Fathi Wehba
+1:24:00 Q: Union type or function overloading isn't in the Dart language funnel? How/where is things suggested? - Lis001
+1:25:12 Q: What do you recommend for handling a list of items and editing a single item? I am trying to avoid rebuilding the entire list if a single item changed. Maybe a general architectural approach - Jim
+1:27:08 Q: In app, after payment confirmation via a WebView redirect, my app doesn’t come to the foreground automatically. Users must manually reopen it to see the updated status. How to overcome this.. - Jawad Alam
+1:33:16 Q: is there any PKG for building maps like google map something graphical representations of building maps to navigation in likes in hospital big building like where is wash room where is emergency - Flutter Dev
+1:37:17 Q: Do you think that Flutter should continue to support Material and Cupertino and be tied to these two design systems instead of having a more barebone widget library which allows for customization? - Alexander Medinsh
+1:41:06 Or you could rephrase that as "Why is the implicit constructor not const? We have to write that empty constructor with a const keyword explicitly now. - Amsakanna Chandramohan
+1:42:45 Q: What happen when you past url on the browser, step by step, like in Navigator 2.0 i typed a url, and tried to catch it inside the RouteInformationParser methods but no matter what url is the  - El
+...routeInformation.uri.pathSegments is always empty - El
+1:45:32 Outro
