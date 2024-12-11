@@ -1,3 +1,4 @@
+24-12-11 [1:11:49](https://www.youtube.com/watch?v=hmXaXPEBVck&t=1h11m49s) Q: I am using riverpod and I want to call the fetchUserData Api in the main to get data on refresh, but I cannot use ref outside the consumer and can't use providerContainer, any alternatives? - Ashutosh Kapoor  
 24-12-04 [36:00](https://www.youtube.com/watch?v=l2bnKvuhHe0&t=36m00s) Q: Why should riverpod notifiers should not have ui related stuff like text editing controllers,animation controllers ? - Shreeman Arjun Sahu  
 24-12-04 [32:03](https://www.youtube.com/watch?v=l2bnKvuhHe0&t=32m03s) Q: Quick poll for the hosts: Getx or Riverpod? What’s your preference and why? - Jawad Alam  
 24-11-20 [50:45](https://www.youtube.com/watch?v=ac-jiVa4FwY&t=50m45s) Q: I'm trying to build a chat with the new Riverpod v2 api. It works but I’m not sure it is the right way. Any advice on the following AsyncNotifier ? https://gist.github.com/9aa08921f97f5ec6dda4b8407d991239 - Jerbs  
