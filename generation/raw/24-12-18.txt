@@ -1,0 +1,31 @@
+0:00 Intro
+3:32 Start
+14:40 Q: Is twitch active that mutch or i should switch to yt :>
+18:09 Q: What you guys thinking about the Decorators? - EronPlay
+23:58 Q: So it's my first humpday and that's why i am asking do we just ask questions in humpday or chit-chat? like i'll note questions if its like that
+24:41 About Dart workspaces
+27:47 Q: can we have a deep dive on BuildContext? - Smruti S. Ransingh
+33:21 Q: Will there be something like seperator within column or rows to have equi space between elements? - Sai Phaneesh K.H.
+34:38 Q: What about native interop ? How about live coding biometric android x to showcase native interop ? performance comparision with event channel ? - Shreeman Arjun Sahu
+36:02 Q: What are some effective resources for deepening understanding of BuildContext in Flutter, to help avoid common navigation and state management errors? - Smruti S. Ransingh
+38:26 Q: My layout Container>Column>Expanded>Stepper>Step>Column>Row>Column>Row>Flexible>FractionallySizedBox I keep getting error after felxible cause unbounded size.Any guide to help?Never understood it - M. A.
+49:48 About direct native access - puf
+56:29 Q: okay, but can I ask a question? - Mark Techson
+57:07 Q: Why do some people say firebase isn't great for enterprises, trash, is firebase only great for mvp's not suitable for prod apps. - Ayushman Tiwari
+1:04:33 Q: Is there a probability of having an out of the box high level state management solution coming with Flutter? Choosing an external state management solution doesn't seem convincing to me! - Sayed Mahmood
+1:09:39 Q: any favorite packages to show data in a bar/line chart? - Alex Price
+1:10:25 Q: I am getting this error while loading a network image from firebase, the link is valid, the file is downloading from browser but not showing in flutter web [object ProgressEvent] - Ashutosh Kapoor
+1:16:48 Q: in the didChangeDependencies, what is the dependencies? is it the things/values stored in the inherited widget? - Sai Phaneesh K.H.
+1:18:08 Q: Dart support in cloud functions is most requested feature. Will it be implemented? - Reinis Sproģis
+1:19:59 Q: Can you just take a look at this issue on flutter repo? i just faced that a moment ago. here is the issue id: 160511 - Free Entertaining
+1:24:35 Q: tips on creating an engaging exp in flutter - Ayushman Tiwari
+1:28:03 Q:How about improving Levenshtein distance calculation in repo `bddicken/languages/` .raised a pr #262 ? Live coding this will be fun ? - Shreeman Arjun Sahu
+1:28:52 Q. when running firebase init i want to use it in firebase emulator suite no spark plan activated - sudhanshu shaurya
+1:30:03 Q: Fixed puro error in a pr #92 but version not updated yet.need likes to make new version to update early?? - Shreeman Arjun Sahu
+1:32:03 Q: When I start a flutter app for web in profile mode, I don't have any extensions anymore, and all the preset like locations in location override are also gone. Any workarounds? - Reinis Sproģis
+1:33:44 Q: Can you pass dart ui and return ui.Image from isolate - Md.Yeasin Sheikh
+1:36:54 Can you guys explain this whole controversey around decorators? I don't understand all the hullabaloo. - Danny Ackerman
+1:38:24 Q: When will flutter web dom issue will be solved? - Ayushman Tiwari
+1:45:03 Code review: Game of Life
+1:58:17 Live coding: Drawing labels and dividers on each division in a Slider - Gist https://gist.github.com/slightfoot/332150c13cc48b2a2e50475a61b3198b
+3:06:54 Outro

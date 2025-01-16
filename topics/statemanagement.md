@@ -1,3 +1,5 @@
+24-12-18 [36:02](https://www.youtube.com/watch?v=kMVayNJwtsU&t=36m02s) Q: What are some effective resources for deepening understanding of BuildContext in Flutter, to help avoid common navigation and state management errors? - Smruti S. Ransingh  
+24-12-18 [1:04:33](https://www.youtube.com/watch?v=kMVayNJwtsU&t=1h04m33s) Q: Is there a probability of having an out of the box high level state management solution coming with Flutter? Choosing an external state management solution doesn't seem convincing to me! - Sayed Mahmood  
 24-11-06 [1:41:33](https://www.youtube.com/watch?v=txmWGhgPKuU&t=1h41m33s) cont. Q: Its flutter working in a new state managment. BloC, GetX, Riverpod... Are external. - EXONENT  
 24-11-06 [1:35:27](https://www.youtube.com/watch?v=txmWGhgPKuU&t=1h35m27s) Q: Its flutter working in a new state managment. BloC, GetX, Riverpod... Are external. - EXONENT  
 24-10-23 [1:00:12](https://www.youtube.com/watch?v=u1vv_9TgEvU&t=1h00m12s) q: will flutter ever integrate a state management solution to replace riverpod/bloc etc? - Michael Dausmann  
