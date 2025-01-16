@@ -1,0 +1,31 @@
+0:00 Intro
+2:32 Start
+6:19 Introduction David DeRemer from Very Good Ventures
+11:29 About Flutter 3.27.2
+13:44 Q: How to get a job in Flutter? - Scott
+22:06 Q: What do you expect in a first meeting with a customer spec-wise? - Scott
+29:21 Q: How would you handle a situation where clients request an update, but the timeline is insufficient, and there’s a risk of things breaking? - Flutter for Me
+38:18 Q: what is swoop and poop - forgivegod
+39:52 Q: what's the best argument(s) to deal with, shall we do it in react native Vs flutter debates. I often have to sell Flutter as a solution. - Lee higgins
+46:29 Q: what's the best way to find and hire flutter developers? - Lee higgins
+54:34 Q: Do you guys ever work on a project as partners because the idea is so good?  - Richard Rouzeau
+1:00:49 q: i have an ubuntu server running on a virtualbox on my machine, building flutter web app. Is it possible to host it on my server and all people to test it?  - solomon ondula
+1:05:30 Q: If I use AutoKeepAliveMixin within all of my items in my list, they will keep the state alive, will this lead to a bigger memory consumption then? So I will sacrifice more memory for performance? - Lucas Goldner
+1:08:16 Q: Thoughts about Adnroid XR and how flutter can contribute in it - Prince Thakur
+1:11:23 Q: Is there any roadmap one can use to master how to create custom widgets using render objects? - Peter Musembi
+1:12:57 Q: Local storage world feels a bit dry lately. Mostly the key value stores. Is drift the best option right now?? Or any suggestions? - Mostafijul Islam
+1:14:05 Q: Is there a reason why flutter left SVG handling to a third party package, and made devs create custom implementation to retrieve them remotely? Seems quite a popular thing not to bother with - Alex Price
+1:18:26 Q: For David. What database and authentication products do you use for mobile apps backend? Supabase, Appwrite, Firestore? - Marco Napoli
+1:18:47 Q: Do you guys know about FlutterFire? Why has it been more than five years that we’ve been waiting for production-ready desktop support, and there is still no clear roadmap ahead? - Oglethorpe
+1:22:56 Q. I am trying to call method channel in background but it is throwing error? - sudhanshu shaurya
+1:26:58 Q: Rendering a list of 10 items using ListView.Builder, If i want to update, let's say the 5th element in the list without rebuilding the whole list, how can i do that ? - Master Mb
+1:29:26 Q: how can we get more visibility on dart on the backend. we are doing some really amazing things with dart backends and ffi to c based tools. whisper.cpp, ffmpeg and llama.cpp. - Lee higgins
+1:30:16 Q: Having an ItemNotifier (offering CRUD operations) and a ItemsProvider how can I keep the entities in sync e.g ItemsProvider fetches Item 1 - 10 and ItemNotifier changes item3 they are out of sync - Dennis Schmidt
+1:33:42 Q: How do you get random list of documents from firebase? - Roberto
+1:36:38 Q: is there a reason listview.builder doesn't have spacing feature recently bought in 3.27 release? listview.seperated is not efficient as listview.builder and idk wrapping element with padding is ok - Sai Phaneesh K.H.
+1:38:46 Q: what is your suggestions on cropping an image in flutter web, i alway have problems with it, it's slow and buggy when it comes to a lil high quality images like more than 3MB - Free Entertaining
+1:39:42 Q: How to handle streams in dart isolates when app is terminated - Aady Goyal
+1:40:50 cont. Q: what is your suggestions on cropping an image in flutter web, i alway have problems with it, it's slow and buggy when it comes to a lil high quality images like more than 3MB - Free Entertaining
+1:47:27 noob in image processing, is there a way we can send this operation to GPU and get data back and just render the result? - Sai Phaneesh K.H.
+1:53:20 like what is the best way to get my app updated if any of my firebase collection gets updated and i want that data to get store in my app local database but app is terminated - Aady Goyal
+1:55:02 Outro
