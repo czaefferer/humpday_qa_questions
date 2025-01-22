@@ -1,3 +1,4 @@
+25-01-22 [52:53](https://www.youtube.com/watch?v=Xyb2u5grptA&t=52m53s) Q:Riverpod providers will have new names notifer to sync notifer and async to future and stream notifier ?Waiting for riverpod 3 ? - Shreeman Arjun  
 24-12-11 [1:11:49](https://www.youtube.com/watch?v=hmXaXPEBVck&t=1h11m49s) Q: I am using riverpod and I want to call the fetchUserData Api in the main to get data on refresh, but I cannot use ref outside the consumer and can't use providerContainer, any alternatives? - Ashutosh Kapoor  
 24-12-04 [36:00](https://www.youtube.com/watch?v=l2bnKvuhHe0&t=36m00s) Q: Why should riverpod notifiers should not have ui related stuff like text editing controllers,animation controllers ? - Shreeman Arjun Sahu  
 24-12-04 [32:03](https://www.youtube.com/watch?v=l2bnKvuhHe0&t=32m03s) Q: Quick poll for the hosts: Getx or Riverpod? What’s your preference and why? - Jawad Alam  

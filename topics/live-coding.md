@@ -1,3 +1,4 @@
+25-01-22 [1:50:51](https://www.youtube.com/watch?v=Xyb2u5grptA&t=1h50m51s) Live coding: Refactoring Healty happy pets homepage - https://gist.github.com/slightfoot/0a573044351c9be9d46ef936c18adb4e  
 24-12-18 [1:58:17](https://www.youtube.com/watch?v=kMVayNJwtsU&t=1h58m17s) Live coding: Drawing labels and dividers on each division in a Slider - Gist https://gist.github.com/slightfoot/332150c13cc48b2a2e50475a61b3198b  
 24-12-11 [1:30:00](https://www.youtube.com/watch?v=hmXaXPEBVck&t=1h30m00s) Live coding: Index for JSON Lines Database - https://gist.github.com/slightfoot/56ede853b42dd07584184215f7fcdd1c  
 24-12-04 [2:18:20](https://www.youtube.com/watch?v=l2bnKvuhHe0&t=2h18m20s) Live Coding: JSON Lines Database - https://gist.github.com/slightfoot/59b25ab7c775a5e5922fc1a5e87cd402  
