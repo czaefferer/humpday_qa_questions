@@ -1,0 +1,16 @@
+0:00 Intro
+2:03 Start
+7:33 Danielle about Flutteristas Conference
+18:48 About discontinued macro development - https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12
+34:32 Q: Hello what's your thought on android xr and its future with flutter ? - Aady Goyal
+38:29 Q: what is the major difference between impeller and skia, i just realized that its the new flutter engine this week. - solomon ondula
+45:51 q: how to make layer that floting in background mode like google map - Arjun Singh
+51:28 Q: What type of Docker setup / Github actions would you recommend for a Flutter project, trying to ensure less errors before being pushed to production. - JohnnyFanta
+57:34 Q: I have heard that jnigen is quite stable. How about live coding? - Reii
+58:09 Q: Do you know a good epub library that is available for all platforms? Or do you know if it would be hard to create such a library in Dart? - Reii
+1:05:28 Q: How can I ensure my Flutter attendance app always gets the correct time, even if the user changes their device time? - Muhammad Omer
+1:09:04 Q: is there any database records of all the Q&A livestreams transcripts with index ? - Rachit Mukherjee
+1:10:39 ​so solution here is to use server time ? and what of the timezone i didnt get that part can you please explain that ? - Train of Thought
+1:13:28 Q: In Flutter project, asset images and network images load at the same time. Shouldn't asset images load faster? - Muhammad Omer
+1:17:05 Live coding: Reinventing the navigator/router - https://gist.github.com/slightfoot/28ad9f403be22581375ef598b3122c02
+2:35:19 Outro
