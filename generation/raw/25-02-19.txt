@@ -1,0 +1,23 @@
+0:00 Intro
+3:32 Start
+15:20 Q: In version 3.29 why did they remove the const constructors and the trailing comma? - Flutter Coding
+17:00 About Dart 3.7 and Flutter 3.29
+1:13:16 Q: What is the most elegant way to implement responsive font sizes in an app while always using Theme.of(context).textTheme.titleMedium, etc., for consistency? - David
+1:18:32 Q: is flutter going to support multiple programmimg languages in the long future? that will be cool ,a language agnostic framework! - nested
+1:20:02 Q: Why do you think this Flutter "Production Era" came with a lot of breaking changes when the name suggest "stabler versions"? - Niko Vassilis
+1:25:50 Q: How do I transfer data between a Flutter Windows app and an Android app? I found Quick_USB, but it's 2 years old—any advice? - Train of Thought
+... transfer data from windows flutter app to flutter android app using usb, where do i start with writing a package ? - Train of Thought
+1:32:20 Q: DDD architecture or MVVM which is most adaptive in market - Arjun Singh
+1:38:22 Q: easy way of rounding off an arc in custom painter so it's like a sausage instead of a rainbow? - Jim Dave
+1:40:01  Q: What is your experience with flutter stripe? From info on pub I assume it is an official package, but is fairly popular. Is it production ready? - Lukas Simon
+1:48:00 Q: i know its asked a lot of time but please in 15 words fvm vs puro? which is reliable? - Aman Ali
+1:49:48 Q: package is not compatible with runtime wasm. Because dart:io is being used in flutter_inappwebview & we're using flutter_inappwebview as a dependency in our package. How can we get rid of this? - Master Mb
+1:55:07 Q: Do Dart threading changes mean it's easier to communicate between Flutter and native? Are isolates still used? - Joshua Boltz
+1:55:25 Q: I have an exception from a gRPC client stop my UI and bubble up to the debugger, even though it's in a AsyncValue.guard. also try-catch around it doesn't stop it. awaiting it too. any ideas? - Dustlay
+1:57:50 Q: Already using flex and expand and screen util to make responsive ? How to handle device pixel ratio handling as user manuall setting it in desktop ? - Shreeman Arjun
+1:59:40 Q: A way of connecting devices within the same WiFI network. Should then be able to share data in realtime. Connection should be active for a long time, probably around an hour. Any leads? Any repos? - Hope Kagame
+2:01:30 Q: Its really better to design for mobile because of mostly linear vertical design but in desktop its like grid. Any suggestion for that to make desktop app,which resizes to any screen directly ? - Shreeman Arjun
+2:03:05 Q: But the user some time resize with window height and width but i am not able to resize with aspect ratio - Shreeman Arjun
+... Q: Yes with aspect ratio. They need the ui to fit any screen or monitor with any resolution . - Shreeman Arjun
+... Q: I tried with layout builder but sometime it not able resize vertical and horizontal list with maintaining same aspect ratio. I am using responsive_framework which supports responsive resizing . - Shreeman Arjun
+2:09:10 Outro
