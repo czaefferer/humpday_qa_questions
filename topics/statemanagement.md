@@ -1,3 +1,4 @@
+25-02-26 [47:46](https://www.youtube.com/watch?v=wn_g2Z6RaZ8&t=47m46s) Q: How can I counter the argument that native state management (e.g., ValueNotifier, ChangeNotifier) is better because third-party packages may be discontinued? - Momshad Dinury  
 24-12-18 [36:02](https://www.youtube.com/watch?v=kMVayNJwtsU&t=36m02s) Q: What are some effective resources for deepening understanding of BuildContext in Flutter, to help avoid common navigation and state management errors? - Smruti S. Ransingh  
 24-12-18 [1:04:33](https://www.youtube.com/watch?v=kMVayNJwtsU&t=1h04m33s) Q: Is there a probability of having an out of the box high level state management solution coming with Flutter? Choosing an external state management solution doesn't seem convincing to me! - Sayed Mahmood  
 24-11-06 [1:41:33](https://www.youtube.com/watch?v=txmWGhgPKuU&t=1h41m33s) cont. Q: Its flutter working in a new state managment. BloC, GetX, Riverpod... Are external. - EXONENT  
