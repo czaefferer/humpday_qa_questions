@@ -1,0 +1,21 @@
+0:00 Intro
+3:27 Start
+13:56 Q: Any other fun books on Simon's bookshelf? - Lane Hogan
+18:53 Q: Any experience with FVM and IntelliJ? It still seems to be missing good support when it comes to switching Flutter versions 🤔 (need to manually update via Settings > Lang & Frameworks) - Fré Dumazy
+23:45 Q: question in gist https://gist.github.com/ef1d73f4767c6cda758726fa34679e6b - Michael Maitlen
+29:48 q: Can anyhow it's possible to host multi flutter applications in single flutter website based on navigation url it get that assets , files or  bundle form cloud Firebase or aws and host accordingly - Arjun Singh
+33:11 Q: When updating Flutter/Android projects, how important is it for Android build files to have "kts" file extension? can I just rename the existing build.gradle and settings.gradle files? - Michael Maitlen
+40:09 Q : If flutter is a single thread framework , why cant we change/access ui from an isolate . if its all done in single (main/ui ) thread . I may be completely wrong , please guide thanks !!!  - The Chromic Journey 
+...Q: so this migration is good? Like for performance and all? - Rutvik
+52:53 Stef about Flutteristas Conference https://www.youtube.com/watch?v=ftTXXAx8AxM
+1:00:39 Q: ByteDance just announced Lynx, their native cross-platform technology . YYour take on performance ? - Shreeman Arjun
+1:07:07 Q: how can we load say the googlemap api key from a env file instead of hardcoding it in androidmanifest.xml, appDelegate.swift or info.plist ? - SSamrat
+1:09:05 Q: Any idea how I can make my border radius smoother? https://gist.github.com/f50e7fbc4db613ff098f8c24adfdcc2e I re-implemented the jspr hover animation but the edges of my border are a bit blurry. - Philippe Makzoume
+1:19:14 Q: i have video and it is long like 10 mins for ex.. how i can generate thumb for it smoothly? I have seen some apps doing it… - Rutvik
+1:23:08 Q: What is your opinion about 3.29 version ? This version's hot reload is not working. - Ranjit Shrestha
+1:26:44 Q: 1, Is there is good dart orm available for the backend? - Prashant Nigam
+...Q: 2, I tried orm (prisma) but the problem is we need to write all schema in one file only and the generated code is too long with only 4 tables and the generated file exceeds more than 1.5 MB. - Prashant Nigam
+1:29:06 Q: how to run specific screen of flutter on another activity instead of main activity - Flutter Crew
+1:31:04 Q: how can i show the camera feed of one phone on another phone, and maybe use one as primary device for recording or photos from both, any packages i can use ? - SSamrat
+1:34:59 Question: I'm having this weird issue in my Flutter app on iOS where, when coming back from the background, often there are lots of icons/images missing. What causes that? How can I fix that? - Danny Ackerman
+1:39:30 Outro
