@@ -1,3 +1,4 @@
+25-03-26 [1:45:13](https://www.youtube.com/watch?v=HVMXJTxEDnw&t=1h45m13s) live coding: Exploring forms and refactorings - https://gist.github.com/slightfoot/f28b65d3a2dca285fa367d8df453f2fa  
 25-02-26 [1:51:47](https://www.youtube.com/watch?v=wn_g2Z6RaZ8&t=1h51m47s) Live coding: Refactoring screen transition - https://gist.github.com/slightfoot/c6b744a2baf0f6378fbb8d41880c4c95  
 25-02-05 [1:17:05](https://www.youtube.com/watch?v=894TQwZ8V0o&t=1h17m05s) Live coding: Reinventing the navigator/router - https://gist.github.com/slightfoot/28ad9f403be22581375ef598b3122c02  
 25-01-22 [1:50:51](https://www.youtube.com/watch?v=Xyb2u5grptA&t=1h50m51s) Live coding: Refactoring Healty happy pets homepage - https://gist.github.com/slightfoot/0a573044351c9be9d46ef936c18adb4e  

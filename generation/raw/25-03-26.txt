@@ -1,0 +1,28 @@
+0:00 Intro
+3:19 About Fluttercon USA
+4:14 Start
+9:59 About Gemini
+17:19 Q: 1/1 In custom widgets that take dependencies such as user ids I see ref watch a lot of times in the build methods - Negan
+...Q: 3/3 This made me create wrapper widgets where the ref watch happens that only return the actual widget with the said dependcy. Is this best practice? - Negan
+...Q: 2/3 I believe it's better to pass the dependency via the constructor to stay independent of Riverpod etc. - Negan
+22:26 Q: How can we make a RadialGradient as smooth as butter? https://gist.github.com/a368468fcf3a981418368717ff77ba8b - Md.Yeasin Sheikh
+29:04 Q: what is the major difference between material button and elevated button, do we really need to have both if they do similar things - solomon ondula
+30:51 Q: can i use one signal in flutter flow but with supabase instead of firebase? - Muqtada
+33:02 Hey Simon, could you share a book recommendation at the end of every Q&A  - The Chromic Journey 
+35:40 Q: Is Impeller on android production ready? I got+reported an Impeller crash on a low-end 2020 model GPU (Adreno 308). 3.29.0 -> 3.29.1 hotfixed it, but it feels like Impeller isn't 100% for prod? - Will P
+43:36 Q: As setState() rebuilds the whole widget and children widgets. What is you recommended way to handle ephemeral state on complex widgets? - Niko Vassilis
+58:41 Q: How is flutter different from jetpack/swiftui? they feel they work similar, so does native platform have any advantage in UI things? over flutter? if so how can we write better flutter code? - Sai Phaneesh K.H.
+1:04:17 Q: one animation controller with multiple children listening to shimmer themselves? or multiple animation controllers for each shimmering widget? - Jim Dave
+1:05:43 Q: Not an flutter related query, but I started in 2021 and only did flutter now I'm in a hitch I'm not super good like knowing everything in depth of flutter framework, nt grt with DSA, neither native - Tech Studio
+...so suggest me something I'm always confused should I start Web3, Native, JS what what not...rust? - Tech Studio
+1:12:59 Q: when i have a large text inside a text widget I facing issues with rendering the screen its taking a time and skipping frames. How can I fix this problem? - AZEEZ / عزيز
+1:17:51 Q: Why const widget working weirdly in newer flutter version? i have enabled const lints with fixesthen my app performed better than previous ? const widgets are not caching i think ,rebuilds still? - Shreeman Arjun
+1:19:15 Q: if have a monorepo each folder of the package need to have the same name as the package name? AI said possible problems, like package name some_prefix_flutter_hooks i want folder name flutter_hooks - Dev
+1:20:48 Q:Provider got new version with increase no of providers you can use ? Whats you view on purposed 3.0 syntax for riverpod for mutation or sync and async provider the base provider only ? - Shreeman Arjun
+1:23:42 Q: Whats your approach for testing app? I think unit testing are not needed if you do Widget Testing , right ? - Shreeman Arjun
+1:26:19 Q: For classes I use freezed and add fromMap and toMap methods that convert docSnapshots into instances. I manually do these methods especially for converting fs timestamps into datetimes.Better ways? - Harald Lesch
+1:30:07 Q: I want to learn how to create complex graphs like the trading view charts library, zooms, scrolls, custom draws, shapes, which should I learn, I know state-less/full but don't know how to start. - Dev
+1:35:45 Q: What is the best way to expose FlowPaintingContext for CustomPaint/canvas; so that I don't have to wrap it or use CustomPainter as a child? experimenting https://gist.github.com/4aec50b1ae3d2d56f8b881dcb00d96e9 - Md.Yeasin Sheikh
+1:38:36 Rafal about his Html to Jaspr Converter
+1:45:13 live coding: Exploring forms and refactorings - https://gist.github.com/slightfoot/f28b65d3a2dca285fa367d8df453f2fa
+3:11:18 Outro

@@ -1,3 +1,4 @@
+25-03-26 [30:51](https://www.youtube.com/watch?v=HVMXJTxEDnw&t=30m51s) Q: can i use one signal in flutter flow but with supabase instead of firebase? - Muqtada  
 25-03-05 [29:48](https://www.youtube.com/watch?v=u4s-2g5HWHA&t=29m48s) q: Can anyhow it's possible to host multi flutter applications in single flutter website based on navigation url it get that assets , files or  bundle form cloud Firebase or aws and host accordingly - Arjun Singh  
 25-01-22 [1:15:42](https://www.youtube.com/watch?v=Xyb2u5grptA&t=1h15m42s) Q: Firebase is deprecating Dynamic Links. What’s the best alternative for deep linking? - Zohaib  
 25-01-15 [1:53:20](https://www.youtube.com/watch?v=G_1lJYPx7ak&t=1h53m20s) like what is the best way to get my app updated if any of my firebase collection gets updated and i want that data to get store in my app local database but app is terminated - Aady Goyal  
