@@ -1,0 +1,18 @@
+0:00 Intro
+3:50 Start
+12:52 Q: can a page view widget size itself to its tallest child? Considering the builder and lazy loading.. I’m currently using a hardcoded height for that but it doesn’t respond well with font scaling - James Nocentini
+15:03 Q: I saw that IntrinsicHeight is considered expensive in Flutter, and I’ve been struggling to find a responsive, performant alternative for mobile layouts. - Sebastian Dwornik
+17:04 cont. Q: can a page view widget size itself to its tallest child? Considering the builder and lazy loading.. I’m currently using a hardcoded height for that but it doesn’t respond well with font scaling - James Nocentini
+38:56 Q: What are the common mistakes should be avoided in Flutter to prevent memory leaks? - Abdelkbir Khouilid
+53:02 Q: What is the best way to download a file using the http package and save it in the public Downloads folder on Android, without needing the MANAGE_EXTERNAL_STORAGE permission? - Muhammad Omer
+56:50 Q: Scrolling to the bottom of a ListView is it possible to keep scrolling continuously on to an DraggableScrollableSheet or need custom sliver? - Crooket
+1:03:56 Q: How do you debug a page that seems to be rebuilding itself too often causing sluggish performance? - Sebastian Dwornik
+1:07:19 Q: What do you think the issues were with Macros? I don't think it was that bad - Free Entertaining
+1:11:18 Q: On Android and iOS, how do you designate a downloaded file as the app's cache which can be cleared by the user? - Richard Rouzeau
+1:13:52 Q: I am using gorouter in my flutter web project, when I do context.pop on page 2, I get back to the page 1, but when I go back again with browser button then I am landed back to the page2 . ANy fix? - Ashutosh Kapoor
+1:15:16 Q: does the flutter sdk have all the necessary files for running the project, i see much of the android part is in external libraries section in android studio, is there any documentation on this - SSamrat
+1:17:22 Q: what’s your favorite thing you’ve built with flutter so far and why? - Chris Frazier
+1:22:12 Like there is a scenario, I clicked on logout button and got navigated to '/', now I want to clear all the previous routes, how to do it - Ashutosh Kapoor
+1:24:04 Stef about Flutteristas Conference - https://flutteristas.org/
+1:27:43 Searching for talks about 3D in Flutter
+1:33:27 Outro
