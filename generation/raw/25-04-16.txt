@@ -1,0 +1,9 @@
+0:00 Intro
+3:44 Start
+11:10 About Dart conversations podcast - https://www.youtube.com/watch?v=AUxzwxAlA_s
+14:12 About upcoming Vibe coding streams
+20:18 Live coding: Canceling a future
+51:54 Q: How can we listen to the PrimaryScrollController for an Offstage widget? https://gist.github.com/b154278365c994395e61c75d4ee1cbb8  - Md. Yeasin Sheikh
+1:01:34 Q: How would you guys implement a feed scroll that would retain the current scroll offset after inserting new items at the beginning of the list? - Cosmin-Mihai Bodnariuc
+1:37:56 Q: Do you know any tool to measure/debug Flutter web performance. I joined a project where I am tasked with investigating why the app is using so much memory. - Reii
+1:43:52 Outro
