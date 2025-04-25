@@ -1,3 +1,5 @@
+25-04-23 [2:40:01](https://www.youtube.com/watch?v=XRuKywXD7zM&t=2h40m01s) Live coding: Deferred loading - https://gist.github.com/slightfoot/0761038ed3afeb3aa899646d5a1c60b5  
+25-04-23 [1:32:33](https://www.youtube.com/watch?v=XRuKywXD7zM&t=1h32m33s) Live coding: Localizations  
 25-04-16 [20:18](https://www.youtube.com/watch?v=CgiIh96C2DI&t=20m18s) Live coding: Canceling a future  
 25-04-09 [1:10:17](https://www.youtube.com/watch?v=LddUVHziMaM&t=1h10m17s) Live coding: Mocking an API - https://gist.github.com/slightfoot/07f126b2a15b898c03f5479d8cbdaabe  
 25-03-26 [1:45:13](https://www.youtube.com/watch?v=HVMXJTxEDnw&t=1h45m13s) live coding: Exploring forms and refactorings - https://gist.github.com/slightfoot/f28b65d3a2dca285fa367d8df453f2fa  
