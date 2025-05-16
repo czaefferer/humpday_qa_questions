@@ -1,3 +1,4 @@
+25-05-14 [53:29](https://www.youtube.com/watch?v=D9y5G3LmrSY&t=53m29s) Live coding: Custom Scrolling Offsets - https://gist.github.com/slightfoot/7f9fc1f64d305bb9653f8613d8372048  
 25-05-07 [1:54:29](https://www.youtube.com/watch?v=CqmhwUnesvQ&t=1h54m29s) Live coding: MVPVMS pattern - https://gist.github.com/slightfoot/a910d472a123e315d9f7af08018ec5b7  
 25-05-07 [1:27:27](https://www.youtube.com/watch?v=CqmhwUnesvQ&t=1h27m27s) Live coding: Testing dot-shorthand experimental feature  
 25-04-23 [2:40:01](https://www.youtube.com/watch?v=XRuKywXD7zM&t=2h40m01s) Live coding: Deferred loading - https://gist.github.com/slightfoot/0761038ed3afeb3aa899646d5a1c60b5  

@@ -1,0 +1,11 @@
+0:00 Intro
+2:25 Start
+12:00 Roman about FlutterConf LATAM '25
+31:48 Q: Why does a widget having shadow/elevation when put in a ListView that extends width of the device, shadows behave/render differently. How to resolve the issue - Bhavesh Mankar
+34:22 Q: Could you show an example of MVVM in Flutter using built in state management solutions? (live coding/at end) - Lane Hogan
+35:18 Q P1)Using Flutter as a module in a native app.When run from native side, hot reload/restart doesn’t work.But running standalone fails due to platform channels in flutter module needing native context - Moin Sarvaiya
+... Q P2) I run flutter module, generating .android and .ios folder which doesn't contains plugin permissions, and config, How can I use hot reload smoothly with Flutter module setup? - Moin Sarvaiya
+44:36 Q: building an app but my client is struggling to install flutter and test it. I was thinking of docker but not sure how to set it up, could you guide so that they can test it when i make changes - solomon ondula
+53:02 Q: Are you going to attend FlutterConf Latam? - Daniel Coyula
+53:29 Live coding: Custom Scrolling Offsets - https://gist.github.com/slightfoot/7f9fc1f64d305bb9653f8613d8372048
+2:11:25 Outro
