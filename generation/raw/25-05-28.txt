@@ -1,0 +1,19 @@
+0:00 Intro
+2:39 Start
+8:50 About Google I/O and Flutter 3.32
+1:07:48 Q: Craig if you can help move multi window to flutter/flutter ? - KISHAN RATHORE
+1:09:37 [Q] Any ideas why the debugger from the DevTools is in maintenance mode? - Pako St
+1:15:19 Q: With tools like Cursor and Claude emerging, how do you see their impact on junior devs' job prospects? - Negan
+1:20:57 Q: There are 1000 fields i am rendering through switch . but some fields are not rebuilding if i have not given a key to the widget. - Shreeman Arjun
+1:22:45 Q: I know canonical team and knopp is working on multi window API, but any idea on timeline ? - KISHAN RATHORE
+1:23:16 Q:As a full-time Flutter developer aiming to grow into a senior role, what skills, tools, or areas should I focus on to accelerate my career progression? - Train of Thought
+1:28:27 Q: any cool I/O freebies gifts? I still got my Samsung s tab around here - forgivegod
+1:32:50 Q: why the dart team discontinue dart macros project - Hashan Kannangara
+1:34:32 Q: Will we continue with the scroll position preservation thing? - 0x00FF00 (Verde)
+1:34:47 Q:1000 fields for betting game.where user can input on any number bet field there so - Shreeman Arjun
+1:36:46 Q:my client wants my 1366x 768 up design to be fit in any desktop betting game screen with variable display size. Still not able to figure out how to fit with resolution using fitted box/aspect ratio - Shreeman Arjun
+1:38:32 About RoundSuperellipse
+1:56:14 Q: How can we have same text struct on RichText Widget?gist https://gist.github.com/07d846bbbef4c8a39c4748ae999cfde1 - Flutter for Me
+2:11:24 Q: anyone know what happened to the default lint rule for adding const everywhere possible? - David
+2:17:57 Q: Will we continue with the scroll position preservation thing? - 0x00FF00 (Verde)
+2:48:33 Outro
