@@ -1,0 +1,25 @@
+0:00 Intro
+3:39 Start
+19:35 About iOS 26 beta 3
+28:52 Q: Is flutter_env secure? I’ve seen many people complain that it’s not secure and that hackers can easily expose sensitive information. Can you explain if this is true and suggest a better approach? - FLUTTER UNIVERSE
+35:24 Q: Who is “Flutter Universe” and “Forgivegod”? - Stef Patterson
+35:51 Q: is there any way to run flutter on old android versions like android 4.0 - Raghav Shukla
+40:32 Q: General question about embedded flutter. What’s involved in getting it on different devices (like single board computers, tvs etc?) - Calan M
+43:40 Q: flutter shows density independent pixels but there's always 2 px difference in figma UI and flutter UI design, is there any way to match flutter with figma without using plugins like screenutil - Raghav Shukla
+48:41 Q: What upcoming features or changes in Flutter are you eager to see? - dishank dev
+55:15 Q: Hi everyone, does anyone have an example of File Drag and Drop? What is needed to achieve this, and what would be the recommended steps or approach? Thank you! - Jeanmartin Pachas Villa
+58:27 Q:It is said that Flutter will no longer be supported on iOS 26. What can you say about this? - tfarceniM
+59:18 Q: I have a row and text widget to the left and OverflowBar to the right. I put both in a Flexible. but when i resize screen the buttons starts to Wrap even tho they are not close to the text widget. - Roberto
+1:00:40 Q: Trying t reduce spacing between my navigation bar but no luck so far, please help and any advise on this gist: https://gist.github.com/e67e6a05261387f9e28a6edcbe13940a - solomon ondula
+1:04:59 Q: Had anyone used flutter in LG tv so far? how was your experience? - dishank dev
+1:07:01 Q: How to define material theming..so that the colours dynamically change based on the Wallpaper colours, similar to Google apps - Hope Kagame
+1:08:41 Q: How you manage flutter version in your pc when you have multiple project that require different version? - Rifqi Restu Fauzi
+1:09:45 Q: any known companies who are using embedded flutter in car instrument clusters, or fridge screen etc? - dishank dev
+1:10:40 Q: Is there any way dart can communicate to language like c,kotlin/java,swift/obj c like Kotlin can in near future ? Is native assets will help in this case? - Shreeman Arjun
+1:11:35 Q: whats the diffrence between flexible and expanded widgets? - FLUTTER UNIVERSE
+1:13:29 Q: Are Material and Cupertino ever gonna be separated from Flutter (like Fluent UI) for faster updates? - Hope Kagame
+1:15:46 Q: what´s do you thinking about flutter_modular? - Guilherme
+1:18:43 Q:Thanks randal .used puro and also made a pr that successfully merged . Thanks for the best suggestion . - Shreeman Arjun
+1:19:05 Q: any opinion on LEGO architecture from TIDE - dishank dev
+1:25:13 Live coding: Stack Canvas - https://gist.github.com/slightfoot/2f1fb7aa3fb7c78dfc1f06ad94ad1764
+2:55:18 Outro
