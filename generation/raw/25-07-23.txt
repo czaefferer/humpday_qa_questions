@@ -1,0 +1,23 @@
+0:00 Intro
+2:46 Start
+5:45 About WebParagraph
+10:16 Q: How would you layout a column of dynamic widgets, in a "space-between" way, but with a minimum space between and make it scrollable when it doesn't fit the screen - Fré Dumazy
+25:20 Matthew about his mind-controlled Flutter App
+30:34 q: i set app icons from android new image asset but from today no icon is generated - Arjun Singh
+32:52 Q: In Rust We Trust, Simon where did you get Ferris mascot ? 🙂 - Rafal Wachol
+34:47 q: How can I disable all buttons or user interactions in my Flutter app, similar to kiosk mode?" - Bir Mehto
+37:29 Q: http library has recently added AbortableRequest. Is there any way to use this in the dio library or do I have to wait until they implement this as well? - Reii
+38:17 Back to my question earlier, got it to work in Dartpad and made a gist here: https://dartpad.dev/9105317e79fc68fcb363cf3039efc684 - Fré Dumazy
+40:52 What's your thoughts about AI to generate dart / flutter code? - Dhaval Parmar
+43:52 Q: What is the best agent for IntelliJ? - Flutterfly
+44:35 Q: Why doesn't the number pad on iOS show a 'Done' button by default in Flutter, and how can I add one to dismiss the keyboard? - Vyankatesh Rathod
+48:03 cont. Live coding: Stack Canvas
+1:00:05 Q: How can my app announce a message from a notification payload on iOS and Android when the phone is locked and the app is in the background, like RaceJoy does? - Aman Ali
+1:05:51 How to make webview more secure for mobile apps while using it for payment gateways? - Dhaval Parmar
+1:07:05 Does flutter on android support services in background like Android kotlin? - brian
+1:13:27 Q: theres a new predictive back gesture on android 16 , will it work on flutter out of the box ? - SSamrat
+1:15:55 Q: What is better? dart_define or variables from .env file? - Dhaval Parmar
+1:16:43 I saw in Google IO that Flutter can now do things like that without going to write Kotlin or Swift code, is it out yet on stable? - brian
+1:22:10 Q: why there is any package to deal with Apache Kafka - Yasser Mahmoud
+1:24:19 Live coding: Stack Canvas - Part 2 - https://gist.github.com/slightfoot/5ec2d490f95e6d6aacbdb903e83039fc
+2:11:42 Outro
